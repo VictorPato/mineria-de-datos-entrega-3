@@ -2,6 +2,7 @@
 ## cambiar esta linea al path del .csv
 ## si se mantiene la estructura de carpetas del repositorio, basta con 
 ## dejar el working directory en la ubicacion de este archivo
+library(readr)
 videogames <- read_csv("../data/Video_Games_Sales_as_at_22_Dec_2016.csv")
 
 # se eliminan las filas que tengan NA (quedan aprox 7000 resultados)
@@ -50,4 +51,4 @@ popular_publisher = aggregate(counter ~ Publisher,popular_publisher,FUN=sum)
 popular_publisher = popular_publisher[order(popular_publisher$counter,decreasing = T),]
 reduced <- reduced[reduced$Publisher %in% popular_publisher[1:n,]$Publisher,]
 #### Descomentar siguiente linea para exportar el dataset
-write.csv(reduced, file = "data.csv")
+write.csv(reduced, file = "../data/data_para_clasificadores.csv")
