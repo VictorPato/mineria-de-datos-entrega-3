@@ -1,0 +1,2349 @@
+"","Platform","Genre","Publisher","Global_Sales","Critic_Score","Rating","Is_Fiasco"
+"1","X360","Misc","Microsoft Game Studios",21.81,61,"E",FALSE
+"2","PS3","Action","Take-Two Interactive",21.04,97,"M",FALSE
+"3","PS2","Action","Take-Two Interactive",20.81,95,"M",FALSE
+"4","X360","Action","Take-Two Interactive",16.27,97,"M",FALSE
+"5","PS2","Action","Take-Two Interactive",16.15,95,"M",FALSE
+"6","PS2","Racing","Sony Computer Entertainment",14.98,95,"E",FALSE
+"7","X360","Shooter","Activision",14.73,88,"M",TRUE
+"8","X360","Shooter","Activision",14.61,87,"M",TRUE
+"9","PS3","Shooter","Activision",13.79,83,"M",TRUE
+"10","X360","Shooter","Activision",13.67,83,"M",TRUE
+"11","X360","Shooter","Activision",13.47,94,"M",TRUE
+"12","PS3","Shooter","Activision",13.32,88,"M",TRUE
+"13","PS2","Action","Take-Two Interactive",13.1,97,"M",FALSE
+"14","PS3","Shooter","Activision",12.63,88,"M",TRUE
+"15","X360","Shooter","Microsoft Game Studios",12.12,94,"M",FALSE
+"16","PS2","Racing","Sony Computer Entertainment",11.66,89,"E",FALSE
+"17","X360","Action","Take-Two Interactive",11.01,98,"M",FALSE
+"18","PS3","Racing","Sony Computer Entertainment",10.7,84,"E",FALSE
+"19","PS3","Shooter","Activision",10.6,94,"M",TRUE
+"20","PS3","Action","Take-Two Interactive",10.5,98,"M",TRUE
+"21","X360","Shooter","Activision",10.25,73,"M",TRUE
+"22","X360","Shooter","Microsoft Game Studios",9.86,91,"M",FALSE
+"23","X360","Shooter","Microsoft Game Studios",9.71,87,"M",FALSE
+"24","PS3","Shooter","Activision",9.36,71,"M",TRUE
+"25","X360","Shooter","Activision",9.31,94,"M",FALSE
+"26","XB","Shooter","Microsoft Game Studios",8.49,95,"M",FALSE
+"27","PS3","Action","Electronic Arts",8.16,88,"E",TRUE
+"28","PS2","Role-Playing","Sony Computer Entertainment",8.05,92,"T",FALSE
+"29","PC","Simulation","Electronic Arts",8.01,86,"T",FALSE
+"30","X360","Shooter","Activision",7.38,84,"M",FALSE
+"31","X360","Shooter","Electronic Arts",7.32,84,"M",FALSE
+"32","PS2","Racing","Electronic Arts",7.2,85,"E",FALSE
+"33","PS3","Shooter","Electronic Arts",7.17,85,"M",FALSE
+"34","PS2","Racing","Electronic Arts",6.9,82,"E",FALSE
+"35","PS2","Shooter","Electronic Arts",6.83,88,"T",FALSE
+"36","X360","Shooter","Microsoft Game Studios",6.75,93,"M",FALSE
+"37","PS3","Action","Sony Computer Entertainment",6.74,92,"T",FALSE
+"38","PS3","Shooter","Activision",6.68,94,"M",FALSE
+"39","PS3","Action","Sony Computer Entertainment",6.66,96,"T",FALSE
+"40","PS3","Action","Take-Two Interactive",6.49,95,"M",FALSE
+"41","PS3","Sports","Electronic Arts",6.47,86,"E",TRUE
+"42","PS3","Action","Ubisoft",6.45,85,"M",FALSE
+"43","XB","Shooter","Microsoft Game Studios",6.43,97,"M",FALSE
+"44","PS2","Role-Playing","Sony Computer Entertainment",6.4,85,"E",FALSE
+"45","X360","Shooter","Microsoft Game Studios",6.34,83,"M",FALSE
+"46","X360","Action","Take-Two Interactive",6.32,95,"M",FALSE
+"47","PC","Role-Playing","Activision",6.29,93,"T",TRUE
+"48","X360","Shooter","Microsoft Game Studios",6.21,91,"M",FALSE
+"49","X360","Sports","Microsoft Game Studios",6.19,73,"E10+",FALSE
+"50","X360","Shooter","Microsoft Game Studios",6.09,94,"M",FALSE
+"51","PS2","Action","Konami Digital Entertainment",6.05,96,"M",FALSE
+"52","PS3","Action","Konami Digital Entertainment",5.99,94,"M",FALSE
+"53","PS3","Platform","Sony Computer Entertainment",5.82,95,"E",TRUE
+"54","PS3","Action","Ubisoft",5.55,91,"M",FALSE
+"55","X360","Adventure","Ubisoft",5.54,81,"M",FALSE
+"56","X360","Racing","Microsoft Game Studios",5.49,92,"E",FALSE
+"57","PS3","Shooter","Activision",5.39,85,"M",FALSE
+"58","X360","Action","Ubisoft",5.29,84,"M",FALSE
+"59","PS2","Role-Playing","Electronic Arts",5.29,85,"T",FALSE
+"60","X360","Action","Ubisoft",5.26,90,"M",FALSE
+"61","PS2","Sports","Electronic Arts",5.23,94,"E",FALSE
+"62","X360","Action","Electronic Arts",5.16,90,"E",TRUE
+"63","PC","Role-Playing","Activision",5.14,88,"M",TRUE
+"64","PS2","Shooter","Electronic Arts",5.13,68,"T",FALSE
+"65","X360","Role-Playing","Microsoft Game Studios",5.1,80,"M",FALSE
+"66","PS3","Sports","Electronic Arts",5.07,89,"E",FALSE
+"67","PS2","Misc","Activision",4.98,82,"T",FALSE
+"68","PS3","Action","Sony Computer Entertainment",4.92,88,"T",FALSE
+"69","PS2","Sports","Electronic Arts",4.91,88,"E",FALSE
+"70","PC","Strategy","Activision",4.84,93,"T",FALSE
+"71","PS3","Adventure","Ubisoft",4.82,81,"M",FALSE
+"72","PS3","Action","Sony Computer Entertainment",4.8,92,"M",FALSE
+"73","PS2","Action","Electronic Arts",4.67,82,"T",FALSE
+"74","X360","Racing","Microsoft Game Studios",4.57,91,"E",FALSE
+"75","PS2","Sports","Electronic Arts",4.53,91,"E",FALSE
+"76","X360","Misc","Activision",4.53,85,"T",FALSE
+"77","PS2","Sports","Electronic Arts",4.49,84,"E",FALSE
+"78","PS2","Action","Activision",4.48,76,"E",FALSE
+"79","PS2","Action","Sony Computer Entertainment",4.45,94,"M",FALSE
+"80","PS2","Sports","Activision",4.41,97,"T",TRUE
+"81","PS2","Sports","Konami Digital Entertainment",4.39,86,"E",FALSE
+"82","X360","Role-Playing","Take-Two Interactive",4.38,94,"M",FALSE
+"83","PS2","Racing","Electronic Arts",4.37,82,"T",FALSE
+"84","PS3","Shooter","Sony Computer Entertainment",4.34,86,"M",FALSE
+"85","X360","Role-Playing","Microsoft Game Studios",4.27,89,"M",TRUE
+"86","PS2","Action","Konami Digital Entertainment",4.23,91,"M",FALSE
+"87","PS3","Action","Ubisoft",4.22,80,"M",FALSE
+"88","X360","Sports","Electronic Arts",4.22,84,"E",TRUE
+"89","PS2","Sports","Electronic Arts",4.21,80,"E",FALSE
+"90","PS2","Misc","Sony Computer Entertainment",4.2,80,"E",FALSE
+"91","PS3","Racing","Sony Computer Entertainment",4.19,80,"E",FALSE
+"92","X360","Action","Ubisoft",4.19,80,"M",FALSE
+"93","PS2","Sports","Electronic Arts",4.14,95,"E",FALSE
+"94","PC","Role-Playing","Activision",4.09,91,"T",FALSE
+"95","PS2","Action","Sony Computer Entertainment",4.07,93,"M",FALSE
+"96","X360","Racing","Microsoft Game Studios",4.05,90,"E",FALSE
+"97","PS2","Fighting","Namco Bandai Games",4.05,85,"T",FALSE
+"98","X360","Shooter","Electronic Arts",3.97,89,"M",FALSE
+"99","PS2","Sports","Activision",3.9,90,"T",FALSE
+"100","PS2","Fighting","Namco Bandai Games",3.87,88,"T",FALSE
+"101","PS3","Racing","Sony Computer Entertainment",3.87,84,"T",FALSE
+"102","PS2","Sports","Konami Digital Entertainment",3.85,91,"E",FALSE
+"103","PS3","Sports","Sony Computer Entertainment",3.84,76,"E10+",FALSE
+"104","X360","Action","Activision",3.76,77,"E10+",FALSE
+"105","PC","Simulation","Electronic Arts",3.76,79,"T",FALSE
+"106","PS3","Action","Ubisoft",3.71,88,"M",FALSE
+"107","PS2","Sports","Electronic Arts",3.7,81,"E",FALSE
+"108","PS2","Sports","Activision",3.67,94,"T",FALSE
+"109","PS2","Shooter","Sony Computer Entertainment",3.65,82,"M",FALSE
+"110","PS2","Platform","Sony Computer Entertainment",3.64,90,"E",FALSE
+"111","PS2","Sports","Konami Digital Entertainment",3.63,82,"E",FALSE
+"112","PS3","Sports","Electronic Arts",3.62,91,"E",FALSE
+"113","PS2","Racing","Electronic Arts",3.61,64,"T",FALSE
+"114","PS2","Action","Take-Two Interactive",3.54,78,"M",FALSE
+"115","PS2","Action","Sony Computer Entertainment",3.54,72,"M",FALSE
+"116","PS2","Shooter","Electronic Arts",3.53,72,"T",FALSE
+"117","X360","Sports","Electronic Arts",3.52,88,"E",FALSE
+"118","X360","Shooter","Electronic Arts",3.51,89,"M",FALSE
+"119","X360","Action","Ubisoft",3.49,89,"M",FALSE
+"120","PS2","Sports","Electronic Arts",3.49,84,"E",FALSE
+"121","PS3","Shooter","Electronic Arts",3.49,80,"M",TRUE
+"122","X360","Shooter","Electronic Arts",3.48,79,"M",TRUE
+"123","X360","Shooter","Electronic Arts",3.47,88,"M",FALSE
+"124","X360","Shooter","Take-Two Interactive",3.44,84,"M",FALSE
+"125","PS2","Fighting","Namco Bandai Games",3.44,79,"T",FALSE
+"126","PS2","Action","Activision",3.41,80,"T",FALSE
+"127","PS2","Sports","Electronic Arts",3.4,88,"E",TRUE
+"128","PS3","Platform","Sony Computer Entertainment",3.39,91,"E",FALSE
+"129","PS3","Shooter","Ubisoft",3.35,90,"M",FALSE
+"130","PS2","Shooter","Electronic Arts",3.33,77,"T",FALSE
+"131","PS2","Shooter","Take-Two Interactive",3.31,80,"M",FALSE
+"132","X360","Action","Ubisoft",3.3,86,"M",FALSE
+"133","PS2","Action","Electronic Arts",3.28,85,"T",FALSE
+"134","PS2","Action","Activision",3.27,77,"M",FALSE
+"135","PS3","Racing","Sony Computer Entertainment",3.23,81,"E",FALSE
+"136","PS3","Adventure","Take-Two Interactive",3.17,89,"M",FALSE
+"137","PS2","Sports","Electronic Arts",3.14,83,"E",FALSE
+"138","PS3","Role-Playing","Ubisoft",3.1,93,"M",FALSE
+"139","X360","Role-Playing","Electronic Arts",3.1,96,"M",FALSE
+"140","PS2","Sports","Electronic Arts",3.08,94,"E",FALSE
+"141","PC","Simulation","Electronic Arts",3.07,75,"T",FALSE
+"142","PC","Simulation","Electronic Arts",3.05,70,"T",TRUE
+"143","X360","Shooter","Take-Two Interactive",3.05,89,"M",FALSE
+"144","X360","Action","Activision",3.04,75,"E10+",FALSE
+"145","X360","Role-Playing","Electronic Arts",3.04,93,"M",TRUE
+"146","PS3","Adventure","Sony Computer Entertainment",3.03,87,"M",FALSE
+"147","X360","Action","THQ",3.03,81,"M",FALSE
+"148","XB","Action","Ubisoft",3.02,93,"T",FALSE
+"149","PS3","Shooter","Sony Computer Entertainment",3.01,91,"M",FALSE
+"150","X360","Shooter","Ubisoft",3,91,"M",FALSE
+"151","X360","Sports","Take-Two Interactive",3,88,"E",FALSE
+"152","PC","Misc","Electronic Arts",2.99,82,"T",FALSE
+"153","PS2","Sports","Konami Digital Entertainment",2.99,93,"E",FALSE
+"154","PC","Role-Playing","Electronic Arts",2.96,85,"T",TRUE
+"155","PS2","Platform","Sega",2.96,64,"E",FALSE
+"156","PS3","Shooter","Electronic Arts",2.95,88,"M",FALSE
+"157","PS2","Shooter","Sony Computer Entertainment",2.94,87,"M",FALSE
+"158","PS3","Action","Sony Computer Entertainment",2.93,85,"T",FALSE
+"159","X360","Role-Playing","Microsoft Game Studios",2.91,91,"M",FALSE
+"160","PS2","Misc","Sega",2.9,73,"E",FALSE
+"161","PS2","Sports","Konami Digital Entertainment",2.9,93,"E",FALSE
+"162","X360","Sports","Sega",2.89,67,"E10+",FALSE
+"163","PS2","Sports","Sony Computer Entertainment",2.89,85,"E",FALSE
+"164","PS2","Shooter","Activision",2.89,76,"T",FALSE
+"165","X360","Sports","Electronic Arts",2.86,81,"E",TRUE
+"166","XB","Role-Playing","Ubisoft",2.86,87,"T",FALSE
+"167","X360","Sports","Electronic Arts",2.83,85,"E",TRUE
+"168","X360","Shooter","Take-Two Interactive",2.83,96,"M",FALSE
+"169","PS3","Action","Ubisoft",2.82,90,"M",FALSE
+"170","PS3","Shooter","Electronic Arts",2.81,75,"M",FALSE
+"171","PS2","Sports","Electronic Arts",2.79,89,"E",FALSE
+"172","PS2","Platform","Sony Computer Entertainment",2.78,87,"T",FALSE
+"173","PS3","Racing","Electronic Arts",2.78,89,"E10+",FALSE
+"174","PC","Shooter","Electronic Arts",2.78,89,"M",FALSE
+"175","PS2","Simulation","Electronic Arts",2.77,83,"T",FALSE
+"176","PS3","Shooter","Sony Computer Entertainment",2.77,84,"M",FALSE
+"177","X360","Action","THQ",2.76,84,"M",FALSE
+"178","PS3","Fighting","Namco Bandai Games",2.75,79,"T",FALSE
+"179","X360","Adventure","Take-Two Interactive",2.7,89,"M",FALSE
+"180","X360","Shooter","Activision",2.7,82,"T",FALSE
+"181","X360","Sports","Electronic Arts",2.69,78,"E",FALSE
+"182","X360","Sports","Electronic Arts",2.69,84,"E",TRUE
+"183","PS2","Racing","Electronic Arts",2.68,93,"T",FALSE
+"184","PS2","Shooter","Activision",2.67,77,"T",FALSE
+"185","XB","Role-Playing","Microsoft Game Studios",2.66,85,"M",FALSE
+"186","X360","Misc","Activision",2.66,85,"T",TRUE
+"187","PS2","Action","Ubisoft",2.65,89,"T",FALSE
+"188","PS3","Racing","Electronic Arts",2.65,84,"E",FALSE
+"189","PS2","Racing","Take-Two Interactive",2.63,78,"T",FALSE
+"190","X360","Sports","Electronic Arts",2.63,80,"T",FALSE
+"191","PS2","Sports","Sega",2.62,90,"E",FALSE
+"192","X360","Strategy","Microsoft Game Studios",2.62,82,"T",FALSE
+"193","X360","Sports","Take-Two Interactive",2.62,90,"E",FALSE
+"194","X360","Sports","Electronic Arts",2.62,90,"E",FALSE
+"195","X360","Shooter","Electronic Arts",2.61,74,"M",FALSE
+"196","PS2","Action","Electronic Arts",2.61,71,"E",FALSE
+"197","PS3","Action","Sony Computer Entertainment",2.6,91,"M",FALSE
+"198","PS2","Sports","Electronic Arts",2.59,84,"E",FALSE
+"199","PS3","Sports","Electronic Arts",2.58,87,"E",FALSE
+"200","PS2","Fighting","THQ",2.58,80,"T",FALSE
+"201","PS2","Sports","Electronic Arts",2.57,78,"E",FALSE
+"202","PS3","Sports","Electronic Arts",2.56,83,"E",TRUE
+"203","X360","Role-Playing","Electronic Arts",2.56,86,"M",FALSE
+"204","X360","Sports","Electronic Arts",2.53,83,"E",FALSE
+"205","X360","Sports","Take-Two Interactive",2.52,87,"E",TRUE
+"206","X360","Role-Playing","Activision",2.5,82,"T",FALSE
+"207","X360","Misc","Electronic Arts",2.47,92,"T",FALSE
+"208","PS3","Sports","Take-Two Interactive",2.47,90,"E",FALSE
+"209","PS3","Action","THQ",2.47,82,"M",FALSE
+"210","PS3","Shooter","Sony Computer Entertainment",2.46,87,"M",TRUE
+"211","PS3","Racing","Take-Two Interactive",2.45,82,"T",FALSE
+"212","PS2","Simulation","Electronic Arts",2.43,81,"T",FALSE
+"213","X360","Shooter","Ubisoft",2.42,82,"M",FALSE
+"214","PS3","Sports","Konami Digital Entertainment",2.41,77,"E",FALSE
+"215","PS2","Racing","Sony Computer Entertainment",2.41,82,"E",FALSE
+"216","PS2","Racing","Electronic Arts",2.41,62,"E10+",FALSE
+"217","X360","Shooter","Microsoft Game Studios",2.4,82,"M",FALSE
+"218","PS3","Sports","Electronic Arts",2.38,83,"E",TRUE
+"219","PS2","Action","THQ",2.37,62,"T",FALSE
+"220","X360","Sports","Electronic Arts",2.37,85,"E",TRUE
+"221","PS2","Sports","Activision",2.37,83,"T",FALSE
+"222","PS3","Sports","Electronic Arts",2.37,85,"E",FALSE
+"223","X360","Racing","Take-Two Interactive",2.35,81,"T",FALSE
+"224","X360","Misc","Microsoft Game Studios",2.35,73,"E10+",TRUE
+"225","PS2","Fighting","THQ",2.34,71,"T",FALSE
+"226","X360","Sports","Microsoft Game Studios",2.34,66,"E",FALSE
+"227","PS2","Shooter","Electronic Arts",2.31,84,"T",FALSE
+"228","XB","Racing","Electronic Arts",2.28,77,"E",FALSE
+"229","PS3","Sports","Konami Digital Entertainment",2.28,78,"E",FALSE
+"230","PS2","Sports","Electronic Arts",2.28,82,"E",FALSE
+"231","X360","Simulation","Electronic Arts",2.28,76,"T",FALSE
+"232","PS3","Misc","Sega",2.26,80,"E10+",FALSE
+"233","PS3","Sports","Electronic Arts",2.25,79,"E",TRUE
+"234","PS3","Action","Sony Computer Entertainment",2.25,80,"M",FALSE
+"235","PS3","Misc","Activision",2.24,83,"T",FALSE
+"236","X360","Sports","Electronic Arts",2.23,80,"E",TRUE
+"237","PS3","Shooter","Take-Two Interactive",2.23,91,"M",FALSE
+"238","PS2","Action","Ubisoft",2.22,92,"T",FALSE
+"239","X360","Misc","Activision",2.2,92,"T",FALSE
+"240","X360","Misc","Electronic Arts",2.2,92,"T",FALSE
+"241","X360","Racing","Electronic Arts",2.2,88,"E10+",FALSE
+"242","X360","Shooter","Take-Two Interactive",2.2,88,"M",FALSE
+"243","XB","Role-Playing","Activision",2.19,94,"T",FALSE
+"244","PS3","Action","Konami Digital Entertainment",2.19,80,"E",FALSE
+"245","X360","Action","THQ",2.18,81,"M",FALSE
+"246","PS2","Racing","THQ",2.18,82,"E",FALSE
+"247","PC","Simulation","Electronic Arts",2.16,74,"T",FALSE
+"248","PS2","Simulation","Konami Digital Entertainment",2.13,77,"E",FALSE
+"249","XB","Racing","Microsoft Game Studios",2.12,85,"E",FALSE
+"250","PS3","Sports","Take-Two Interactive",2.11,90,"E",TRUE
+"251","PS2","Racing","Electronic Arts",2.11,89,"E",FALSE
+"252","PS3","Sports","Take-Two Interactive",2.11,84,"E",TRUE
+"253","PS3","Shooter","Take-Two Interactive",2.09,83,"M",FALSE
+"254","X360","Action","Take-Two Interactive",2.09,89,"E",FALSE
+"255","PC","Role-Playing","Activision",2.08,90,"T",TRUE
+"256","PS2","Puzzle","THQ",2.08,44,"E",FALSE
+"257","X360","Fighting","THQ",2.06,83,"T",FALSE
+"258","PS2","Fighting","Namco Bandai Games",2.06,92,"T",FALSE
+"259","X360","Racing","Electronic Arts",2.05,72,"E10+",FALSE
+"260","PS3","Racing","Electronic Arts",2.05,59,"T",FALSE
+"261","PS2","Shooter","Sony Computer Entertainment",2.04,72,"T",FALSE
+"262","PS2","Action","Ubisoft",2.04,82,"T",FALSE
+"263","PS3","Racing","Electronic Arts",2.04,73,"E10+",FALSE
+"264","X360","Misc","Microsoft Game Studios",2.04,86,"T",FALSE
+"265","PS2","Sports","Electronic Arts",2.03,86,"E",FALSE
+"266","X360","Shooter","Activision",2.03,89,"T",FALSE
+"267","PS3","Role-Playing","Namco Bandai Games",2.02,89,"M",FALSE
+"268","X360","Misc","Ubisoft",2.02,70,"E10+",FALSE
+"269","PS3","Action","Electronic Arts",2.01,64,"T",FALSE
+"270","PS3","Action","Electronic Arts",2,88,"M",FALSE
+"271","PS3","Sports","Electronic Arts",1.98,80,"T",FALSE
+"272","X360","Racing","Microsoft Game Studios",1.96,85,"T",FALSE
+"273","X360","Shooter","Ubisoft",1.95,88,"M",FALSE
+"274","XB","Action","Take-Two Interactive",1.95,93,"AO",FALSE
+"275","PS2","Sports","Electronic Arts",1.95,90,"E",FALSE
+"276","PS2","Fighting","Electronic Arts",1.94,80,"T",FALSE
+"277","PS3","Racing","Electronic Arts",1.94,87,"E10+",FALSE
+"278","PS3","Simulation","Electronic Arts",1.94,78,"T",FALSE
+"279","X360","Sports","Electronic Arts",1.94,87,"E",FALSE
+"280","PS2","Shooter","Ubisoft",1.94,63,"M",FALSE
+"281","X360","Shooter","Take-Two Interactive",1.93,93,"M",FALSE
+"282","PS2","Role-Playing","Activision",1.93,79,"T",FALSE
+"283","PS2","Shooter","THQ",1.92,88,"M",FALSE
+"284","PC","Simulation","Electronic Arts",1.92,80,"T",FALSE
+"285","PS2","Racing","THQ",1.92,80,"E",FALSE
+"286","PS3","Misc","Activision",1.92,84,"T",FALSE
+"287","X360","Racing","Electronic Arts",1.91,83,"E",FALSE
+"288","PS3","Role-Playing","Activision",1.91,86,"M",TRUE
+"289","PS3","Sports","Electronic Arts",1.88,85,"E",TRUE
+"290","PS3","Sports","Electronic Arts",1.87,76,"E",TRUE
+"291","PS2","Action","THQ",1.87,78,"T",FALSE
+"292","XB","Sports","Electronic Arts",1.86,86,"E",FALSE
+"293","PS2","Platform","Activision",1.86,71,"E",FALSE
+"294","PS2","Sports","Electronic Arts",1.86,70,"E",FALSE
+"295","PS2","Platform","Sony Computer Entertainment",1.85,84,"T",FALSE
+"296","PS3","Shooter","Take-Two Interactive",1.85,87,"M",FALSE
+"297","PS2","Sports","Electronic Arts",1.84,87,"E",FALSE
+"298","PS3","Action","Sony Computer Entertainment",1.82,83,"T",FALSE
+"299","PC","Role-Playing","Activision",1.82,82,"T",TRUE
+"300","PS2","Misc","Namco Bandai Games",1.82,72,"E",FALSE
+"301","PC","Simulation","Electronic Arts",1.82,85,"T",FALSE
+"302","PS3","Role-Playing","Namco Bandai Games",1.82,89,"M",FALSE
+"303","X360","Shooter","Electronic Arts",1.82,96,"M",FALSE
+"304","PS2","Simulation","Konami Digital Entertainment",1.81,82,"E",FALSE
+"305","PS2","Fighting","Sega",1.81,94,"T",FALSE
+"306","PS2","Platform","Sony Computer Entertainment",1.81,88,"E",FALSE
+"307","X360","Sports","Electronic Arts",1.8,80,"E",FALSE
+"308","PS3","Action","Take-Two Interactive",1.8,89,"E",FALSE
+"309","PS2","Racing","Take-Two Interactive",1.78,85,"T",FALSE
+"310","PS2","Action","Sony Computer Entertainment",1.78,57,"M",FALSE
+"311","XB","Fighting","Microsoft Game Studios",1.77,87,"T",FALSE
+"312","PS3","Fighting","THQ",1.76,84,"T",FALSE
+"313","PS2","Platform","THQ",1.76,75,"E",FALSE
+"314","PS2","Fighting","Electronic Arts",1.76,83,"M",FALSE
+"315","XB","Shooter","Ubisoft",1.76,84,"M",TRUE
+"316","PS2","Action","Take-Two Interactive",1.76,71,"M",FALSE
+"317","PS2","Simulation","Electronic Arts",1.76,70,"T",FALSE
+"318","PS2","Simulation","Activision",1.76,84,"T",FALSE
+"319","XB","Shooter","Activision",1.75,80,"T",FALSE
+"320","PS3","Sports","Electronic Arts",1.75,81,"E",FALSE
+"321","X360","Shooter","Microsoft Game Studios",1.75,83,"M",FALSE
+"322","PS2","Simulation","Konami Digital Entertainment",1.75,55,"E10+",FALSE
+"323","PS2","Role-Playing","Namco Bandai Games",1.74,83,"T",FALSE
+"324","X360","Action","Microsoft Game Studios",1.74,55,"T",FALSE
+"325","PS2","Sports","Electronic Arts",1.73,92,"E",FALSE
+"326","XB","Sports","Electronic Arts",1.72,91,"E",FALSE
+"327","PS2","Role-Playing","Ubisoft",1.72,80,"T",FALSE
+"328","PC","Shooter","Activision",1.72,78,"M",TRUE
+"329","XB","Racing","Electronic Arts",1.71,83,"E",FALSE
+"330","PS2","Sports","Electronic Arts",1.7,87,"E",FALSE
+"331","PC","Simulation","Electronic Arts",1.7,74,"T",TRUE
+"332","PS2","Shooter","Sony Computer Entertainment",1.69,82,"M",FALSE
+"333","PS3","Shooter","Take-Two Interactive",1.69,94,"M",FALSE
+"334","X360","Racing","Electronic Arts",1.68,64,"T",FALSE
+"335","PS3","Action","THQ",1.68,82,"M",FALSE
+"336","PC","Strategy","Take-Two Interactive",1.68,90,"E10+",FALSE
+"337","PC","Simulation","Electronic Arts",1.68,79,"T",FALSE
+"338","PS2","Sports","Electronic Arts",1.67,93,"E",FALSE
+"339","XB","Shooter","Activision",1.67,83,"T",FALSE
+"340","PS3","Role-Playing","Electronic Arts",1.67,87,"M",FALSE
+"341","PS2","Sports","Electronic Arts",1.67,94,"E",FALSE
+"342","PS3","Fighting","Electronic Arts",1.67,83,"T",FALSE
+"343","PC","Strategy","Activision",1.67,86,"T",FALSE
+"344","PS2","Platform","THQ",1.67,71,"E",FALSE
+"345","PS2","Sports","Electronic Arts",1.66,93,"E",FALSE
+"346","PS2","Sports","Electronic Arts",1.66,83,"E",FALSE
+"347","X360","Racing","Electronic Arts",1.65,77,"E10+",FALSE
+"348","PS3","Action","Sony Computer Entertainment",1.65,79,"T",FALSE
+"349","X360","Shooter","Electronic Arts",1.64,72,"M",FALSE
+"350","PS2","Sports","Electronic Arts",1.64,88,"E",FALSE
+"351","PS2","Action","Ubisoft",1.64,83,"M",FALSE
+"352","XB","Sports","Sega",1.63,92,"E",FALSE
+"353","PS3","Adventure","Sony Computer Entertainment",1.63,70,"M",FALSE
+"354","PS2","Sports","Electronic Arts",1.63,89,"E",FALSE
+"355","PC","Shooter","Activision",1.63,81,"M",TRUE
+"356","PS2","Sports","Electronic Arts",1.62,88,"E",FALSE
+"357","X360","Shooter","Take-Two Interactive",1.62,86,"M",FALSE
+"358","X360","Simulation","Microsoft Game Studios",1.62,84,"E",FALSE
+"359","X360","Simulation","Microsoft Game Studios",1.62,74,"E",TRUE
+"360","PS3","Misc","Electronic Arts",1.62,92,"T",FALSE
+"361","PS2","Sports","Electronic Arts",1.61,77,"E",FALSE
+"362","PC","Role-Playing","Activision",1.59,94,"M",FALSE
+"363","X360","Action","Ubisoft",1.59,85,"M",FALSE
+"364","PS3","Sports","Konami Digital Entertainment",1.59,74,"E",FALSE
+"365","X360","Fighting","Ubisoft",1.58,85,"T",FALSE
+"366","PS3","Platform","Sega",1.58,76,"E",FALSE
+"367","PS2","Sports","Electronic Arts",1.57,90,"E",FALSE
+"368","X360","Shooter","Microsoft Game Studios",1.57,79,"M",TRUE
+"369","PS2","Racing","Take-Two Interactive",1.56,79,"T",FALSE
+"370","PS2","Fighting","Electronic Arts",1.56,84,"T",FALSE
+"371","X360","Racing","Electronic Arts",1.56,83,"T",FALSE
+"372","XB","Shooter","Ubisoft",1.55,86,"M",FALSE
+"373","X360","Action","Take-Two Interactive",1.55,74,"M",FALSE
+"374","PS3","Shooter","Take-Two Interactive",1.54,88,"M",FALSE
+"375","PS2","Role-Playing","Sony Computer Entertainment",1.54,80,"T",FALSE
+"376","PC","Strategy","Activision",1.54,88,"T",FALSE
+"377","X360","Shooter","Ubisoft",1.54,90,"T",FALSE
+"378","PS2","Sports","Electronic Arts",1.54,87,"E",FALSE
+"379","PS3","Sports","Konami Digital Entertainment",1.53,82,"E",FALSE
+"380","PC","Shooter","Activision",1.53,74,"M",TRUE
+"381","PS2","Sports","Electronic Arts",1.52,38,"T",FALSE
+"382","PS3","Fighting","Electronic Arts",1.52,88,"T",FALSE
+"383","PS2","Action","Namco Bandai Games",1.51,73,"E",FALSE
+"384","X360","Shooter","Electronic Arts",1.51,90,"M",FALSE
+"385","PS2","Action","Electronic Arts",1.51,68,"T",FALSE
+"386","PC","Sports","Sega",1.51,84,"E",FALSE
+"387","PS3","Role-Playing","Namco Bandai Games",1.51,85,"E10+",FALSE
+"388","PS3","Shooter","Activision",1.5,80,"T",FALSE
+"389","PS2","Shooter","THQ",1.5,84,"M",FALSE
+"390","PS2","Sports","Electronic Arts",1.5,91,"E",FALSE
+"391","XB","Shooter","Electronic Arts",1.49,81,"T",FALSE
+"392","PS2","Sports","Electronic Arts",1.49,67,"E",FALSE
+"393","PS3","Action","Take-Two Interactive",1.49,75,"M",FALSE
+"394","PS3","Shooter","Sony Computer Entertainment",1.48,83,"M",FALSE
+"395","X360","Action","Activision",1.48,65,"T",FALSE
+"396","PS2","Sports","Take-Two Interactive",1.48,82,"E",FALSE
+"397","PS2","Fighting","Electronic Arts",1.48,85,"T",FALSE
+"398","XB","Action","Ubisoft",1.48,93,"T",FALSE
+"399","X360","Shooter","Ubisoft",1.47,79,"M",FALSE
+"400","X360","Fighting","Electronic Arts",1.47,86,"T",FALSE
+"401","PS3","Fighting","Ubisoft",1.46,85,"T",FALSE
+"402","X360","Shooter","Electronic Arts",1.46,83,"T",FALSE
+"403","X360","Shooter","THQ",1.45,70,"M",FALSE
+"404","PS2","Shooter","Take-Two Interactive",1.45,73,"M",FALSE
+"405","PS3","Role-Playing","Electronic Arts",1.45,94,"M",FALSE
+"406","PS2","Misc","Sony Computer Entertainment",1.44,73,"E10+",FALSE
+"407","PS2","Sports","Electronic Arts",1.44,88,"E",FALSE
+"408","PS2","Sports","Electronic Arts",1.44,91,"E",FALSE
+"409","X360","Fighting","THQ",1.43,71,"T",FALSE
+"410","X360","Racing","Microsoft Game Studios",1.43,52,"E",FALSE
+"411","PC","Strategy","Ubisoft",1.43,83,"T",FALSE
+"412","PS3","Shooter","Take-Two Interactive",1.42,94,"M",FALSE
+"413","PS3","Role-Playing","Electronic Arts",1.42,93,"M",TRUE
+"414","PS2","Sports","Activision",1.42,59,"T",FALSE
+"415","PC","Simulation","Electronic Arts",1.42,64,"E10+",TRUE
+"416","PS2","Sports","Electronic Arts",1.42,80,"E",FALSE
+"417","PS3","Shooter","Electronic Arts",1.42,89,"M",FALSE
+"418","PS3","Action","Konami Digital Entertainment",1.42,80,"M",FALSE
+"419","PS3","Fighting","THQ",1.41,85,"T",FALSE
+"420","PS3","Action","Electronic Arts",1.41,55,"M",FALSE
+"421","X360","Misc","Sega",1.41,79,"E10+",FALSE
+"422","X360","Role-Playing","Activision",1.41,87,"M",TRUE
+"423","PS2","Racing","Sony Computer Entertainment",1.41,91,"M",FALSE
+"424","PS2","Racing","Electronic Arts",1.41,87,"E",FALSE
+"425","X360","Fighting","Electronic Arts",1.4,87,"T",FALSE
+"426","XB","Action","Activision",1.4,79,"E",FALSE
+"427","X360","Action","Electronic Arts",1.4,89,"M",FALSE
+"428","PS3","Action","Ubisoft",1.38,85,"M",TRUE
+"429","XB","Action","Activision",1.38,77,"M",FALSE
+"430","X360","Platform","Sega",1.38,77,"E",FALSE
+"431","XB","Role-Playing","Activision",1.37,86,"T",FALSE
+"432","PS3","Racing","Namco Bandai Games",1.36,78,"E",FALSE
+"433","XB","Shooter","Ubisoft",1.36,80,"T",FALSE
+"434","X360","Action","Electronic Arts",1.36,68,"T",FALSE
+"435","X360","Shooter","Electronic Arts",1.36,83,"M",TRUE
+"436","PS2","Shooter","Electronic Arts",1.36,73,"M",FALSE
+"437","PS3","Action","THQ",1.35,76,"T",FALSE
+"438","X360","Racing","Electronic Arts",1.35,88,"E10+",FALSE
+"439","PS3","Racing","Sony Computer Entertainment",1.35,82,"T",FALSE
+"440","PS2","Action","Electronic Arts",1.35,73,"T",FALSE
+"441","PC","Shooter","Electronic Arts",1.35,81,"M",TRUE
+"442","X360","Sports","Electronic Arts",1.35,82,"E",FALSE
+"443","PS3","Shooter","Ubisoft",1.34,81,"M",FALSE
+"444","X360","Action","Electronic Arts",1.34,84,"M",FALSE
+"445","XB","Shooter","Activision",1.34,88,"M",FALSE
+"446","PS2","Racing","Electronic Arts",1.34,74,"E10+",FALSE
+"447","PS2","Shooter","Take-Two Interactive",1.34,73,"M",FALSE
+"448","PS3","Shooter","Electronic Arts",1.34,84,"T",FALSE
+"449","PS2","Sports","Electronic Arts",1.34,90,"E",FALSE
+"450","X360","Action","Microsoft Game Studios",1.33,83,"T",FALSE
+"451","PS3","Fighting","THQ",1.33,74,"T",FALSE
+"452","X360","Platform","Activision",1.32,83,"E10+",TRUE
+"453","X360","Fighting","THQ",1.32,84,"T",FALSE
+"454","PC","Role-Playing","Activision",1.32,91,"T",FALSE
+"455","X360","Sports","Ubisoft",1.32,73,"E",FALSE
+"456","PS2","Platform","Activision",1.31,69,"E10+",FALSE
+"457","X360","Action","Activision",1.31,78,"M",FALSE
+"458","XB","Racing","Electronic Arts",1.31,94,"T",TRUE
+"459","PS2","Sports","Electronic Arts",1.3,63,"E",FALSE
+"460","X360","Action","Activision",1.3,80,"E10+",FALSE
+"461","PS2","Misc","Sony Computer Entertainment",1.3,78,"T",FALSE
+"462","X360","Fighting","Namco Bandai Games",1.3,80,"T",FALSE
+"463","PS3","Action","Electronic Arts",1.29,85,"M",FALSE
+"464","PS3","Action","Ubisoft",1.29,72,"M",FALSE
+"465","PS2","Action","Take-Two Interactive",1.28,76,"M",FALSE
+"466","PS2","Action","Konami Digital Entertainment",1.28,89,"M",FALSE
+"467","PC","Simulation","Electronic Arts",1.27,76,"T",FALSE
+"468","PS3","Role-Playing","Namco Bandai Games",1.27,91,"T",FALSE
+"469","X360","Sports","Take-Two Interactive",1.27,84,"E",FALSE
+"470","XB","Sports","Activision",1.27,85,"T",FALSE
+"471","PS3","Role-Playing","Sega",1.27,86,"T",FALSE
+"472","X360","Fighting","THQ",1.27,71,"T",FALSE
+"473","X360","Action","THQ",1.27,78,"T",FALSE
+"474","PS3","Racing","Electronic Arts",1.27,80,"E10+",TRUE
+"475","PC","Sports","Sega",1.26,85,"E",FALSE
+"476","PS3","Shooter","Sony Computer Entertainment",1.25,63,"M",FALSE
+"477","X360","Racing","Electronic Arts",1.25,83,"T",FALSE
+"478","PS2","Shooter","Electronic Arts",1.25,79,"M",FALSE
+"479","PS3","Shooter","Ubisoft",1.25,86,"M",FALSE
+"480","PS2","Action","Ubisoft",1.25,87,"T",FALSE
+"481","PS2","Shooter","Sony Computer Entertainment",1.24,81,"T",FALSE
+"482","PS2","Action","Namco Bandai Games",1.24,78,"E",FALSE
+"483","PS2","Fighting","THQ",1.24,78,"T",FALSE
+"484","XB","Action","Activision",1.24,61,"T",FALSE
+"485","PS3","Action","Activision",1.24,79,"M",FALSE
+"486","PS3","Sports","Electronic Arts",1.23,76,"E",FALSE
+"487","PS2","Platform","Konami Digital Entertainment",1.23,32,"E",FALSE
+"488","XB","Action","Microsoft Game Studios",1.23,91,"M",FALSE
+"489","X360","Misc","Activision",1.23,70,"T",FALSE
+"490","PS3","Racing","Electronic Arts",1.23,75,"E10+",FALSE
+"491","PS3","Sports","Electronic Arts",1.23,82,"E",FALSE
+"492","PS3","Role-Playing","Namco Bandai Games",1.22,78,"T",FALSE
+"493","XB","Shooter","Take-Two Interactive",1.22,89,"M",FALSE
+"494","PS2","Sports","Sega",1.22,89,"E",FALSE
+"495","PS2","Racing","THQ",1.21,71,"E",FALSE
+"496","XB","Misc","Microsoft Game Studios",1.21,70,"E",FALSE
+"497","XB","Shooter","Activision",1.21,73,"T",FALSE
+"498","PS2","Platform","Sony Computer Entertainment",1.21,86,"E",FALSE
+"499","PS3","Fighting","Namco Bandai Games",1.21,76,"T",FALSE
+"500","PS3","Shooter","Electronic Arts",1.21,75,"T",FALSE
+"501","PS3","Action","Sega",1.21,87,"M",FALSE
+"502","PS2","Sports","Electronic Arts",1.2,92,"E",FALSE
+"503","X360","Misc","Ubisoft",1.18,77,"E10+",FALSE
+"504","PS3","Action","Namco Bandai Games",1.18,64,"T",FALSE
+"505","PS2","Shooter","Activision",1.17,77,"M",FALSE
+"506","PS2","Platform","Electronic Arts",1.17,70,"E",FALSE
+"507","PS3","Fighting","THQ",1.17,72,"T",FALSE
+"508","PC","Action","Take-Two Interactive",1.17,96,"M",FALSE
+"509","PS3","Fighting","THQ",1.17,81,"T",FALSE
+"510","XB","Shooter","Electronic Arts",1.17,65,"T",FALSE
+"511","PS3","Shooter","Electronic Arts",1.17,74,"M",FALSE
+"512","PC","Strategy","Electronic Arts",1.17,84,"E10+",TRUE
+"513","PS2","Racing","Take-Two Interactive",1.16,85,"E10+",FALSE
+"514","PS2","Shooter","Ubisoft",1.16,70,"T",FALSE
+"515","X360","Platform","Electronic Arts",1.16,79,"T",FALSE
+"516","PS3","Platform","Sega",1.16,43,"E10+",FALSE
+"517","PS2","Racing","Electronic Arts",1.16,85,"E",FALSE
+"518","X360","Sports","Ubisoft",1.16,77,"E",FALSE
+"519","PC","Simulation","Sega",1.15,83,"E",FALSE
+"520","X360","Action","Electronic Arts",1.15,53,"M",FALSE
+"521","PC","Shooter","Activision",1.15,92,"M",FALSE
+"522","PS2","Platform","THQ",1.15,68,"E",FALSE
+"523","PS2","Action","Activision",1.14,79,"M",FALSE
+"524","PS2","Action","Sony Computer Entertainment",1.14,91,"T",FALSE
+"525","PS3","Sports","Take-Two Interactive",1.14,74,"T",FALSE
+"526","PS3","Action","Activision",1.14,65,"T",FALSE
+"527","PS2","Simulation","Konami Digital Entertainment",1.14,76,"E10+",FALSE
+"528","XB","Action","Electronic Arts",1.14,84,"T",FALSE
+"529","PS3","Sports","Sony Computer Entertainment",1.14,81,"E",FALSE
+"530","XB","Simulation","Microsoft Game Studios",1.13,87,"T",FALSE
+"531","XB","Shooter","Ubisoft",1.13,84,"M",FALSE
+"532","PS3","Platform","Electronic Arts",1.13,79,"T",FALSE
+"533","X360","Misc","Activision",1.13,85,"T",FALSE
+"534","PS3","Misc","Sony Computer Entertainment",1.13,82,"T",TRUE
+"535","PS2","Racing","Activision",1.12,57,"E",FALSE
+"536","PS3","Racing","Sony Computer Entertainment",1.12,82,"E",FALSE
+"537","PS3","Misc","Ubisoft",1.12,80,"T",FALSE
+"538","XB","Shooter","Activision",1.12,78,"T",TRUE
+"539","X360","Misc","Ubisoft",1.12,77,"T",FALSE
+"540","PS2","Misc","Activision",1.12,71,"T",TRUE
+"541","PS3","Action","Sega",1.12,79,"M",FALSE
+"542","XB","Action","Activision",1.12,83,"T",FALSE
+"543","X360","Shooter","Microsoft Game Studios",1.12,70,"M",FALSE
+"544","X360","Action","Electronic Arts",1.11,79,"M",TRUE
+"545","XB","Shooter","Microsoft Game Studios",1.11,74,"M",FALSE
+"546","PS3","Fighting","Electronic Arts",1.11,84,"M",FALSE
+"547","PS2","Misc","Electronic Arts",1.11,82,"T",FALSE
+"548","XB","Action","Ubisoft",1.11,94,"M",FALSE
+"549","X360","Sports","Take-Two Interactive",1.11,75,"T",FALSE
+"550","PS3","Action","Konami Digital Entertainment",1.1,85,"M",FALSE
+"551","X360","Shooter","Electronic Arts",1.1,73,"T",FALSE
+"552","X360","Sports","Electronic Arts",1.09,77,"E",FALSE
+"553","PS2","Adventure","Sega",1.09,77,"M",FALSE
+"554","PS3","Misc","Activision",1.09,86,"T",TRUE
+"555","XB","Sports","Electronic Arts",1.09,92,"E",FALSE
+"556","PS2","Action","Electronic Arts",1.09,75,"M",FALSE
+"557","X360","Racing","Sega",1.09,47,"E",TRUE
+"558","PS3","Fighting","THQ",1.09,74,"T",FALSE
+"559","X360","Action","Electronic Arts",1.09,76,"E",TRUE
+"560","X360","Sports","Electronic Arts",1.09,84,"T",FALSE
+"561","PS2","Racing","Electronic Arts",1.08,88,"E",FALSE
+"562","PC","Strategy","Sega",1.08,90,"T",TRUE
+"563","PS3","Fighting","Sega",1.08,85,"T",FALSE
+"564","PS3","Action","Electronic Arts",1.08,75,"M",FALSE
+"565","PS2","Shooter","Ubisoft",1.08,58,"T",FALSE
+"566","X360","Shooter","Electronic Arts",1.08,69,"E10+",FALSE
+"567","PS2","Shooter","Activision",1.07,82,"T",FALSE
+"568","PS3","Action","Ubisoft",1.07,85,"T",FALSE
+"569","X360","Sports","Konami Digital Entertainment",1.07,76,"E",FALSE
+"570","PS2","Fighting","Namco Bandai Games",1.07,86,"T",FALSE
+"571","PS3","Fighting","Namco Bandai Games",1.07,75,"T",FALSE
+"572","PS2","Racing","Electronic Arts",1.06,81,"E",FALSE
+"573","PS3","Shooter","Electronic Arts",1.06,89,"M",FALSE
+"574","X360","Misc","Activision",1.06,84,"T",FALSE
+"575","X360","Action","Take-Two Interactive",1.06,80,"T",FALSE
+"576","PS2","Sports","Electronic Arts",1.06,89,"E",FALSE
+"577","X360","Shooter","Sega",1.06,64,"M",FALSE
+"578","PS3","Action","Activision",1.06,77,"E10+",FALSE
+"579","X360","Action","THQ",1.06,83,"M",FALSE
+"580","X360","Shooter","Electronic Arts",1.06,72,"T",FALSE
+"581","PS3","Simulation","Sony Computer Entertainment",1.06,84,"T",FALSE
+"582","PS2","Sports","Sega",1.05,89,"E",FALSE
+"583","XB","Racing","Electronic Arts",1.05,61,"T",FALSE
+"584","XB","Racing","Microsoft Game Studios",1.05,92,"E",FALSE
+"585","PS3","Sports","Sega",1.05,80,"E",FALSE
+"586","PS2","Sports","Electronic Arts",1.04,81,"E",FALSE
+"587","X360","Fighting","THQ",1.04,80,"T",FALSE
+"588","PS2","Simulation","Konami Digital Entertainment",1.04,73,"E10+",FALSE
+"589","PS3","Shooter","Sega",1.04,65,"M",FALSE
+"590","X360","Platform","Sega",1.04,46,"E10+",FALSE
+"591","XB","Racing","Electronic Arts",1.04,83,"T",FALSE
+"592","X360","Action","Electronic Arts",1.03,71,"T",FALSE
+"593","PS2","Racing","THQ",1.03,79,"E",FALSE
+"594","PS3","Action","THQ",1.03,86,"T",FALSE
+"595","PS3","Shooter","Ubisoft",1.03,84,"T",FALSE
+"596","PS2","Sports","Electronic Arts",1.03,82,"E",FALSE
+"597","PS3","Action","Activision",1.03,77,"E10+",FALSE
+"598","X360","Shooter","Ubisoft",1.02,86,"T",FALSE
+"599","PS3","Platform","Sega",1.02,54,"E10+",FALSE
+"600","X360","Action","Activision",1.02,71,"E10+",FALSE
+"601","X360","Shooter","Electronic Arts",1.02,84,"M",FALSE
+"602","PS3","Platform","Activision",1.02,83,"E10+",TRUE
+"603","XB","Sports","Electronic Arts",1.02,83,"E",FALSE
+"604","PS2","Action","Electronic Arts",1.02,70,"E",FALSE
+"605","X360","Action","Ubisoft",1.01,72,"M",FALSE
+"606","X360","Action","Ubisoft",1.01,81,"T",FALSE
+"607","XB","Fighting","Namco Bandai Games",1,92,"T",FALSE
+"608","PS3","Platform","Ubisoft",1,87,"E10+",FALSE
+"609","XB","Sports","Microsoft Game Studios",0.99,79,"E",FALSE
+"610","X360","Misc","Ubisoft",0.99,79,"E10+",FALSE
+"611","X360","Sports","Electronic Arts",0.99,82,"E",FALSE
+"612","X360","Action","THQ",0.99,85,"T",FALSE
+"613","PS3","Shooter","Ubisoft",0.99,55,"M",FALSE
+"614","PS2","Action","Sony Computer Entertainment",0.99,66,"T",FALSE
+"615","PS3","Misc","Activision",0.99,70,"T",FALSE
+"616","PS3","Simulation","Sony Computer Entertainment",0.99,70,"E",FALSE
+"617","X360","Role-Playing","Namco Bandai Games",0.99,89,"M",FALSE
+"618","PS3","Role-Playing","Namco Bandai Games",0.98,77,"T",FALSE
+"619","X360","Action","Electronic Arts",0.98,78,"M",FALSE
+"620","X360","Action","Ubisoft",0.98,82,"M",FALSE
+"621","X360","Sports","Take-Two Interactive",0.97,82,"E",FALSE
+"622","XB","Sports","Electronic Arts",0.97,87,"E",FALSE
+"623","PC","Action","Take-Two Interactive",0.97,93,"M",FALSE
+"624","PS3","Sports","Electronic Arts",0.97,81,"E",TRUE
+"625","X360","Action","Electronic Arts",0.97,82,"M",FALSE
+"626","PS2","Sports","Electronic Arts",0.97,85,"E",FALSE
+"627","PS2","Action","Take-Two Interactive",0.97,75,"M",FALSE
+"628","XB","Sports","Electronic Arts",0.97,81,"E",FALSE
+"629","PC","Role-Playing","Electronic Arts",0.97,89,"M",TRUE
+"630","X360","Action","Activision",0.97,78,"E10+",TRUE
+"631","PS2","Role-Playing","Sony Computer Entertainment",0.96,87,"T",FALSE
+"632","PC","Shooter","Ubisoft",0.96,88,"M",FALSE
+"633","PS3","Action","Electronic Arts",0.96,76,"M",FALSE
+"634","PS2","Sports","Electronic Arts",0.96,85,"E",FALSE
+"635","PS2","Platform","Sony Computer Entertainment",0.96,71,"M",FALSE
+"636","PC","Action","Namco Bandai Games",0.96,88,"M",FALSE
+"637","PS2","Action","Ubisoft",0.95,87,"M",FALSE
+"638","X360","Platform","Sega",0.95,60,"E10+",FALSE
+"639","PS3","Action","Sony Computer Entertainment",0.95,74,"T",FALSE
+"640","PS3","Action","Konami Digital Entertainment",0.95,78,"E",TRUE
+"641","PS3","Action","Sega",0.95,78,"M",FALSE
+"642","PS3","Shooter","Ubisoft",0.95,79,"M",FALSE
+"643","PS2","Strategy","Electronic Arts",0.95,75,"T",FALSE
+"644","PS3","Racing","Ubisoft",0.95,79,"T",FALSE
+"645","X360","Shooter","Electronic Arts",0.95,73,"M",FALSE
+"646","PS2","Shooter","Sony Computer Entertainment",0.94,70,"M",FALSE
+"647","PS2","Action","Konami Digital Entertainment",0.94,79,"M",FALSE
+"648","PS3","Action","Ubisoft",0.94,84,"M",FALSE
+"649","PS3","Action","Activision",0.94,77,"E10+",TRUE
+"650","PS3","Fighting","THQ",0.94,78,"T",FALSE
+"651","X360","Sports","Electronic Arts",0.94,83,"E",FALSE
+"652","PS3","Action","Electronic Arts",0.94,83,"M",FALSE
+"653","PS2","Action","Take-Two Interactive",0.94,87,"T",FALSE
+"654","XB","Action","Ubisoft",0.94,92,"T",FALSE
+"655","PS2","Sports","Sony Computer Entertainment",0.94,83,"E",FALSE
+"656","PS2","Sports","Electronic Arts",0.93,79,"E",FALSE
+"657","PS3","Fighting","Namco Bandai Games",0.93,77,"T",FALSE
+"658","XB","Sports","Activision",0.93,90,"T",FALSE
+"659","PS3","Role-Playing","Sony Computer Entertainment",0.93,64,"T",FALSE
+"660","PS3","Misc","Sony Computer Entertainment",0.93,70,"T",FALSE
+"661","X360","Action","Sega",0.93,90,"M",FALSE
+"662","PS2","Sports","Sony Computer Entertainment",0.93,83,"E",FALSE
+"663","X360","Misc","Activision",0.93,39,"E10+",FALSE
+"664","PS3","Shooter","Ubisoft",0.93,76,"M",FALSE
+"665","PC","Action","Ubisoft",0.93,80,"M",FALSE
+"666","PC","Shooter","Take-Two Interactive",0.93,89,"M",FALSE
+"667","PS2","Action","Konami Digital Entertainment",0.92,59,"E",FALSE
+"668","X360","Sports","Electronic Arts",0.92,86,"E",FALSE
+"669","PS3","Role-Playing","Ubisoft",0.92,85,"M",FALSE
+"670","X360","Role-Playing","Ubisoft",0.92,82,"M",FALSE
+"671","PS3","Sports","Sony Computer Entertainment",0.92,87,"E",FALSE
+"672","X360","Action","Electronic Arts",0.92,73,"M",FALSE
+"673","X360","Fighting","THQ",0.92,79,"T",FALSE
+"674","X360","Role-Playing","Microsoft Game Studios",0.92,79,"T",FALSE
+"675","PS3","Sports","Electronic Arts",0.91,78,"E",TRUE
+"676","PS2","Sports","Electronic Arts",0.91,76,"T",FALSE
+"677","X360","Strategy","Ubisoft",0.91,77,"T",FALSE
+"678","PS3","Sports","Electronic Arts",0.91,81,"E",FALSE
+"679","XB","Misc","Sega",0.91,75,"E",FALSE
+"680","PS2","Sports","Electronic Arts",0.9,80,"E",FALSE
+"681","X360","Role-Playing","Microsoft Game Studios",0.9,78,"T",FALSE
+"682","PS2","Sports","Sony Computer Entertainment",0.9,78,"E",FALSE
+"683","X360","Role-Playing","Activision",0.9,73,"T",FALSE
+"684","PS2","Racing","Electronic Arts",0.9,90,"E10+",FALSE
+"685","X360","Shooter","Electronic Arts",0.9,76,"M",FALSE
+"686","X360","Action","Namco Bandai Games",0.9,88,"M",FALSE
+"687","PS3","Shooter","THQ",0.9,70,"M",FALSE
+"688","PS2","Sports","Sony Computer Entertainment",0.9,70,"E",FALSE
+"689","PS3","Racing","THQ",0.9,74,"E",FALSE
+"690","XB","Platform","Sega",0.9,73,"E",FALSE
+"691","PS2","Platform","Activision",0.9,50,"T",FALSE
+"692","XB","Shooter","Electronic Arts",0.9,71,"T",FALSE
+"693","PS3","Misc","Activision",0.9,86,"T",FALSE
+"694","XB","Role-Playing","Activision",0.9,82,"T",FALSE
+"695","XB","Sports","Electronic Arts",0.9,85,"E",FALSE
+"696","PS2","Sports","Electronic Arts",0.9,68,"E",FALSE
+"697","PS3","Shooter","Sony Computer Entertainment",0.89,67,"M",FALSE
+"698","PS2","Sports","Electronic Arts",0.89,83,"E",TRUE
+"699","X360","Sports","Electronic Arts",0.89,77,"E",FALSE
+"700","PS2","Sports","Sega",0.89,85,"E",FALSE
+"701","PS3","Sports","Electronic Arts",0.89,80,"E",FALSE
+"702","PS3","Action","Activision",0.89,70,"E10+",FALSE
+"703","PS3","Action","Electronic Arts",0.89,79,"E",TRUE
+"704","PS3","Action","Electronic Arts",0.88,71,"T",FALSE
+"705","PC","Shooter","Activision",0.88,86,"M",TRUE
+"706","PS3","Shooter","Ubisoft",0.88,78,"M",FALSE
+"707","PS2","Action","Take-Two Interactive",0.88,84,"E",FALSE
+"708","PC","Action","Take-Two Interactive",0.88,90,"M",TRUE
+"709","X360","Fighting","THQ",0.88,75,"T",FALSE
+"710","XB","Simulation","Microsoft Game Studios",0.87,88,"T",FALSE
+"711","XB","Shooter","Ubisoft",0.87,81,"M",FALSE
+"712","X360","Role-Playing","Electronic Arts",0.87,80,"M",FALSE
+"713","X360","Misc","Ubisoft",0.87,63,"E10+",FALSE
+"714","PS3","Action","Sony Computer Entertainment",0.87,73,"E",FALSE
+"715","PS2","Sports","Activision",0.87,69,"T",FALSE
+"716","X360","Shooter","THQ",0.87,85,"M",FALSE
+"717","PS2","Fighting","Electronic Arts",0.87,88,"T",FALSE
+"718","X360","Shooter","Ubisoft",0.87,76,"M",FALSE
+"719","PS3","Shooter","Electronic Arts",0.87,77,"M",FALSE
+"720","PS3","Shooter","Electronic Arts",0.87,72,"T",FALSE
+"721","X360","Misc","Activision",0.86,72,"T",FALSE
+"722","X360","Sports","Electronic Arts",0.85,83,"E",FALSE
+"723","X360","Sports","Take-Two Interactive",0.85,81,"E",FALSE
+"724","XB","Sports","Electronic Arts",0.85,88,"E",FALSE
+"725","PS3","Role-Playing","Electronic Arts",0.85,81,"M",FALSE
+"726","PS3","Fighting","Namco Bandai Games",0.85,82,"T",FALSE
+"727","PS2","Action","THQ",0.85,65,"E",FALSE
+"728","PS3","Sports","Electronic Arts",0.85,85,"E",FALSE
+"729","PS3","Shooter","Electronic Arts",0.85,74,"M",FALSE
+"730","PS3","Action","THQ",0.84,84,"M",FALSE
+"731","PS3","Role-Playing","Namco Bandai Games",0.84,71,"T",FALSE
+"732","PS3","Action","Sony Computer Entertainment",0.84,78,"T",FALSE
+"733","PS3","Sports","Take-Two Interactive",0.84,83,"E",FALSE
+"734","PS3","Sports","Electronic Arts",0.84,84,"T",FALSE
+"735","PS2","Role-Playing","Sony Computer Entertainment",0.84,83,"T",FALSE
+"736","PS2","Sports","Sega",0.84,86,"E",FALSE
+"737","PS3","Sports","Electronic Arts",0.84,77,"E",FALSE
+"738","PS2","Action","THQ",0.83,75,"T",FALSE
+"739","PS3","Shooter","Namco Bandai Games",0.83,60,"T",FALSE
+"740","X360","Shooter","Take-Two Interactive",0.83,49,"M",FALSE
+"741","PS3","Sports","Electronic Arts",0.83,82,"E",TRUE
+"742","XB","Shooter","Microsoft Game Studios",0.83,77,"M",FALSE
+"743","PS3","Sports","Electronic Arts",0.83,78,"E",FALSE
+"744","PS2","Platform","Sony Computer Entertainment",0.83,83,"E10+",FALSE
+"745","X360","Strategy","Take-Two Interactive",0.83,84,"E10+",FALSE
+"746","PS3","Action","Electronic Arts",0.83,82,"M",TRUE
+"747","XB","Shooter","Electronic Arts",0.82,78,"T",FALSE
+"748","PS2","Role-Playing","Activision",0.82,81,"T",FALSE
+"749","X360","Misc","Activision",0.82,86,"T",FALSE
+"750","XB","Racing","Electronic Arts",0.82,75,"E",FALSE
+"751","XB","Sports","Microsoft Game Studios",0.82,78,"E",FALSE
+"752","X360","Misc","Microsoft Game Studios",0.81,86,"T",FALSE
+"753","X360","Sports","Ubisoft",0.81,60,"T",FALSE
+"754","X360","Sports","Konami Digital Entertainment",0.81,78,"E",FALSE
+"755","PS2","Shooter","Ubisoft",0.81,70,"M",FALSE
+"756","PS3","Sports","Electronic Arts",0.81,80,"E",FALSE
+"757","PS3","Misc","Activision",0.81,74,"T",FALSE
+"758","PS2","Simulation","Electronic Arts",0.81,75,"T",TRUE
+"759","PS3","Fighting","Namco Bandai Games",0.81,60,"T",FALSE
+"760","PS2","Action","Sega",0.8,75,"M",FALSE
+"761","XB","Action","Ubisoft",0.8,83,"M",FALSE
+"762","X360","Misc","Activision",0.8,84,"T",FALSE
+"763","PS2","Misc","Activision",0.79,71,"T",FALSE
+"764","X360","Action","THQ",0.79,83,"M",FALSE
+"765","X360","Racing","Electronic Arts",0.79,76,"E10+",TRUE
+"766","X360","Action","Activision",0.79,74,"M",FALSE
+"767","PS2","Simulation","Ubisoft",0.79,78,"T",FALSE
+"768","X360","Action","Electronic Arts",0.79,65,"M",FALSE
+"769","X360","Misc","Activision",0.79,76,"E10+",TRUE
+"770","PS2","Sports","Electronic Arts",0.79,83,"E",FALSE
+"771","XB","Sports","Electronic Arts",0.79,82,"E",FALSE
+"772","PS3","Sports","Take-Two Interactive",0.78,55,"T",TRUE
+"773","X360","Role-Playing","Microsoft Game Studios",0.78,65,"T",FALSE
+"774","PS3","Sports","Electronic Arts",0.78,81,"E",FALSE
+"775","X360","Action","Ubisoft",0.78,85,"M",FALSE
+"776","X360","Fighting","Namco Bandai Games",0.78,74,"T",FALSE
+"777","X360","Fighting","Electronic Arts",0.78,86,"M",FALSE
+"778","PS3","Strategy","Take-Two Interactive",0.78,85,"E10+",FALSE
+"779","PS2","Sports","Take-Two Interactive",0.78,81,"E",FALSE
+"780","PS3","Shooter","Activision",0.78,72,"T",FALSE
+"781","X360","Platform","Ubisoft",0.78,87,"E10+",FALSE
+"782","X360","Shooter","Sega",0.77,48,"M",FALSE
+"783","X360","Misc","Microsoft Game Studios",0.77,71,"T",FALSE
+"784","X360","Shooter","Microsoft Game Studios",0.77,81,"M",FALSE
+"785","PS2","Fighting","Electronic Arts",0.77,53,"T",FALSE
+"786","X360","Sports","THQ",0.77,70,"E",FALSE
+"787","PS3","Fighting","Namco Bandai Games",0.77,57,"T",FALSE
+"788","PS2","Platform","Sega",0.76,66,"E10+",FALSE
+"789","PS2","Shooter","Sony Computer Entertainment",0.76,65,"M",FALSE
+"790","PS3","Shooter","Take-Two Interactive",0.76,51,"M",FALSE
+"791","PS2","Platform","THQ",0.75,67,"E",FALSE
+"792","PS3","Action","Sony Computer Entertainment",0.75,55,"T",FALSE
+"793","X360","Sports","Take-Two Interactive",0.75,81,"E",FALSE
+"794","PS3","Misc","Activision",0.75,86,"T",FALSE
+"795","PS3","Fighting","Namco Bandai Games",0.75,81,"T",FALSE
+"796","PS2","Action","Activision",0.75,69,"E",FALSE
+"797","PS2","Shooter","Konami Digital Entertainment",0.75,78,"M",FALSE
+"798","XB","Sports","Activision",0.75,83,"T",FALSE
+"799","PS2","Sports","Electronic Arts",0.75,76,"E",FALSE
+"800","PS3","Action","Electronic Arts",0.74,54,"T",FALSE
+"801","PS3","Misc","Activision",0.74,76,"E10+",FALSE
+"802","PS3","Action","Electronic Arts",0.74,67,"M",FALSE
+"803","X360","Role-Playing","Namco Bandai Games",0.74,91,"T",FALSE
+"804","PC","Action","Ubisoft",0.74,80,"M",FALSE
+"805","PS3","Action","Activision",0.74,79,"M",FALSE
+"806","XB","Racing","Take-Two Interactive",0.74,84,"E10+",FALSE
+"807","PS3","Shooter","THQ",0.74,85,"M",FALSE
+"808","PS3","Action","Namco Bandai Games",0.74,77,"T",FALSE
+"809","PC","Action","Electronic Arts",0.74,86,"M",FALSE
+"810","PS3","Sports","Sony Computer Entertainment",0.74,87,"E",FALSE
+"811","PS3","Role-Playing","Activision",0.73,74,"T",FALSE
+"812","PC","Role-Playing","Electronic Arts",0.73,85,"M",TRUE
+"813","PS3","Role-Playing","Sega",0.73,72,"T",FALSE
+"814","PS3","Sports","Electronic Arts",0.73,79,"E",FALSE
+"815","X360","Sports","Electronic Arts",0.73,88,"E10+",FALSE
+"816","X360","Sports","Electronic Arts",0.73,79,"E",FALSE
+"817","XB","Strategy","THQ",0.73,84,"M",FALSE
+"818","PS2","Puzzle","Namco Bandai Games",0.73,86,"E",FALSE
+"819","PS3","Fighting","Namco Bandai Games",0.73,74,"T",FALSE
+"820","PS2","Action","Activision",0.72,74,"T",FALSE
+"821","PC","Strategy","Sega",0.72,76,"T",TRUE
+"822","PS2","Sports","Electronic Arts",0.72,68,"E",FALSE
+"823","XB","Shooter","Electronic Arts",0.72,73,"M",FALSE
+"824","PS2","Sports","Electronic Arts",0.72,79,"E",FALSE
+"825","PS3","Sports","Sony Computer Entertainment",0.72,90,"E",FALSE
+"826","X360","Shooter","Take-Two Interactive",0.72,74,"M",FALSE
+"827","PC","Role-Playing","Namco Bandai Games",0.72,93,"M",FALSE
+"828","PS2","Simulation","Namco Bandai Games",0.72,66,"T",FALSE
+"829","PS3","Sports","Sony Computer Entertainment",0.72,91,"E",FALSE
+"830","X360","Racing","THQ",0.72,75,"E",FALSE
+"831","PS3","Racing","Activision",0.72,81,"E10+",FALSE
+"832","PC","Shooter","Electronic Arts",0.72,87,"M",FALSE
+"833","XB","Action","Electronic Arts",0.71,79,"T",FALSE
+"834","XB","Sports","Electronic Arts",0.71,92,"E",FALSE
+"835","X360","Sports","Electronic Arts",0.71,86,"T",FALSE
+"836","PC","Strategy","Take-Two Interactive",0.71,89,"M",FALSE
+"837","PS2","Fighting","Sega",0.71,93,"T",FALSE
+"838","PC","Shooter","Electronic Arts",0.71,91,"M",FALSE
+"839","PS2","Action","Konami Digital Entertainment",0.71,85,"M",FALSE
+"840","PS2","Action","THQ",0.71,49,"E",FALSE
+"841","X360","Sports","Electronic Arts",0.71,77,"E",FALSE
+"842","X360","Sports","Electronic Arts",0.71,83,"E",FALSE
+"843","XB","Shooter","Activision",0.71,77,"M",FALSE
+"844","X360","Sports","Electronic Arts",0.7,82,"E",FALSE
+"845","X360","Sports","Electronic Arts",0.7,81,"E",FALSE
+"846","XB","Action","Activision",0.7,58,"T",FALSE
+"847","PS2","Shooter","Sony Computer Entertainment",0.7,73,"T",FALSE
+"848","XB","Role-Playing","Microsoft Game Studios",0.7,89,"M",FALSE
+"849","X360","Sports","Electronic Arts",0.7,86,"E10+",FALSE
+"850","PS2","Racing","Electronic Arts",0.7,66,"E",FALSE
+"851","PS2","Simulation","Namco Bandai Games",0.7,58,"T",FALSE
+"852","PS3","Sports","Sony Computer Entertainment",0.7,85,"E",FALSE
+"853","X360","Simulation","Konami Digital Entertainment",0.7,43,"T",FALSE
+"854","X360","Racing","Ubisoft",0.7,80,"T",FALSE
+"855","PS3","Shooter","Activision",0.7,65,"T",FALSE
+"856","XB","Shooter","Microsoft Game Studios",0.69,89,"M",FALSE
+"857","X360","Sports","Ubisoft",0.69,40,"T",FALSE
+"858","PS3","Action","Ubisoft",0.69,75,"T",FALSE
+"859","PC","Simulation","Electronic Arts",0.69,77,"T",FALSE
+"860","PS3","Sports","Take-Two Interactive",0.69,82,"E",FALSE
+"861","XB","Sports","Electronic Arts",0.68,89,"E",FALSE
+"862","X360","Racing","THQ",0.68,70,"E",FALSE
+"863","XB","Sports","Electronic Arts",0.68,89,"E",FALSE
+"864","PS3","Platform","Sony Computer Entertainment",0.68,85,"E10+",FALSE
+"865","PS2","Action","Ubisoft",0.68,85,"M",FALSE
+"866","PS3","Action","Sega",0.68,42,"T",FALSE
+"867","XB","Sports","Electronic Arts",0.68,80,"E",FALSE
+"868","XB","Fighting","Electronic Arts",0.68,85,"T",FALSE
+"869","XB","Shooter","Activision",0.67,84,"M",FALSE
+"870","PS3","Platform","Activision",0.67,60,"T",FALSE
+"871","PC","Role-Playing","Electronic Arts",0.67,89,"M",FALSE
+"872","XB","Shooter","Activision",0.67,78,"T",FALSE
+"873","XB","Sports","Electronic Arts",0.66,81,"E",FALSE
+"874","PS3","Simulation","Ubisoft",0.66,67,"T",FALSE
+"875","PS2","Sports","Activision",0.66,65,"T",FALSE
+"876","PS3","Shooter","Take-Two Interactive",0.66,80,"M",FALSE
+"877","PS2","Sports","Sony Computer Entertainment",0.66,61,"E",FALSE
+"878","PS2","Sports","Electronic Arts",0.66,74,"E",FALSE
+"879","X360","Action","Konami Digital Entertainment",0.66,83,"M",FALSE
+"880","X360","Sports","Electronic Arts",0.66,88,"E10+",FALSE
+"881","X360","Sports","Electronic Arts",0.66,83,"E10+",FALSE
+"882","PC","Strategy","Sega",0.66,81,"T",FALSE
+"883","PC","Shooter","Take-Two Interactive",0.66,94,"M",FALSE
+"884","PS3","Strategy","Ubisoft",0.66,76,"T",FALSE
+"885","PS2","Role-Playing","Konami Digital Entertainment",0.66,63,"T",FALSE
+"886","PS3","Action","Namco Bandai Games",0.66,71,"T",FALSE
+"887","XB","Shooter","Ubisoft",0.66,88,"M",FALSE
+"888","PS2","Action","Activision",0.65,73,"E10+",FALSE
+"889","PS3","Sports","Ubisoft",0.65,63,"T",FALSE
+"890","X360","Misc","Microsoft Game Studios",0.65,76,"T",FALSE
+"891","PS2","Racing","Ubisoft",0.65,47,"T",FALSE
+"892","PS3","Sports","Electronic Arts",0.65,82,"E",FALSE
+"893","X360","Sports","Electronic Arts",0.65,84,"E",FALSE
+"894","PS2","Action","Electronic Arts",0.65,68,"E10+",FALSE
+"895","X360","Sports","Electronic Arts",0.65,80,"E",FALSE
+"896","PC","Action","Ubisoft",0.64,84,"M",FALSE
+"897","XB","Shooter","Take-Two Interactive",0.64,84,"M",FALSE
+"898","PS2","Shooter","Electronic Arts",0.64,60,"T",FALSE
+"899","X360","Sports","Take-Two Interactive",0.64,50,"T",FALSE
+"900","XB","Shooter","Electronic Arts",0.64,83,"T",FALSE
+"901","PS2","Platform","Activision",0.64,58,"T",FALSE
+"902","XB","Sports","Electronic Arts",0.64,79,"E",FALSE
+"903","PC","Sports","Sega",0.64,85,"E",TRUE
+"904","X360","Racing","THQ",0.64,75,"T",FALSE
+"905","X360","Fighting","Namco Bandai Games",0.64,57,"T",FALSE
+"906","PS3","Sports","Electronic Arts",0.64,84,"E10+",FALSE
+"907","PS2","Platform","Activision",0.64,63,"E",FALSE
+"908","PS2","Role-Playing","Activision",0.63,82,"T",FALSE
+"909","PC","Action","Electronic Arts",0.63,82,"M",TRUE
+"910","XB","Sports","Activision",0.63,78,"T",FALSE
+"911","PS3","Sports","Electronic Arts",0.63,73,"E",FALSE
+"912","XB","Sports","Electronic Arts",0.63,88,"E",FALSE
+"913","X360","Action","Electronic Arts",0.63,55,"T",FALSE
+"914","PC","Shooter","Ubisoft",0.63,80,"M",FALSE
+"915","PS2","Racing","Electronic Arts",0.63,78,"E",FALSE
+"916","PS3","Role-Playing","Sony Computer Entertainment",0.63,60,"T",FALSE
+"917","X360","Racing","THQ",0.63,68,"T",FALSE
+"918","PS3","Shooter","Activision",0.63,71,"M",FALSE
+"919","X360","Shooter","Activision",0.63,32,"M",FALSE
+"920","PC","Simulation","Electronic Arts",0.63,70,"T",TRUE
+"921","PS2","Platform","Sony Computer Entertainment",0.63,82,"E",FALSE
+"922","PS3","Racing","Sega",0.63,75,"E",FALSE
+"923","PS2","Sports","Electronic Arts",0.63,82,"E",TRUE
+"924","X360","Action","Sega",0.63,80,"M",FALSE
+"925","PC","Shooter","Electronic Arts",0.63,76,"M",FALSE
+"926","PS3","Sports","Activision",0.63,76,"T",FALSE
+"927","X360","Strategy","Take-Two Interactive",0.62,90,"M",FALSE
+"928","XB","Action","Konami Digital Entertainment",0.62,87,"M",FALSE
+"929","XB","Sports","Activision",0.62,77,"T",FALSE
+"930","PS2","Role-Playing","Ubisoft",0.62,78,"T",FALSE
+"931","XB","Sports","Electronic Arts",0.62,89,"E",FALSE
+"932","PS2","Platform","THQ",0.62,71,"E",FALSE
+"933","PS3","Misc","Ubisoft",0.62,75,"E10+",FALSE
+"934","PS3","Misc","Activision",0.62,86,"T",FALSE
+"935","X360","Action","Ubisoft",0.62,74,"T",FALSE
+"936","X360","Sports","Electronic Arts",0.62,80,"E",FALSE
+"937","X360","Platform","THQ",0.62,50,"E",FALSE
+"938","PS3","Sports","Electronic Arts",0.61,73,"E",TRUE
+"939","PS3","Sports","Take-Two Interactive",0.61,82,"E",FALSE
+"940","XB","Sports","Microsoft Game Studios",0.61,72,"E",FALSE
+"941","PS2","Shooter","Namco Bandai Games",0.61,81,"T",FALSE
+"942","PS3","Shooter","Sega",0.61,84,"M",FALSE
+"943","XB","Shooter","Electronic Arts",0.61,90,"M",FALSE
+"944","X360","Sports","Activision",0.61,46,"E10+",FALSE
+"945","PS3","Shooter","Take-Two Interactive",0.61,77,"M",FALSE
+"946","X360","Sports","Konami Digital Entertainment",0.61,79,"E",FALSE
+"947","PS3","Fighting","Namco Bandai Games",0.61,58,"T",FALSE
+"948","PS2","Platform","Sega",0.6,45,"E10+",FALSE
+"949","PS3","Shooter","Sega",0.6,43,"M",FALSE
+"950","PS3","Shooter","Sega",0.6,64,"M",FALSE
+"951","XB","Fighting","Electronic Arts",0.6,88,"T",FALSE
+"952","PS2","Sports","Take-Two Interactive",0.6,72,"E",FALSE
+"953","PS2","Platform","Sony Computer Entertainment",0.6,61,"E10+",FALSE
+"954","X360","Shooter","Ubisoft",0.6,77,"M",FALSE
+"955","X360","Fighting","Ubisoft",0.6,32,"T",FALSE
+"956","PS2","Racing","Ubisoft",0.6,63,"E",FALSE
+"957","PS2","Action","THQ",0.6,52,"M",FALSE
+"958","PC","Strategy","Sega",0.6,90,"T",FALSE
+"959","PS2","Racing","THQ",0.59,62,"E",FALSE
+"960","X360","Misc","Electronic Arts",0.59,56,"E",FALSE
+"961","PS3","Sports","Activision",0.59,44,"E10+",TRUE
+"962","PC","Action","Electronic Arts",0.59,86,"M",FALSE
+"963","PS3","Sports","Electronic Arts",0.59,88,"E10+",FALSE
+"964","PS3","Action","Sega",0.59,83,"M",FALSE
+"965","PS2","Sports","Electronic Arts",0.59,73,"E",FALSE
+"966","XB","Sports","Electronic Arts",0.59,90,"E",FALSE
+"967","PC","Action","Ubisoft",0.59,88,"M",FALSE
+"968","XB","Sports","Microsoft Game Studios",0.59,73,"M",FALSE
+"969","PS2","Action","Konami Digital Entertainment",0.59,77,"M",FALSE
+"970","X360","Racing","Activision",0.59,82,"E10+",FALSE
+"971","X360","Sports","Electronic Arts",0.59,74,"E",TRUE
+"972","PS3","Action","Konami Digital Entertainment",0.59,66,"M",FALSE
+"973","X360","Action","Ubisoft",0.59,80,"T",FALSE
+"974","PS3","Fighting","Sony Computer Entertainment",0.59,48,"T",FALSE
+"975","X360","Fighting","Namco Bandai Games",0.58,77,"T",FALSE
+"976","X360","Action","Ubisoft",0.58,55,"T",FALSE
+"977","PS2","Role-Playing","Electronic Arts",0.58,73,"T",FALSE
+"978","PS3","Sports","Electronic Arts",0.58,81,"E",FALSE
+"979","PS3","Sports","Sony Computer Entertainment",0.58,90,"E",FALSE
+"980","X360","Adventure","Microsoft Game Studios",0.58,68,"E",FALSE
+"981","X360","Action","Ubisoft",0.58,73,"T",FALSE
+"982","PS3","Adventure","Electronic Arts",0.58,70,"M",FALSE
+"983","X360","Sports","Take-Two Interactive",0.58,84,"E",FALSE
+"984","PS3","Sports","Electronic Arts",0.58,86,"E10+",FALSE
+"985","XB","Action","Ubisoft",0.58,85,"M",FALSE
+"986","PS3","Fighting","Namco Bandai Games",0.58,71,"T",FALSE
+"987","PS2","Shooter","Konami Digital Entertainment",0.58,78,"T",FALSE
+"988","PS3","Platform","Ubisoft",0.58,91,"E10+",FALSE
+"989","PS2","Action","Namco Bandai Games",0.58,52,"T",FALSE
+"990","PS2","Sports","Electronic Arts",0.58,78,"E10+",FALSE
+"991","XB","Shooter","Ubisoft",0.57,85,"M",TRUE
+"992","PS2","Role-Playing","Namco Bandai Games",0.57,78,"T",FALSE
+"993","PS3","Strategy","Take-Two Interactive",0.57,89,"M",FALSE
+"994","PC","Simulation","Electronic Arts",0.57,81,"T",FALSE
+"995","X360","Action","Sega",0.57,45,"T",FALSE
+"996","PS2","Fighting","Namco Bandai Games",0.57,73,"T",FALSE
+"997","PS3","Sports","Electronic Arts",0.57,88,"E10+",FALSE
+"998","XB","Shooter","Microsoft Game Studios",0.57,71,"T",FALSE
+"999","PS2","Sports","Electronic Arts",0.57,77,"E",FALSE
+"1000","XB","Racing","Activision",0.57,74,"T",TRUE
+"1001","XB","Platform","THQ",0.57,70,"E",FALSE
+"1002","X360","Platform","Activision",0.57,63,"T",FALSE
+"1003","XB","Racing","Microsoft Game Studios",0.57,87,"E",FALSE
+"1004","PS3","Action","Take-Two Interactive",0.57,75,"E",FALSE
+"1005","PS2","Shooter","Ubisoft",0.57,73,"M",FALSE
+"1006","PC","Shooter","Electronic Arts",0.56,86,"M",TRUE
+"1007","PS2","Sports","Electronic Arts",0.56,66,"E10+",FALSE
+"1008","XB","Simulation","Electronic Arts",0.56,81,"T",FALSE
+"1009","PS2","Sports","Electronic Arts",0.56,63,"E",FALSE
+"1010","X360","Shooter","THQ",0.56,76,"M",FALSE
+"1011","X360","Action","Take-Two Interactive",0.56,78,"E",FALSE
+"1012","PS2","Sports","Activision",0.56,55,"T",FALSE
+"1013","XB","Shooter","Electronic Arts",0.56,80,"T",FALSE
+"1014","PS3","Action","Ubisoft",0.56,74,"T",FALSE
+"1015","XB","Fighting","THQ",0.56,68,"T",FALSE
+"1016","PS2","Action","Take-Two Interactive",0.56,67,"M",FALSE
+"1017","PS2","Action","Electronic Arts",0.56,64,"T",FALSE
+"1018","X360","Sports","Activision",0.56,72,"T",FALSE
+"1019","X360","Shooter","Activision",0.56,72,"M",FALSE
+"1020","XB","Platform","Microsoft Game Studios",0.56,71,"E",FALSE
+"1021","PS2","Sports","Sega",0.56,91,"E",FALSE
+"1022","XB","Sports","Take-Two Interactive",0.56,81,"E",FALSE
+"1023","X360","Action","Ubisoft",0.56,58,"E10+",FALSE
+"1024","X360","Shooter","THQ",0.56,75,"T",FALSE
+"1025","PS2","Racing","THQ",0.56,76,"E",FALSE
+"1026","XB","Sports","Electronic Arts",0.56,88,"E",FALSE
+"1027","PS3","Action","Sony Computer Entertainment",0.55,84,"M",FALSE
+"1028","PS2","Action","Konami Digital Entertainment",0.55,94,"M",FALSE
+"1029","PS3","Action","Namco Bandai Games",0.55,80,"T",FALSE
+"1030","XB","Fighting","THQ",0.55,68,"T",FALSE
+"1031","PS2","Action","Sony Computer Entertainment",0.55,67,"M",FALSE
+"1032","PS2","Adventure","Ubisoft",0.55,68,"T",FALSE
+"1033","XB","Sports","Activision",0.55,93,"T",FALSE
+"1034","PS3","Sports","Take-Two Interactive",0.55,81,"E",FALSE
+"1035","PC","Action","Ubisoft",0.55,70,"M",TRUE
+"1036","X360","Racing","THQ",0.55,63,"E",FALSE
+"1037","XB","Platform","Activision",0.55,72,"E",FALSE
+"1038","PC","Action","Ubisoft",0.55,86,"M",FALSE
+"1039","X360","Misc","Microsoft Game Studios",0.55,70,"T",FALSE
+"1040","PS2","Racing","Sony Computer Entertainment",0.55,76,"T",FALSE
+"1041","XB","Shooter","Take-Two Interactive",0.55,74,"M",FALSE
+"1042","PS2","Action","Sega",0.54,47,"T",FALSE
+"1043","PS3","Shooter","Take-Two Interactive",0.54,77,"M",FALSE
+"1044","XB","Platform","THQ",0.54,74,"E",FALSE
+"1045","PS3","Sports","Electronic Arts",0.54,80,"E10+",FALSE
+"1046","PS3","Fighting","THQ",0.54,70,"T",FALSE
+"1047","X360","Sports","Electronic Arts",0.54,80,"E",FALSE
+"1048","XB","Simulation","Konami Digital Entertainment",0.54,82,"E",FALSE
+"1049","X360","Action","Namco Bandai Games",0.54,82,"T",FALSE
+"1050","PS3","Sports","Electronic Arts",0.54,75,"E",FALSE
+"1051","XB","Fighting","Electronic Arts",0.54,84,"M",FALSE
+"1052","PS3","Sports","Electronic Arts",0.54,81,"E",FALSE
+"1053","X360","Shooter","THQ",0.54,77,"M",FALSE
+"1054","XB","Shooter","Activision",0.54,74,"T",FALSE
+"1055","PS2","Sports","Sega",0.54,89,"E",FALSE
+"1056","X360","Fighting","Namco Bandai Games",0.54,55,"T",FALSE
+"1057","PS2","Platform","Activision",0.54,58,"E10+",FALSE
+"1058","X360","Sports","Electronic Arts",0.54,81,"E10+",TRUE
+"1059","PS2","Fighting","Sony Computer Entertainment",0.54,80,"T",FALSE
+"1060","PS3","Shooter","Namco Bandai Games",0.54,58,"T",FALSE
+"1061","PS2","Shooter","Namco Bandai Games",0.53,81,"T",FALSE
+"1062","PS2","Sports","Electronic Arts",0.53,78,"E",FALSE
+"1063","PS2","Sports","Electronic Arts",0.53,78,"E",FALSE
+"1064","PC","Shooter","Activision",0.53,91,"T",TRUE
+"1065","XB","Action","Ubisoft",0.53,82,"T",FALSE
+"1066","XB","Racing","Electronic Arts",0.53,89,"E10+",FALSE
+"1067","XB","Shooter","Electronic Arts",0.53,72,"T",FALSE
+"1068","PS2","Platform","Electronic Arts",0.53,71,"E",FALSE
+"1069","PS2","Sports","Sony Computer Entertainment",0.53,63,"E",FALSE
+"1070","PC","Strategy","Activision",0.53,88,"T",FALSE
+"1071","PS2","Action","Take-Two Interactive",0.53,69,"T",FALSE
+"1072","PS2","Racing","THQ",0.53,68,"T",FALSE
+"1073","PS2","Action","Take-Two Interactive",0.53,84,"M",FALSE
+"1074","PS3","Shooter","Electronic Arts",0.53,83,"M",FALSE
+"1075","PS2","Shooter","Activision",0.53,66,"M",FALSE
+"1076","PS3","Misc","Ubisoft",0.52,66,"E10+",FALSE
+"1077","PS3","Racing","THQ",0.52,76,"T",FALSE
+"1078","X360","Sports","Electronic Arts",0.52,79,"E",FALSE
+"1079","PS2","Action","Sega",0.52,46,"E10+",FALSE
+"1080","PS2","Action","Konami Digital Entertainment",0.52,87,"M",FALSE
+"1081","X360","Sports","Electronic Arts",0.52,73,"E",FALSE
+"1082","PS2","Puzzle","Electronic Arts",0.52,86,"E",FALSE
+"1083","XB","Sports","Electronic Arts",0.52,90,"E",FALSE
+"1084","PS3","Sports","Electronic Arts",0.52,76,"E",TRUE
+"1085","PS3","Sports","Electronic Arts",0.52,75,"E",FALSE
+"1086","PS3","Misc","Sony Computer Entertainment",0.52,65,"T",TRUE
+"1087","PS2","Shooter","Electronic Arts",0.52,81,"T",FALSE
+"1088","XB","Shooter","Activision",0.52,79,"M",FALSE
+"1089","PS2","Action","THQ",0.52,68,"M",FALSE
+"1090","PS2","Sports","Electronic Arts",0.52,80,"E",FALSE
+"1091","PC","Simulation","Electronic Arts",0.52,78,"T",FALSE
+"1092","PS3","Action","Activision",0.51,76,"E10+",FALSE
+"1093","PS2","Misc","Sony Computer Entertainment",0.51,47,"E",FALSE
+"1094","PS3","Action","Sony Computer Entertainment",0.51,53,"T",FALSE
+"1095","PS2","Role-Playing","THQ",0.51,74,"T",FALSE
+"1096","PS3","Shooter","Activision",0.51,34,"M",FALSE
+"1097","X360","Sports","Take-Two Interactive",0.51,76,"E",FALSE
+"1098","PS3","Action","THQ",0.51,55,"E",FALSE
+"1099","XB","Sports","Electronic Arts",0.51,85,"E",FALSE
+"1100","PS2","Simulation","Namco Bandai Games",0.51,75,"T",FALSE
+"1101","PC","Role-Playing","Electronic Arts",0.51,91,"M",FALSE
+"1102","PS2","Sports","Electronic Arts",0.51,76,"E10+",TRUE
+"1103","X360","Fighting","Namco Bandai Games",0.51,56,"T",FALSE
+"1104","X360","Fighting","Namco Bandai Games",0.51,70,"T",FALSE
+"1105","PS2","Sports","Take-Two Interactive",0.51,71,"E",TRUE
+"1106","PS2","Action","Konami Digital Entertainment",0.51,76,"M",FALSE
+"1107","X360","Sports","Electronic Arts",0.51,77,"E",TRUE
+"1108","X360","Action","Electronic Arts",0.51,73,"M",FALSE
+"1109","PS2","Racing","Sega",0.5,55,"E",FALSE
+"1110","X360","Sports","Electronic Arts",0.5,88,"E10+",FALSE
+"1111","X360","Fighting","THQ",0.5,81,"T",FALSE
+"1112","XB","Racing","Take-Two Interactive",0.5,86,"T",FALSE
+"1113","PS3","Action","Ubisoft",0.5,54,"T",FALSE
+"1114","PS2","Misc","Activision",0.5,75,"E",FALSE
+"1115","X360","Action","Konami Digital Entertainment",0.5,78,"E",FALSE
+"1116","PS3","Strategy","Ubisoft",0.5,76,"T",FALSE
+"1117","X360","Shooter","Activision",0.5,72,"T",FALSE
+"1118","PS2","Simulation","Activision",0.5,81,"T",FALSE
+"1119","X360","Sports","Take-Two Interactive",0.5,68,"E",FALSE
+"1120","X360","Simulation","Konami Digital Entertainment",0.5,65,"E10+",FALSE
+"1121","X360","Racing","Electronic Arts",0.5,89,"E10+",FALSE
+"1122","PS2","Action","THQ",0.5,65,"E",FALSE
+"1123","X360","Sports","Electronic Arts",0.5,80,"E",FALSE
+"1124","PS2","Racing","THQ",0.5,80,"E",FALSE
+"1125","PS2","Action","Activision",0.5,67,"E10+",FALSE
+"1126","PS2","Action","Activision",0.5,64,"T",FALSE
+"1127","X360","Adventure","Electronic Arts",0.5,70,"M",FALSE
+"1128","PS3","Action","Namco Bandai Games",0.49,54,"T",FALSE
+"1129","X360","Sports","Activision",0.49,81,"T",FALSE
+"1130","XB","Shooter","Electronic Arts",0.49,61,"T",FALSE
+"1131","X360","Action","Namco Bandai Games",0.49,78,"T",FALSE
+"1132","PC","Shooter","Electronic Arts",0.49,72,"M",FALSE
+"1133","PS2","Role-Playing","Namco Bandai Games",0.49,72,"T",FALSE
+"1134","PS2","Action","Activision",0.48,56,"E10+",FALSE
+"1135","PC","Action","Ubisoft",0.48,85,"M",TRUE
+"1136","XB","Sports","Electronic Arts",0.48,78,"E",FALSE
+"1137","X360","Misc","Microsoft Game Studios",0.48,55,"E",FALSE
+"1138","X360","Misc","Microsoft Game Studios",0.48,73,"T",FALSE
+"1139","PS3","Racing","Sony Computer Entertainment",0.48,77,"T",FALSE
+"1140","X360","Sports","Electronic Arts",0.48,80,"E",FALSE
+"1141","PS3","Action","Electronic Arts",0.48,72,"M",FALSE
+"1142","X360","Action","Konami Digital Entertainment",0.48,82,"M",FALSE
+"1143","PS2","Strategy","Electronic Arts",0.48,82,"E",FALSE
+"1144","XB","Sports","Electronic Arts",0.48,81,"E",TRUE
+"1145","X360","Sports","Electronic Arts",0.48,72,"E",FALSE
+"1146","PS2","Puzzle","Sony Computer Entertainment",0.47,72,"E",FALSE
+"1147","PS2","Fighting","Activision",0.47,61,"T",FALSE
+"1148","X360","Shooter","Activision",0.47,62,"T",FALSE
+"1149","PS2","Action","Sony Computer Entertainment",0.47,90,"T",FALSE
+"1150","PS2","Racing","THQ",0.47,54,"E",FALSE
+"1151","X360","Simulation","Microsoft Game Studios",0.47,82,"E",FALSE
+"1152","XB","Racing","Electronic Arts",0.47,74,"E10+",FALSE
+"1153","X360","Role-Playing","Microsoft Game Studios",0.47,66,"M",FALSE
+"1154","PC","Strategy","THQ",0.47,85,"M",FALSE
+"1155","PS2","Misc","Activision",0.47,46,"E10+",FALSE
+"1156","X360","Action","Sega",0.47,54,"M",FALSE
+"1157","PS2","Sports","Activision",0.46,76,"T",FALSE
+"1158","PC","Simulation","Electronic Arts",0.46,74,"T",FALSE
+"1159","PS2","Strategy","THQ",0.46,71,"T",FALSE
+"1160","PS2","Shooter","Ubisoft",0.46,71,"M",FALSE
+"1161","PS3","Racing","THQ",0.46,61,"E",FALSE
+"1162","X360","Sports","Electronic Arts",0.46,59,"E",FALSE
+"1163","PS2","Shooter","Ubisoft",0.46,82,"M",FALSE
+"1164","PS2","Action","Sony Computer Entertainment",0.46,80,"M",FALSE
+"1165","PS3","Action","Konami Digital Entertainment",0.46,64,"M",FALSE
+"1166","PS2","Platform","Sony Computer Entertainment",0.46,72,"E10+",TRUE
+"1167","PS3","Racing","THQ",0.46,67,"E",FALSE
+"1168","XB","Sports","Microsoft Game Studios",0.46,89,"E",FALSE
+"1169","X360","Action","Sega",0.46,41,"E10+",FALSE
+"1170","PS2","Sports","Electronic Arts",0.45,66,"E",FALSE
+"1171","PS2","Sports","Electronic Arts",0.45,75,"E",FALSE
+"1172","XB","Shooter","Activision",0.45,76,"T",FALSE
+"1173","X360","Shooter","Activision",0.45,69,"T",FALSE
+"1174","X360","Sports","Take-Two Interactive",0.45,69,"E",FALSE
+"1175","PS3","Shooter","THQ",0.45,71,"M",FALSE
+"1176","X360","Racing","Sega",0.45,77,"E",FALSE
+"1177","XB","Fighting","THQ",0.45,56,"T",FALSE
+"1178","X360","Sports","Electronic Arts",0.45,80,"E",FALSE
+"1179","X360","Action","Electronic Arts",0.45,38,"T",FALSE
+"1180","PS2","Racing","Electronic Arts",0.45,73,"T",FALSE
+"1181","PS3","Action","Activision",0.45,61,"M",FALSE
+"1182","PC","Action","Ubisoft",0.45,77,"M",TRUE
+"1183","X360","Action","Konami Digital Entertainment",0.45,70,"M",FALSE
+"1184","PS3","Shooter","THQ",0.44,70,"M",FALSE
+"1185","XB","Sports","Konami Digital Entertainment",0.44,89,"E",FALSE
+"1186","PS2","Action","Konami Digital Entertainment",0.44,47,"T",FALSE
+"1187","PS2","Action","Activision",0.44,64,"T",FALSE
+"1188","PS3","Sports","Sega",0.44,69,"E",FALSE
+"1189","XB","Role-Playing","Activision",0.44,84,"T",FALSE
+"1190","X360","Fighting","Namco Bandai Games",0.44,74,"T",FALSE
+"1191","PS2","Action","Electronic Arts",0.44,56,"M",FALSE
+"1192","XB","Sports","Electronic Arts",0.44,88,"E",FALSE
+"1193","PS2","Shooter","Electronic Arts",0.44,80,"T",FALSE
+"1194","PS3","Sports","Activision",0.44,73,"T",FALSE
+"1195","X360","Action","Sega",0.44,68,"M",FALSE
+"1196","X360","Action","Activision",0.44,79,"T",FALSE
+"1197","XB","Racing","THQ",0.44,81,"E",FALSE
+"1198","X360","Shooter","Take-Two Interactive",0.44,82,"M",FALSE
+"1199","X360","Shooter","Ubisoft",0.44,84,"E10+",FALSE
+"1200","PS3","Action","Activision",0.44,74,"T",FALSE
+"1201","XB","Simulation","Activision",0.44,78,"T",TRUE
+"1202","PS2","Action","Sony Computer Entertainment",0.43,73,"M",FALSE
+"1203","XB","Sports","Electronic Arts",0.43,88,"E",FALSE
+"1204","XB","Sports","Electronic Arts",0.43,88,"E",FALSE
+"1205","PS2","Action","Electronic Arts",0.43,51,"E",FALSE
+"1206","PS3","Fighting","Namco Bandai Games",0.43,73,"T",FALSE
+"1207","X360","Action","Activision",0.43,62,"M",FALSE
+"1208","PS2","Role-Playing","Namco Bandai Games",0.43,51,"T",FALSE
+"1209","PS2","Sports","Sony Computer Entertainment",0.43,71,"E",FALSE
+"1210","PS3","Misc","Ubisoft",0.43,77,"E10+",FALSE
+"1211","PS2","Simulation","Namco Bandai Games",0.43,71,"T",FALSE
+"1212","PC","Shooter","Take-Two Interactive",0.43,87,"M",FALSE
+"1213","PS3","Role-Playing","Sega",0.43,64,"M",FALSE
+"1214","X360","Platform","Ubisoft",0.43,90,"E10+",FALSE
+"1215","PC","Simulation","Microsoft Game Studios",0.43,80,"E",FALSE
+"1216","PS2","Misc","Sega",0.43,46,"T",FALSE
+"1217","PS3","Action","Electronic Arts",0.42,68,"M",TRUE
+"1218","X360","Sports","Electronic Arts",0.42,74,"E",TRUE
+"1219","PS2","Sports","Take-Two Interactive",0.42,81,"E10+",TRUE
+"1220","XB","Simulation","Electronic Arts",0.42,84,"T",FALSE
+"1221","PS2","Adventure","Sony Computer Entertainment",0.42,64,"T",TRUE
+"1222","PS3","Simulation","Konami Digital Entertainment",0.42,73,"M",FALSE
+"1223","PS2","Racing","THQ",0.42,55,"E",FALSE
+"1224","X360","Misc","Activision",0.42,71,"T",FALSE
+"1225","PS2","Sports","Sony Computer Entertainment",0.42,84,"E",FALSE
+"1226","XB","Simulation","Konami Digital Entertainment",0.42,78,"E",FALSE
+"1227","PS2","Action","Konami Digital Entertainment",0.42,70,"M",FALSE
+"1228","XB","Shooter","Electronic Arts",0.42,77,"M",FALSE
+"1229","X360","Shooter","Take-Two Interactive",0.42,76,"M",FALSE
+"1230","X360","Shooter","Sega",0.42,84,"M",FALSE
+"1231","X360","Simulation","Ubisoft",0.42,66,"T",FALSE
+"1232","PS2","Simulation","Konami Digital Entertainment",0.41,82,"M",FALSE
+"1233","PS2","Sports","Sony Computer Entertainment",0.41,65,"E",FALSE
+"1234","X360","Action","Sega",0.41,81,"M",FALSE
+"1235","XB","Shooter","Ubisoft",0.41,74,"M",FALSE
+"1236","PS3","Action","Ubisoft",0.41,70,"T",FALSE
+"1237","PS2","Action","Activision",0.41,52,"T",FALSE
+"1238","PC","Shooter","Ubisoft",0.41,79,"M",TRUE
+"1239","PS3","Racing","THQ",0.41,63,"E",FALSE
+"1240","PC","Shooter","Take-Two Interactive",0.41,96,"M",FALSE
+"1241","X360","Sports","Take-Two Interactive",0.41,84,"E",FALSE
+"1242","PC","Shooter","Activision",0.41,78,"M",TRUE
+"1243","PS2","Platform","Ubisoft",0.41,59,"E",FALSE
+"1244","PS3","Fighting","THQ",0.41,75,"T",FALSE
+"1245","X360","Shooter","Electronic Arts",0.41,77,"T",FALSE
+"1246","PS2","Action","Electronic Arts",0.41,69,"T",FALSE
+"1247","X360","Simulation","THQ",0.41,66,"E",FALSE
+"1248","PC","Shooter","Take-Two Interactive",0.41,54,"M",FALSE
+"1249","PS2","Action","Activision",0.41,50,"T",FALSE
+"1250","PS3","Puzzle","Namco Bandai Games",0.4,74,"E",FALSE
+"1251","X360","Action","Activision",0.4,68,"T",FALSE
+"1252","X360","Action","Ubisoft",0.4,51,"M",FALSE
+"1253","PS3","Adventure","Konami Digital Entertainment",0.4,93,"M",FALSE
+"1254","PS3","Platform","THQ",0.4,51,"E",FALSE
+"1255","PC","Sports","Electronic Arts",0.4,87,"E",TRUE
+"1256","PS2","Sports","Sony Computer Entertainment",0.4,81,"E",FALSE
+"1257","X360","Shooter","Microsoft Game Studios",0.4,77,"T",FALSE
+"1258","XB","Racing","THQ",0.4,80,"E",FALSE
+"1259","PC","Action","Electronic Arts",0.4,86,"E",FALSE
+"1260","PC","Action","Take-Two Interactive",0.4,77,"M",FALSE
+"1261","XB","Sports","Electronic Arts",0.4,76,"E",FALSE
+"1262","PS3","Sports","Sega",0.4,67,"E10+",FALSE
+"1263","PS2","Platform","Sony Computer Entertainment",0.4,73,"T",FALSE
+"1264","PS2","Fighting","Konami Digital Entertainment",0.39,66,"M",FALSE
+"1265","PS2","Action","Take-Two Interactive",0.39,36,"T",FALSE
+"1266","XB","Action","Activision",0.39,77,"T",FALSE
+"1267","PS2","Racing","THQ",0.39,66,"T",FALSE
+"1268","X360","Fighting","THQ",0.39,71,"T",FALSE
+"1269","PS3","Simulation","Namco Bandai Games",0.39,65,"T",FALSE
+"1270","PC","Role-Playing","Electronic Arts",0.39,94,"M",FALSE
+"1271","PS3","Action","Electronic Arts",0.39,38,"T",FALSE
+"1272","XB","Shooter","Sega",0.39,72,"M",FALSE
+"1273","PS3","Sports","Electronic Arts",0.39,71,"E",FALSE
+"1274","X360","Sports","Electronic Arts",0.39,75,"E",FALSE
+"1275","PS3","Action","Activision",0.39,77,"T",FALSE
+"1276","X360","Role-Playing","Sega",0.39,63,"M",FALSE
+"1277","XB","Sports","Electronic Arts",0.39,92,"E",FALSE
+"1278","PS3","Action","Sega",0.39,41,"T",FALSE
+"1279","PS2","Fighting","Ubisoft",0.39,62,"M",FALSE
+"1280","PS3","Misc","Electronic Arts",0.39,64,"E",FALSE
+"1281","PS3","Action","Sega",0.39,82,"M",FALSE
+"1282","PS2","Misc","Ubisoft",0.39,79,"E",FALSE
+"1283","X360","Shooter","Take-Two Interactive",0.39,80,"M",FALSE
+"1284","XB","Shooter","Ubisoft",0.39,84,"T",FALSE
+"1285","X360","Sports","Electronic Arts",0.39,68,"E",FALSE
+"1286","X360","Shooter","THQ",0.39,71,"M",FALSE
+"1287","PS3","Action","Konami Digital Entertainment",0.38,71,"M",FALSE
+"1288","XB","Sports","Sega",0.38,86,"E",FALSE
+"1289","PS3","Role-Playing","Activision",0.38,78,"T",FALSE
+"1290","PS2","Sports","Sony Computer Entertainment",0.38,51,"E",FALSE
+"1291","PS3","Sports","Electronic Arts",0.38,77,"E",FALSE
+"1292","PS2","Sports","Sega",0.38,70,"E10+",FALSE
+"1293","PS2","Action","Sega",0.38,74,"M",FALSE
+"1294","PS3","Action","Sega",0.38,65,"M",FALSE
+"1295","PS2","Misc","THQ",0.38,60,"E",FALSE
+"1296","PC","Shooter","Electronic Arts",0.38,88,"M",FALSE
+"1297","PS2","Action","Sega",0.38,50,"T",FALSE
+"1298","PS2","Shooter","Electronic Arts",0.38,49,"T",FALSE
+"1299","PC","Action","THQ",0.38,84,"M",FALSE
+"1300","PS2","Racing","THQ",0.38,53,"E",FALSE
+"1301","PC","Simulation","Ubisoft",0.38,82,"T",FALSE
+"1302","PS3","Sports","Sega",0.38,70,"E",FALSE
+"1303","PS2","Action","Activision",0.38,56,"E",FALSE
+"1304","PC","Strategy","Microsoft Game Studios",0.38,81,"T",FALSE
+"1305","PS2","Misc","Sony Computer Entertainment",0.38,78,"E10+",FALSE
+"1306","XB","Simulation","Konami Digital Entertainment",0.38,75,"E10+",FALSE
+"1307","PS3","Misc","Ubisoft",0.38,77,"E10+",FALSE
+"1308","PS3","Sports","Take-Two Interactive",0.37,80,"E",FALSE
+"1309","PC","Racing","Electronic Arts",0.37,86,"E10+",FALSE
+"1310","X360","Misc","Electronic Arts",0.37,66,"E",FALSE
+"1311","X360","Role-Playing","Microsoft Game Studios",0.37,55,"M",FALSE
+"1312","PS2","Action","Activision",0.37,62,"E10+",FALSE
+"1313","PS3","Fighting","Electronic Arts",0.37,77,"T",FALSE
+"1314","X360","Shooter","Activision",0.37,75,"M",FALSE
+"1315","PS3","Sports","Electronic Arts",0.37,74,"E",TRUE
+"1316","PS3","Sports","Electronic Arts",0.37,85,"T",FALSE
+"1317","PS2","Sports","Electronic Arts",0.37,59,"E",FALSE
+"1318","PS2","Role-Playing","Namco Bandai Games",0.37,81,"T",FALSE
+"1319","PS2","Simulation","Electronic Arts",0.37,71,"T",FALSE
+"1320","XB","Sports","Electronic Arts",0.36,82,"E",FALSE
+"1321","PC","Action","Electronic Arts",0.36,69,"T",FALSE
+"1322","PS2","Fighting","Namco Bandai Games",0.36,48,"T",FALSE
+"1323","PS2","Sports","Konami Digital Entertainment",0.36,58,"E",FALSE
+"1324","PC","Strategy","Take-Two Interactive",0.36,81,"E10+",TRUE
+"1325","PS3","Action","Konami Digital Entertainment",0.36,59,"M",FALSE
+"1326","X360","Action","Ubisoft",0.36,68,"T",FALSE
+"1327","PS2","Action","THQ",0.36,60,"E10+",FALSE
+"1328","PS2","Role-Playing","Sony Computer Entertainment",0.36,70,"T",FALSE
+"1329","XB","Action","Take-Two Interactive",0.36,84,"E",FALSE
+"1330","XB","Simulation","Microsoft Game Studios",0.36,81,"T",FALSE
+"1331","XB","Sports","Sega",0.36,91,"E",FALSE
+"1332","X360","Action","Activision",0.36,76,"T",FALSE
+"1333","PS2","Role-Playing","Sony Computer Entertainment",0.36,72,"T",FALSE
+"1334","XB","Action","Electronic Arts",0.36,77,"E",FALSE
+"1335","PS2","Role-Playing","Konami Digital Entertainment",0.35,76,"T",FALSE
+"1336","X360","Sports","Electronic Arts",0.35,77,"E",FALSE
+"1337","PS2","Action","Ubisoft",0.35,63,"T",FALSE
+"1338","PS3","Misc","Activision",0.35,73,"T",FALSE
+"1339","PS2","Racing","THQ",0.35,56,"T",FALSE
+"1340","PC","Simulation","Sega",0.35,81,"E",FALSE
+"1341","X360","Fighting","Electronic Arts",0.35,79,"T",FALSE
+"1342","PS2","Shooter","Ubisoft",0.35,70,"M",FALSE
+"1343","PS2","Misc","Konami Digital Entertainment",0.35,83,"E",FALSE
+"1344","PS2","Role-Playing","Ubisoft",0.35,59,"T",FALSE
+"1345","PS3","Shooter","Activision",0.35,60,"T",FALSE
+"1346","X360","Action","Electronic Arts",0.34,69,"M",FALSE
+"1347","PS3","Action","Activision",0.34,57,"T",FALSE
+"1348","X360","Fighting","THQ",0.34,75,"T",FALSE
+"1349","X360","Fighting","Namco Bandai Games",0.34,83,"T",FALSE
+"1350","PS2","Racing","Sony Computer Entertainment",0.34,72,"T",FALSE
+"1351","PS3","Sports","Ubisoft",0.34,45,"E",FALSE
+"1352","PC","Strategy","THQ",0.34,80,"M",TRUE
+"1353","XB","Simulation","Electronic Arts",0.34,70,"T",FALSE
+"1354","PS3","Misc","Electronic Arts",0.34,54,"E",FALSE
+"1355","X360","Action","Microsoft Game Studios",0.34,56,"M",FALSE
+"1356","PS3","Action","THQ",0.34,69,"M",FALSE
+"1357","XB","Sports","Electronic Arts",0.34,75,"E",FALSE
+"1358","X360","Action","Microsoft Game Studios",0.34,79,"T",FALSE
+"1359","PS3","Shooter","Sony Computer Entertainment",0.34,60,"T",FALSE
+"1360","PS2","Action","Namco Bandai Games",0.34,52,"T",FALSE
+"1361","PS3","Misc","Sony Computer Entertainment",0.33,75,"T",FALSE
+"1362","XB","Shooter","Ubisoft",0.33,66,"T",FALSE
+"1363","PS3","Sports","Electronic Arts",0.33,88,"E10+",FALSE
+"1364","PS3","Sports","Electronic Arts",0.33,75,"E",FALSE
+"1365","X360","Action","Electronic Arts",0.33,44,"T",FALSE
+"1366","PS2","Platform","Sony Computer Entertainment",0.33,91,"E",FALSE
+"1367","X360","Action","Microsoft Game Studios",0.33,68,"M",FALSE
+"1368","PS2","Sports","Activision",0.33,77,"E",FALSE
+"1369","X360","Sports","Sega",0.33,70,"E",FALSE
+"1370","PS2","Sports","Sony Computer Entertainment",0.33,79,"E",FALSE
+"1371","XB","Fighting","Electronic Arts",0.33,83,"T",FALSE
+"1372","X360","Action","Ubisoft",0.33,78,"T",FALSE
+"1373","PS3","Sports","Activision",0.33,60,"T",FALSE
+"1374","X360","Role-Playing","Sega",0.33,74,"T",FALSE
+"1375","PC","Action","Electronic Arts",0.33,55,"M",FALSE
+"1376","PS3","Action","Electronic Arts",0.33,66,"E10+",FALSE
+"1377","PS3","Action","Sega",0.33,72,"M",FALSE
+"1378","XB","Sports","Take-Two Interactive",0.33,71,"E",FALSE
+"1379","X360","Action","Sega",0.33,45,"M",FALSE
+"1380","PS3","Misc","Konami Digital Entertainment",0.32,75,"T",FALSE
+"1381","PS3","Action","Sega",0.32,44,"M",FALSE
+"1382","PC","Shooter","Electronic Arts",0.32,87,"M",FALSE
+"1383","PS2","Racing","Sony Computer Entertainment",0.32,77,"T",FALSE
+"1384","X360","Misc","Ubisoft",0.32,66,"T",FALSE
+"1385","XB","Sports","Electronic Arts",0.32,89,"E",FALSE
+"1386","X360","Action","Konami Digital Entertainment",0.32,68,"M",FALSE
+"1387","X360","Simulation","Konami Digital Entertainment",0.32,74,"E10+",FALSE
+"1388","PS2","Shooter","Ubisoft",0.32,74,"M",FALSE
+"1389","X360","Sports","Activision",0.32,75,"T",FALSE
+"1390","X360","Puzzle","Namco Bandai Games",0.32,73,"E",FALSE
+"1391","PS3","Action","Electronic Arts",0.32,43,"T",FALSE
+"1392","PS2","Simulation","Sony Computer Entertainment",0.32,79,"E",FALSE
+"1393","PC","Role-Playing","Activision",0.32,88,"T",FALSE
+"1394","PS3","Sports","Electronic Arts",0.32,63,"E",FALSE
+"1395","PS2","Platform","Konami Digital Entertainment",0.32,59,"E",FALSE
+"1396","PS3","Action","Konami Digital Entertainment",0.32,70,"M",TRUE
+"1397","PS2","Misc","Konami Digital Entertainment",0.32,82,"E",FALSE
+"1398","PS2","Fighting","Ubisoft",0.32,68,"T",FALSE
+"1399","PS2","Sports","Activision",0.32,78,"E",FALSE
+"1400","X360","Shooter","Take-Two Interactive",0.32,79,"M",FALSE
+"1401","PS3","Role-Playing","Sony Computer Entertainment",0.32,75,"T",FALSE
+"1402","PS3","Shooter","Take-Two Interactive",0.32,79,"M",FALSE
+"1403","XB","Sports","Sega",0.32,87,"E",FALSE
+"1404","XB","Sports","Microsoft Game Studios",0.32,74,"E",FALSE
+"1405","X360","Sports","Electronic Arts",0.32,63,"E",FALSE
+"1406","PC","Role-Playing","Microsoft Game Studios",0.32,75,"M",TRUE
+"1407","PS2","Adventure","Sony Computer Entertainment",0.32,52,"E",FALSE
+"1408","PS2","Misc","Activision",0.32,87,"T",TRUE
+"1409","XB","Adventure","Microsoft Game Studios",0.32,80,"T",FALSE
+"1410","PS3","Sports","Sony Computer Entertainment",0.31,77,"E",FALSE
+"1411","X360","Action","Electronic Arts",0.31,64,"E10+",FALSE
+"1412","XB","Sports","Microsoft Game Studios",0.31,72,"E",FALSE
+"1413","PS2","Sports","Electronic Arts",0.31,59,"E",FALSE
+"1414","PC","Strategy","Ubisoft",0.31,79,"E10+",TRUE
+"1415","XB","Shooter","Ubisoft",0.31,85,"M",FALSE
+"1416","XB","Shooter","Activision",0.31,81,"T",FALSE
+"1417","PS3","Action","Namco Bandai Games",0.31,41,"T",TRUE
+"1418","X360","Sports","Electronic Arts",0.31,71,"E",FALSE
+"1419","X360","Sports","Konami Digital Entertainment",0.31,82,"E",FALSE
+"1420","PS2","Sports","Sony Computer Entertainment",0.31,52,"E",FALSE
+"1421","PS2","Action","Activision",0.31,49,"M",FALSE
+"1422","PS3","Fighting","Namco Bandai Games",0.31,54,"T",FALSE
+"1423","PS2","Action","Sony Computer Entertainment",0.31,59,"E",FALSE
+"1424","PS2","Role-Playing","Activision",0.31,54,"T",FALSE
+"1425","XB","Racing","Microsoft Game Studios",0.3,76,"E",FALSE
+"1426","PS3","Action","Activision",0.3,66,"E10+",TRUE
+"1427","X360","Racing","Activision",0.3,62,"E",TRUE
+"1428","PC","Role-Playing","Electronic Arts",0.3,81,"M",FALSE
+"1429","PS2","Adventure","Sony Computer Entertainment",0.3,61,"E10+",FALSE
+"1430","PS2","Adventure","Sony Computer Entertainment",0.3,62,"M",FALSE
+"1431","X360","Fighting","Ubisoft",0.3,61,"E10+",FALSE
+"1432","PS2","Platform","Ubisoft",0.3,90,"E",FALSE
+"1433","PS2","Fighting","THQ",0.3,73,"M",FALSE
+"1434","PS2","Role-Playing","Ubisoft",0.3,62,"T",FALSE
+"1435","X360","Simulation","Konami Digital Entertainment",0.3,65,"E",FALSE
+"1436","PS2","Strategy","THQ",0.3,74,"M",FALSE
+"1437","PS2","Simulation","Electronic Arts",0.3,68,"T",FALSE
+"1438","XB","Action","Konami Digital Entertainment",0.3,56,"E",FALSE
+"1439","PS3","Action","Sony Computer Entertainment",0.29,70,"E10+",FALSE
+"1440","X360","Action","Electronic Arts",0.29,68,"E10+",FALSE
+"1441","PS2","Role-Playing","Ubisoft",0.29,71,"T",FALSE
+"1442","X360","Action","Activision",0.29,60,"E10+",FALSE
+"1443","X360","Misc","Activision",0.29,57,"T",FALSE
+"1444","PC","Simulation","Electronic Arts",0.29,90,"T",FALSE
+"1445","X360","Misc","Konami Digital Entertainment",0.29,74,"T",FALSE
+"1446","X360","Action","THQ",0.29,61,"E10+",FALSE
+"1447","X360","Sports","Electronic Arts",0.29,64,"E",FALSE
+"1448","PC","Racing","Electronic Arts",0.29,82,"T",FALSE
+"1449","PS2","Racing","Take-Two Interactive",0.29,58,"E",FALSE
+"1450","PC","Shooter","Take-Two Interactive",0.29,75,"M",FALSE
+"1451","XB","Sports","Electronic Arts",0.29,76,"E",FALSE
+"1452","PS3","Action","Sony Computer Entertainment",0.29,77,"T",FALSE
+"1453","XB","Role-Playing","Ubisoft",0.29,65,"T",FALSE
+"1454","PS2","Role-Playing","Sega",0.29,81,"T",FALSE
+"1455","PS3","Shooter","Ubisoft",0.29,45,"M",FALSE
+"1456","PS3","Strategy","Activision",0.29,49,"E",FALSE
+"1457","PC","Simulation","Electronic Arts",0.29,84,"E",FALSE
+"1458","PS2","Platform","Ubisoft",0.29,76,"E",FALSE
+"1459","X360","Racing","Electronic Arts",0.29,59,"E",FALSE
+"1460","XB","Sports","Microsoft Game Studios",0.29,80,"E",FALSE
+"1461","PS3","Adventure","Namco Bandai Games",0.29,72,"T",FALSE
+"1462","PS2","Racing","Ubisoft",0.28,48,"E",FALSE
+"1463","PC","Sports","Electronic Arts",0.28,82,"E",TRUE
+"1464","XB","Action","Take-Two Interactive",0.28,85,"M",FALSE
+"1465","XB","Sports","Activision",0.28,58,"T",FALSE
+"1466","PS2","Racing","Namco Bandai Games",0.28,66,"T",FALSE
+"1467","PS3","Action","Sega",0.28,40,"E10+",FALSE
+"1468","PS3","Misc","Sega",0.28,73,"T",FALSE
+"1469","XB","Fighting","Electronic Arts",0.28,58,"T",FALSE
+"1470","X360","Role-Playing","Microsoft Game Studios",0.28,61,"T",FALSE
+"1471","X360","Action","Konami Digital Entertainment",0.28,59,"M",FALSE
+"1472","X360","Simulation","Sega",0.28,71,"T",FALSE
+"1473","PS2","Action","Electronic Arts",0.28,56,"E",FALSE
+"1474","XB","Fighting","Microsoft Game Studios",0.28,68,"T",FALSE
+"1475","X360","Action","Activision",0.28,59,"T",FALSE
+"1476","PS2","Shooter","Sony Computer Entertainment",0.28,70,"T",FALSE
+"1477","PS3","Shooter","Namco Bandai Games",0.28,60,"M",FALSE
+"1478","PS3","Sports","Activision",0.28,56,"E",FALSE
+"1479","XB","Sports","Electronic Arts",0.28,80,"E",FALSE
+"1480","XB","Action","Konami Digital Entertainment",0.28,84,"M",FALSE
+"1481","PS2","Sports","THQ",0.28,57,"E",FALSE
+"1482","X360","Misc","Electronic Arts",0.28,66,"E",FALSE
+"1483","PS3","Misc","Electronic Arts",0.28,66,"E",FALSE
+"1484","PS3","Action","Sony Computer Entertainment",0.28,61,"E10+",FALSE
+"1485","X360","Fighting","Sega",0.28,89,"T",FALSE
+"1486","PS2","Action","Activision",0.28,55,"T",FALSE
+"1487","X360","Strategy","Activision",0.28,59,"E",FALSE
+"1488","PS3","Action","Namco Bandai Games",0.28,71,"T",FALSE
+"1489","XB","Action","Activision",0.28,60,"M",FALSE
+"1490","PS2","Adventure","Ubisoft",0.28,57,"E",FALSE
+"1491","PS3","Shooter","Electronic Arts",0.28,58,"M",FALSE
+"1492","XB","Fighting","Microsoft Game Studios",0.27,65,"M",FALSE
+"1493","PS3","Misc","Activision",0.27,59,"T",FALSE
+"1494","PS3","Action","Sony Computer Entertainment",0.27,78,"M",FALSE
+"1495","X360","Misc","Konami Digital Entertainment",0.27,38,"T",FALSE
+"1496","PS2","Sports","Sony Computer Entertainment",0.27,61,"E",FALSE
+"1497","X360","Action","Sega",0.27,41,"T",FALSE
+"1498","PS2","Action","Ubisoft",0.27,65,"T",FALSE
+"1499","XB","Racing","Microsoft Game Studios",0.27,87,"E",FALSE
+"1500","X360","Sports","Electronic Arts",0.27,79,"E10+",TRUE
+"1501","XB","Racing","Electronic Arts",0.27,79,"E",FALSE
+"1502","PS2","Shooter","THQ",0.27,70,"M",FALSE
+"1503","X360","Shooter","Sega",0.27,76,"M",FALSE
+"1504","XB","Sports","Electronic Arts",0.27,89,"E",FALSE
+"1505","PS3","Racing","Activision",0.27,62,"E",TRUE
+"1506","PS2","Action","Electronic Arts",0.27,61,"E10+",FALSE
+"1507","PS2","Racing","THQ",0.27,71,"T",FALSE
+"1508","X360","Shooter","Activision",0.27,75,"M",FALSE
+"1509","XB","Action","Activision",0.27,62,"T",FALSE
+"1510","PS2","Racing","Namco Bandai Games",0.27,77,"E",FALSE
+"1511","PS3","Action","Electronic Arts",0.27,77,"M",FALSE
+"1512","PC","Strategy","Ubisoft",0.27,76,"T",FALSE
+"1513","X360","Sports","Take-Two Interactive",0.27,79,"E",FALSE
+"1514","PS2","Simulation","Konami Digital Entertainment",0.27,75,"T",FALSE
+"1515","XB","Sports","Electronic Arts",0.27,78,"T",FALSE
+"1516","PS2","Fighting","Namco Bandai Games",0.27,52,"T",FALSE
+"1517","X360","Strategy","Ubisoft",0.27,78,"T",FALSE
+"1518","X360","Sports","Ubisoft",0.27,41,"E",FALSE
+"1519","PS3","Sports","Sony Computer Entertainment",0.27,63,"E",FALSE
+"1520","X360","Shooter","Ubisoft",0.27,47,"M",FALSE
+"1521","XB","Sports","Sega",0.27,87,"E",FALSE
+"1522","PS3","Action","Activision",0.26,40,"M",FALSE
+"1523","X360","Sports","Take-Two Interactive",0.26,75,"E10+",FALSE
+"1524","PS2","Action","Take-Two Interactive",0.26,53,"M",FALSE
+"1525","X360","Action","Sega",0.26,55,"T",FALSE
+"1526","XB","Shooter","Sega",0.26,90,"T",FALSE
+"1527","X360","Action","Electronic Arts",0.26,51,"T",FALSE
+"1528","PS3","Action","Sega",0.26,55,"T",FALSE
+"1529","PS2","Racing","Take-Two Interactive",0.26,50,"E",FALSE
+"1530","PS3","Action","Ubisoft",0.26,59,"E10+",FALSE
+"1531","X360","Action","Activision",0.26,63,"E",TRUE
+"1532","PS2","Sports","Konami Digital Entertainment",0.26,44,"T",FALSE
+"1533","PS3","Action","Activision",0.26,67,"T",FALSE
+"1534","XB","Adventure","Electronic Arts",0.26,88,"T",FALSE
+"1535","PS2","Adventure","Sony Computer Entertainment",0.26,78,"M",FALSE
+"1536","X360","Sports","Activision",0.26,53,"E",FALSE
+"1537","PS3","Action","Sony Computer Entertainment",0.26,74,"T",FALSE
+"1538","X360","Shooter","Electronic Arts",0.26,54,"M",FALSE
+"1539","PS3","Action","Ubisoft",0.26,78,"M",FALSE
+"1540","X360","Action","Ubisoft",0.26,80,"T",FALSE
+"1541","PS2","Racing","Activision",0.26,77,"E",FALSE
+"1542","PS2","Sports","Sony Computer Entertainment",0.26,58,"E",FALSE
+"1543","PS2","Racing","Sony Computer Entertainment",0.26,73,"E",FALSE
+"1544","PC","Role-Playing","Take-Two Interactive",0.25,94,"M",FALSE
+"1545","PS2","Action","THQ",0.25,56,"E10+",FALSE
+"1546","PS2","Sports","Take-Two Interactive",0.25,46,"E",FALSE
+"1547","X360","Racing","Electronic Arts",0.25,69,"E",FALSE
+"1548","PS3","Racing","Electronic Arts",0.25,65,"E",FALSE
+"1549","PC","Simulation","Ubisoft",0.25,62,"T",TRUE
+"1550","XB","Sports","Microsoft Game Studios",0.25,80,"E",FALSE
+"1551","PS3","Action","Electronic Arts",0.25,86,"E10+",FALSE
+"1552","PS3","Racing","THQ",0.25,71,"T",FALSE
+"1553","X360","Action","Electronic Arts",0.25,85,"E10+",FALSE
+"1554","PS2","Racing","Sony Computer Entertainment",0.25,83,"E",FALSE
+"1555","XB","Sports","Electronic Arts",0.25,79,"E10+",FALSE
+"1556","PC","Strategy","Ubisoft",0.25,72,"E10+",FALSE
+"1557","XB","Shooter","Ubisoft",0.25,74,"M",FALSE
+"1558","PS3","Action","THQ",0.25,65,"E10+",FALSE
+"1559","X360","Racing","THQ",0.25,78,"E",FALSE
+"1560","X360","Racing","THQ",0.25,65,"E",FALSE
+"1561","PS3","Misc","Sega",0.25,78,"T",FALSE
+"1562","PC","Racing","Electronic Arts",0.25,76,"E10+",TRUE
+"1563","XB","Simulation","Electronic Arts",0.25,75,"T",FALSE
+"1564","PS3","Shooter","Take-Two Interactive",0.25,69,"M",FALSE
+"1565","PS2","Sports","Sega",0.25,87,"E",FALSE
+"1566","X360","Action","THQ",0.25,70,"M",FALSE
+"1567","X360","Sports","Take-Two Interactive",0.25,56,"T",FALSE
+"1568","X360","Action","Activision",0.25,57,"T",FALSE
+"1569","PC","Adventure","Take-Two Interactive",0.25,83,"M",FALSE
+"1570","XB","Shooter","Ubisoft",0.25,70,"T",FALSE
+"1571","PS2","Adventure","Ubisoft",0.25,51,"T",FALSE
+"1572","PS3","Misc","Sony Computer Entertainment",0.25,56,"E",FALSE
+"1573","X360","Action","Activision",0.25,39,"M",FALSE
+"1574","PC","Strategy","Take-Two Interactive",0.25,88,"E10+",FALSE
+"1575","PS2","Role-Playing","Namco Bandai Games",0.24,43,"E10+",FALSE
+"1576","X360","Shooter","Ubisoft",0.24,78,"M",FALSE
+"1577","PS2","Misc","THQ",0.24,63,"E",FALSE
+"1578","PS2","Shooter","Electronic Arts",0.24,84,"M",FALSE
+"1579","PC","Shooter","THQ",0.24,70,"M",FALSE
+"1580","PS2","Misc","Sega",0.24,78,"E",FALSE
+"1581","XB","Shooter","Namco Bandai Games",0.24,75,"T",FALSE
+"1582","PC","Shooter","Take-Two Interactive",0.24,88,"M",FALSE
+"1583","PC","Strategy","Sega",0.24,80,"T",FALSE
+"1584","XB","Action","Microsoft Game Studios",0.24,52,"T",FALSE
+"1585","PS2","Sports","Sega",0.24,83,"E",FALSE
+"1586","X360","Action","Activision",0.24,60,"E",FALSE
+"1587","PC","Shooter","THQ",0.24,81,"M",FALSE
+"1588","X360","Action","Ubisoft",0.24,63,"E10+",FALSE
+"1589","X360","Misc","Sega",0.24,53,"T",FALSE
+"1590","PS2","Misc","Sony Computer Entertainment",0.24,46,"E",FALSE
+"1591","PS3","Action","Activision",0.24,50,"T",FALSE
+"1592","PS3","Action","Electronic Arts",0.24,67,"E10+",FALSE
+"1593","XB","Sports","Electronic Arts",0.24,77,"E",FALSE
+"1594","X360","Action","Electronic Arts",0.24,42,"T",FALSE
+"1595","X360","Action","Activision",0.24,47,"T",FALSE
+"1596","X360","Action","Konami Digital Entertainment",0.24,80,"E",TRUE
+"1597","PS3","Sports","Ubisoft",0.24,46,"E",FALSE
+"1598","PS2","Racing","Electronic Arts",0.24,56,"E",FALSE
+"1599","PS3","Simulation","Konami Digital Entertainment",0.23,73,"T",FALSE
+"1600","PS3","Action","Activision",0.23,63,"E",FALSE
+"1601","PS2","Misc","Konami Digital Entertainment",0.23,76,"E",FALSE
+"1602","XB","Racing","Electronic Arts",0.23,85,"E",FALSE
+"1603","XB","Action","Electronic Arts",0.23,79,"T",FALSE
+"1604","XB","Action","Electronic Arts",0.23,68,"E10+",FALSE
+"1605","X360","Misc","Microsoft Game Studios",0.23,56,"E",FALSE
+"1606","XB","Sports","Sega",0.23,85,"E",FALSE
+"1607","PS3","Shooter","Sega",0.23,72,"M",FALSE
+"1608","X360","Sports","Sega",0.23,70,"E",FALSE
+"1609","PS2","Sports","Sega",0.23,90,"E",FALSE
+"1610","PC","Strategy","Take-Two Interactive",0.23,88,"T",FALSE
+"1611","PS3","Action","Activision",0.23,58,"E10+",FALSE
+"1612","X360","Action","Take-Two Interactive",0.23,81,"E",FALSE
+"1613","PS3","Racing","Electronic Arts",0.23,57,"E",FALSE
+"1614","XB","Action","Take-Two Interactive",0.23,66,"M",FALSE
+"1615","PS3","Sports","Electronic Arts",0.23,73,"E",TRUE
+"1616","PS2","Sports","Sony Computer Entertainment",0.23,70,"T",FALSE
+"1617","PS3","Misc","Sony Computer Entertainment",0.23,66,"E",FALSE
+"1618","PC","Shooter","Ubisoft",0.23,79,"M",FALSE
+"1619","PS2","Action","Sony Computer Entertainment",0.23,74,"M",FALSE
+"1620","XB","Shooter","Electronic Arts",0.23,82,"T",FALSE
+"1621","XB","Shooter","Activision",0.23,61,"M",FALSE
+"1622","PS2","Adventure","THQ",0.23,39,"E",FALSE
+"1623","PC","Shooter","Take-Two Interactive",0.23,76,"M",FALSE
+"1624","PS2","Sports","Sony Computer Entertainment",0.23,62,"E",FALSE
+"1625","PS2","Action","Sega",0.22,74,"M",FALSE
+"1626","PS3","Action","Activision",0.22,58,"T",FALSE
+"1627","PS2","Fighting","Namco Bandai Games",0.22,61,"T",FALSE
+"1628","PC","Simulation","Electronic Arts",0.22,72,"T",FALSE
+"1629","PS3","Shooter","Ubisoft",0.22,81,"E10+",FALSE
+"1630","PS2","Misc","Activision",0.22,69,"T",FALSE
+"1631","X360","Sports","Electronic Arts",0.22,70,"E",FALSE
+"1632","PS2","Sports","Electronic Arts",0.22,61,"E",FALSE
+"1633","X360","Fighting","Namco Bandai Games",0.22,62,"T",FALSE
+"1634","X360","Shooter","Sega",0.22,70,"T",FALSE
+"1635","X360","Simulation","Ubisoft",0.21,49,"T",FALSE
+"1636","PS2","Racing","Ubisoft",0.21,52,"E",FALSE
+"1637","X360","Simulation","Namco Bandai Games",0.21,68,"T",FALSE
+"1638","X360","Sports","Take-Two Interactive",0.21,82,"E",FALSE
+"1639","PS2","Role-Playing","Ubisoft",0.21,76,"T",FALSE
+"1640","PS2","Strategy","Ubisoft",0.21,47,"T",FALSE
+"1641","X360","Shooter","Take-Two Interactive",0.21,68,"M",FALSE
+"1642","XB","Sports","Take-Two Interactive",0.21,83,"E10+",FALSE
+"1643","XB","Action","Activision",0.21,70,"M",FALSE
+"1644","PS2","Misc","Take-Two Interactive",0.21,60,"T",FALSE
+"1645","PS2","Shooter","Konami Digital Entertainment",0.21,65,"M",FALSE
+"1646","X360","Sports","Take-Two Interactive",0.21,76,"E10+",FALSE
+"1647","PS2","Shooter","Electronic Arts",0.21,84,"M",FALSE
+"1648","PS2","Platform","Namco Bandai Games",0.21,63,"E",FALSE
+"1649","X360","Shooter","THQ",0.21,71,"M",FALSE
+"1650","XB","Shooter","Ubisoft",0.21,75,"M",FALSE
+"1651","PC","Action","Ubisoft",0.21,74,"M",FALSE
+"1652","PS2","Role-Playing","THQ",0.21,76,"T",FALSE
+"1653","PS2","Adventure","Konami Digital Entertainment",0.21,78,"T",FALSE
+"1654","PS3","Racing","THQ",0.21,61,"E",FALSE
+"1655","PS3","Action","Electronic Arts",0.21,43,"T",FALSE
+"1656","X360","Misc","Ubisoft",0.21,67,"E",FALSE
+"1657","PS2","Racing","Electronic Arts",0.21,85,"E",FALSE
+"1658","PS2","Action","Activision",0.21,69,"E10+",TRUE
+"1659","X360","Action","Microsoft Game Studios",0.21,38,"M",FALSE
+"1660","XB","Action","Electronic Arts",0.21,65,"T",FALSE
+"1661","XB","Action","Sega",0.21,88,"T",FALSE
+"1662","PS3","Platform","THQ",0.21,74,"E10+",FALSE
+"1663","PS2","Sports","Konami Digital Entertainment",0.21,64,"T",FALSE
+"1664","X360","Sports","Electronic Arts",0.21,67,"E",FALSE
+"1665","PS2","Action","THQ",0.21,68,"M",FALSE
+"1666","XB","Sports","Electronic Arts",0.21,80,"E",FALSE
+"1667","PS2","Sports","Sega",0.21,89,"E",FALSE
+"1668","X360","Misc","THQ",0.21,82,"T",FALSE
+"1669","X360","Shooter","Namco Bandai Games",0.21,61,"M",FALSE
+"1670","XB","Platform","Activision",0.21,58,"T",FALSE
+"1671","PS3","Action","Sega",0.2,71,"M",FALSE
+"1672","PS3","Simulation","Namco Bandai Games",0.2,33,"T",FALSE
+"1673","PS2","Strategy","Konami Digital Entertainment",0.2,68,"T",FALSE
+"1674","XB","Sports","Electronic Arts",0.2,76,"E",FALSE
+"1675","XB","Racing","Sega",0.2,69,"T",FALSE
+"1676","XB","Racing","Take-Two Interactive",0.2,87,"E10+",TRUE
+"1677","PC","Shooter","THQ",0.2,74,"M",FALSE
+"1678","PS2","Platform","Activision",0.2,70,"E",FALSE
+"1679","PS3","Role-Playing","Ubisoft",0.2,64,"T",FALSE
+"1680","XB","Sports","Sega",0.2,90,"E",FALSE
+"1681","PS3","Sports","Take-Two Interactive",0.2,72,"E",FALSE
+"1682","X360","Role-Playing","Ubisoft",0.2,52,"M",FALSE
+"1683","PS2","Shooter","Electronic Arts",0.2,51,"M",FALSE
+"1684","PC","Sports","Electronic Arts",0.2,81,"E",TRUE
+"1685","PS3","Action","Sony Computer Entertainment",0.2,36,"E10+",FALSE
+"1686","X360","Misc","Namco Bandai Games",0.2,57,"E",FALSE
+"1687","XB","Sports","Electronic Arts",0.2,82,"E",FALSE
+"1688","X360","Racing","Activision",0.2,43,"E",FALSE
+"1689","XB","Action","Electronic Arts",0.2,71,"T",FALSE
+"1690","PS3","Simulation","Activision",0.2,66,"T",FALSE
+"1691","X360","Racing","Namco Bandai Games",0.2,74,"E",FALSE
+"1692","PS2","Action","Konami Digital Entertainment",0.2,53,"E10+",FALSE
+"1693","X360","Simulation","Konami Digital Entertainment",0.2,75,"M",FALSE
+"1694","PS2","Strategy","Activision",0.2,78,"T",FALSE
+"1695","PS2","Misc","Namco Bandai Games",0.2,77,"E",FALSE
+"1696","X360","Shooter","Activision",0.2,50,"M",FALSE
+"1697","PS2","Simulation","Ubisoft",0.2,59,"M",FALSE
+"1698","X360","Racing","THQ",0.2,65,"E",FALSE
+"1699","PS3","Role-Playing","Electronic Arts",0.2,58,"T",FALSE
+"1700","PS2","Sports","Sony Computer Entertainment",0.2,57,"E",FALSE
+"1701","PS3","Action","Konami Digital Entertainment",0.2,63,"M",FALSE
+"1702","PS3","Sports","Take-Two Interactive",0.19,68,"E",TRUE
+"1703","PC","Action","Electronic Arts",0.19,78,"M",FALSE
+"1704","PS2","Shooter","Ubisoft",0.19,76,"M",FALSE
+"1705","PS3","Sports","THQ",0.19,65,"E",TRUE
+"1706","X360","Action","THQ",0.19,69,"M",FALSE
+"1707","PS3","Action","Konami Digital Entertainment",0.19,72,"M",FALSE
+"1708","PC","Shooter","Sega",0.19,68,"M",FALSE
+"1709","PS3","Action","Sega",0.19,61,"T",FALSE
+"1710","XB","Action","Take-Two Interactive",0.19,74,"M",FALSE
+"1711","PS2","Sports","Sony Computer Entertainment",0.19,57,"E",FALSE
+"1712","X360","Action","Namco Bandai Games",0.19,49,"T",FALSE
+"1713","X360","Misc","Konami Digital Entertainment",0.19,63,"E10+",FALSE
+"1714","X360","Role-Playing","Ubisoft",0.19,69,"T",FALSE
+"1715","PC","Action","Take-Two Interactive",0.19,63,"M",TRUE
+"1716","PS2","Shooter","Electronic Arts",0.19,62,"M",FALSE
+"1717","PS2","Strategy","Electronic Arts",0.19,66,"T",FALSE
+"1718","PS3","Platform","Activision",0.19,57,"E10+",FALSE
+"1719","PS2","Misc","Sony Computer Entertainment",0.19,83,"E",FALSE
+"1720","XB","Sports","Electronic Arts",0.19,79,"E",FALSE
+"1721","XB","Role-Playing","Microsoft Game Studios",0.19,72,"M",FALSE
+"1722","X360","Adventure","Namco Bandai Games",0.19,74,"T",FALSE
+"1723","X360","Action","Konami Digital Entertainment",0.19,69,"M",FALSE
+"1724","PC","Role-Playing","Ubisoft",0.19,85,"M",FALSE
+"1725","PC","Action","Take-Two Interactive",0.19,82,"E",FALSE
+"1726","X360","Fighting","Electronic Arts",0.19,54,"T",FALSE
+"1727","PS2","Role-Playing","Sega",0.19,68,"T",FALSE
+"1728","PS2","Shooter","Activision",0.19,65,"M",FALSE
+"1729","PS2","Action","Sega",0.19,58,"M",FALSE
+"1730","PS3","Shooter","THQ",0.19,72,"M",FALSE
+"1731","PC","Shooter","Take-Two Interactive",0.19,77,"M",TRUE
+"1732","PS3","Simulation","Ubisoft",0.19,62,"T",FALSE
+"1733","XB","Action","Electronic Arts",0.19,67,"E",FALSE
+"1734","PS2","Action","Sony Computer Entertainment",0.19,68,"M",FALSE
+"1735","X360","Action","Namco Bandai Games",0.19,55,"T",FALSE
+"1736","PC","Action","Ubisoft",0.19,82,"M",FALSE
+"1737","PS3","Sports","Ubisoft",0.19,61,"T",FALSE
+"1738","X360","Action","Sega",0.19,74,"M",FALSE
+"1739","PS3","Action","Activision",0.19,67,"E10+",FALSE
+"1740","XB","Racing","Sega",0.19,82,"E",FALSE
+"1741","PS2","Action","Activision",0.19,68,"E10+",FALSE
+"1742","PS3","Sports","Take-Two Interactive",0.19,74,"E",TRUE
+"1743","XB","Sports","Electronic Arts",0.19,69,"E",FALSE
+"1744","XB","Sports","Electronic Arts",0.19,81,"E",FALSE
+"1745","PS3","Action","Electronic Arts",0.19,65,"E10+",FALSE
+"1746","X360","Action","Electronic Arts",0.19,76,"M",FALSE
+"1747","XB","Shooter","Take-Two Interactive",0.18,69,"T",FALSE
+"1748","XB","Platform","Electronic Arts",0.18,68,"E",FALSE
+"1749","PS2","Adventure","Sony Computer Entertainment",0.18,72,"M",FALSE
+"1750","PC","Racing","Ubisoft",0.18,80,"T",FALSE
+"1751","X360","Simulation","Ubisoft",0.18,64,"E10+",FALSE
+"1752","PS2","Misc","Sony Computer Entertainment",0.18,86,"T",FALSE
+"1753","XB","Shooter","Konami Digital Entertainment",0.18,61,"E",FALSE
+"1754","PC","Shooter","Activision",0.18,83,"M",FALSE
+"1755","PS3","Adventure","Ubisoft",0.18,39,"M",FALSE
+"1756","X360","Shooter","Electronic Arts",0.18,74,"M",FALSE
+"1757","X360","Shooter","Ubisoft",0.18,71,"M",FALSE
+"1758","XB","Sports","Activision",0.18,65,"T",FALSE
+"1759","XB","Platform","Sega",0.18,49,"E10+",FALSE
+"1760","X360","Racing","THQ",0.18,57,"E",FALSE
+"1761","XB","Action","Activision",0.18,63,"T",FALSE
+"1762","X360","Sports","Electronic Arts",0.18,71,"E",FALSE
+"1763","X360","Sports","Ubisoft",0.18,38,"E",FALSE
+"1764","PC","Shooter","Sega",0.18,45,"M",FALSE
+"1765","PC","Sports","Electronic Arts",0.18,83,"E",FALSE
+"1766","PC","Shooter","Take-Two Interactive",0.18,81,"M",FALSE
+"1767","XB","Action","Konami Digital Entertainment",0.18,76,"M",FALSE
+"1768","X360","Action","Namco Bandai Games",0.18,62,"M",FALSE
+"1769","PS2","Misc","Sony Computer Entertainment",0.18,73,"E",FALSE
+"1770","PS3","Misc","THQ",0.18,82,"T",FALSE
+"1771","PS3","Sports","Take-Two Interactive",0.18,81,"E",FALSE
+"1772","PS2","Sports","Konami Digital Entertainment",0.18,67,"T",FALSE
+"1773","XB","Racing","THQ",0.18,68,"T",FALSE
+"1774","PS2","Racing","Sega",0.18,56,"E",FALSE
+"1775","PS3","Racing","Sega",0.18,67,"T",FALSE
+"1776","X360","Sports","Take-Two Interactive",0.18,81,"E",FALSE
+"1777","PS3","Action","Activision",0.18,51,"E10+",FALSE
+"1778","XB","Sports","Electronic Arts",0.18,85,"E",FALSE
+"1779","PC","Role-Playing","Namco Bandai Games",0.17,91,"T",FALSE
+"1780","PS2","Sports","Sony Computer Entertainment",0.17,78,"E",FALSE
+"1781","PS3","Sports","Activision",0.17,31,"E",FALSE
+"1782","PS2","Sports","Sony Computer Entertainment",0.17,73,"E",FALSE
+"1783","XB","Sports","Microsoft Game Studios",0.17,71,"E",FALSE
+"1784","PS2","Sports","Sony Computer Entertainment",0.17,66,"E",FALSE
+"1785","X360","Sports","Take-Two Interactive",0.17,69,"E10+",FALSE
+"1786","PS3","Strategy","Sega",0.17,51,"M",FALSE
+"1787","X360","Action","Activision",0.17,52,"T",FALSE
+"1788","PC","Shooter","Ubisoft",0.17,71,"M",TRUE
+"1789","PS3","Platform","Sony Computer Entertainment",0.17,53,"E10+",FALSE
+"1790","X360","Sports","Take-Two Interactive",0.17,75,"E",FALSE
+"1791","X360","Action","Sega",0.17,60,"T",FALSE
+"1792","XB","Action","Electronic Arts",0.17,57,"M",FALSE
+"1793","X360","Action","Activision",0.17,71,"E",FALSE
+"1794","PS3","Fighting","Electronic Arts",0.17,53,"T",FALSE
+"1795","PS3","Action","Konami Digital Entertainment",0.17,47,"T",FALSE
+"1796","PS2","Action","Electronic Arts",0.17,46,"T",FALSE
+"1797","X360","Action","Activision",0.17,63,"E10+",FALSE
+"1798","X360","Action","Sega",0.17,73,"M",FALSE
+"1799","PS2","Sports","Sony Computer Entertainment",0.17,56,"E",FALSE
+"1800","XB","Action","Take-Two Interactive",0.17,67,"M",FALSE
+"1801","PS2","Sports","Electronic Arts",0.17,72,"E",FALSE
+"1802","X360","Misc","Microsoft Game Studios",0.17,49,"E10+",FALSE
+"1803","X360","Adventure","Ubisoft",0.17,42,"M",FALSE
+"1804","PS3","Racing","Namco Bandai Games",0.17,72,"T",FALSE
+"1805","PS2","Misc","Sega",0.17,72,"T",FALSE
+"1806","PC","Action","Ubisoft",0.16,74,"M",TRUE
+"1807","PC","Strategy","Take-Two Interactive",0.16,94,"E10+",FALSE
+"1808","PS2","Sports","Sony Computer Entertainment",0.16,68,"E",FALSE
+"1809","PS2","Sports","Sega",0.16,83,"E",FALSE
+"1810","PS3","Fighting","Sega",0.16,66,"T",FALSE
+"1811","X360","Action","Namco Bandai Games",0.16,42,"T",FALSE
+"1812","PS3","Action","Namco Bandai Games",0.16,59,"M",FALSE
+"1813","X360","Simulation","Activision",0.16,70,"T",FALSE
+"1814","PS3","Action","Activision",0.16,66,"E",TRUE
+"1815","XB","Shooter","Electronic Arts",0.16,83,"M",FALSE
+"1816","PS2","Action","Ubisoft",0.16,81,"M",FALSE
+"1817","PS2","Sports","Activision",0.16,83,"E",FALSE
+"1818","PS3","Action","Ubisoft",0.16,51,"M",FALSE
+"1819","PS3","Sports","Take-Two Interactive",0.16,77,"E",FALSE
+"1820","X360","Role-Playing","Namco Bandai Games",0.16,75,"T",FALSE
+"1821","PC","Racing","Ubisoft",0.16,71,"T",FALSE
+"1822","PS3","Action","Electronic Arts",0.16,61,"E",FALSE
+"1823","PC","Simulation","Electronic Arts",0.16,73,"T",FALSE
+"1824","PC","Sports","Take-Two Interactive",0.16,86,"E",FALSE
+"1825","PS3","Simulation","Ubisoft",0.16,62,"T",FALSE
+"1826","PC","Shooter","Electronic Arts",0.16,82,"M",FALSE
+"1827","X360","Sports","Ubisoft",0.16,61,"T",FALSE
+"1828","X360","Sports","Take-Two Interactive",0.16,72,"T",FALSE
+"1829","XB","Sports","Electronic Arts",0.16,77,"E",FALSE
+"1830","X360","Action","Activision",0.16,60,"E10+",FALSE
+"1831","PS2","Shooter","THQ",0.15,64,"M",FALSE
+"1832","PS3","Sports","Take-Two Interactive",0.15,73,"E10+",FALSE
+"1833","X360","Strategy","Sega",0.15,48,"M",FALSE
+"1834","X360","Simulation","Konami Digital Entertainment",0.15,77,"T",FALSE
+"1835","X360","Racing","THQ",0.15,54,"E",FALSE
+"1836","PS3","Sports","Electronic Arts",0.15,81,"E",FALSE
+"1837","PS2","Racing","Konami Digital Entertainment",0.15,70,"E",FALSE
+"1838","X360","Shooter","Microsoft Game Studios",0.15,64,"T",FALSE
+"1839","PS3","Sports","Take-Two Interactive",0.15,66,"E10+",FALSE
+"1840","PS2","Sports","Konami Digital Entertainment",0.15,67,"E",FALSE
+"1841","X360","Platform","THQ",0.15,77,"E10+",FALSE
+"1842","PS3","Sports","Sony Computer Entertainment",0.15,63,"E",FALSE
+"1843","X360","Action","THQ",0.15,55,"E10+",FALSE
+"1844","XB","Sports","Sega",0.15,89,"E",FALSE
+"1845","XB","Shooter","Take-Two Interactive",0.15,75,"M",FALSE
+"1846","X360","Sports","Electronic Arts",0.15,62,"E",FALSE
+"1847","PS2","Racing","Electronic Arts",0.15,83,"E",FALSE
+"1848","PC","Action","THQ",0.15,83,"M",FALSE
+"1849","PS3","Action","Take-Two Interactive",0.15,47,"T",FALSE
+"1850","PS3","Action","THQ",0.15,43,"E10+",FALSE
+"1851","XB","Shooter","THQ",0.15,71,"M",FALSE
+"1852","XB","Action","THQ",0.15,51,"M",FALSE
+"1853","PS2","Racing","Ubisoft",0.15,52,"M",FALSE
+"1854","PS3","Sports","Sony Computer Entertainment",0.15,66,"E10+",FALSE
+"1855","X360","Simulation","Ubisoft",0.15,64,"T",FALSE
+"1856","PS3","Simulation","Ubisoft",0.15,70,"T",FALSE
+"1857","XB","Sports","Electronic Arts",0.15,65,"E10+",FALSE
+"1858","XB","Misc","Sega",0.15,81,"E",FALSE
+"1859","X360","Sports","Take-Two Interactive",0.15,69,"E10+",FALSE
+"1860","PS3","Shooter","Activision",0.15,50,"M",FALSE
+"1861","XB","Action","Microsoft Game Studios",0.14,66,"E",FALSE
+"1862","X360","Racing","THQ",0.14,58,"E",FALSE
+"1863","PS2","Action","Electronic Arts",0.14,50,"T",TRUE
+"1864","PC","Shooter","Sega",0.14,81,"M",FALSE
+"1865","X360","Action","Sega",0.14,38,"T",FALSE
+"1866","XB","Sports","Electronic Arts",0.14,81,"E",FALSE
+"1867","XB","Sports","Sega",0.14,84,"E",FALSE
+"1868","PS2","Misc","Sony Computer Entertainment",0.14,67,"E",FALSE
+"1869","PS3","Sports","Electronic Arts",0.14,64,"E",FALSE
+"1870","PS2","Adventure","Electronic Arts",0.14,72,"T",FALSE
+"1871","PS3","Action","Sega",0.14,39,"T",FALSE
+"1872","PS2","Action","Take-Two Interactive",0.14,54,"T",FALSE
+"1873","PS2","Sports","Sony Computer Entertainment",0.14,78,"E",FALSE
+"1874","PC","Shooter","Electronic Arts",0.14,96,"M",FALSE
+"1875","PS2","Shooter","Electronic Arts",0.14,67,"T",FALSE
+"1876","PS2","Adventure","Sony Computer Entertainment",0.14,71,"E",FALSE
+"1877","PS3","Sports","Take-Two Interactive",0.14,82,"E",TRUE
+"1878","PC","Shooter","Take-Two Interactive",0.14,77,"M",FALSE
+"1879","X360","Simulation","Ubisoft",0.14,72,"T",FALSE
+"1880","X360","Action","Activision",0.14,58,"E10+",FALSE
+"1881","PC","Shooter","Electronic Arts",0.14,71,"M",TRUE
+"1882","X360","Simulation","Ubisoft",0.14,62,"T",FALSE
+"1883","X360","Action","Electronic Arts",0.14,60,"E",FALSE
+"1884","PS2","Sports","Electronic Arts",0.14,76,"E",FALSE
+"1885","PS2","Sports","Sony Computer Entertainment",0.14,77,"E",FALSE
+"1886","X360","Adventure","Ubisoft",0.14,35,"T",FALSE
+"1887","PS2","Shooter","Sony Computer Entertainment",0.14,65,"T",FALSE
+"1888","PC","Shooter","Activision",0.14,73,"M",TRUE
+"1889","X360","Racing","THQ",0.14,80,"E",FALSE
+"1890","XB","Strategy","Activision",0.14,79,"T",FALSE
+"1891","PS2","Action","Konami Digital Entertainment",0.13,59,"T",FALSE
+"1892","XB","Action","Activision",0.13,53,"M",FALSE
+"1893","PS2","Role-Playing","Konami Digital Entertainment",0.13,72,"T",FALSE
+"1894","X360","Sports","Take-Two Interactive",0.13,71,"E10+",FALSE
+"1895","XB","Misc","Ubisoft",0.13,79,"E",FALSE
+"1896","PS2","Racing","Sony Computer Entertainment",0.13,57,"T",FALSE
+"1897","X360","Fighting","Konami Digital Entertainment",0.13,62,"M",FALSE
+"1898","PC","Strategy","Sega",0.13,86,"T",FALSE
+"1899","PS2","Adventure","Konami Digital Entertainment",0.13,54,"T",FALSE
+"1900","PS3","Sports","Take-Two Interactive",0.13,80,"E10+",FALSE
+"1901","PS3","Sports","Sony Computer Entertainment",0.13,63,"E",FALSE
+"1902","PS2","Role-Playing","Ubisoft",0.13,58,"M",FALSE
+"1903","XB","Racing","Sega",0.13,56,"E",FALSE
+"1904","X360","Sports","Activision",0.13,48,"T",FALSE
+"1905","XB","Action","Microsoft Game Studios",0.13,61,"T",FALSE
+"1906","PS2","Platform","Sony Computer Entertainment",0.13,77,"E10+",FALSE
+"1907","PS2","Action","Ubisoft",0.13,48,"T",FALSE
+"1908","XB","Action","Sega",0.13,80,"T",FALSE
+"1909","PS2","Shooter","THQ",0.13,62,"T",FALSE
+"1910","X360","Action","Electronic Arts",0.13,68,"E10+",FALSE
+"1911","XB","Action","Konami Digital Entertainment",0.13,48,"T",FALSE
+"1912","XB","Action","Sega",0.13,73,"M",FALSE
+"1913","PS2","Simulation","Take-Two Interactive",0.13,63,"E",FALSE
+"1914","XB","Action","THQ",0.13,68,"T",FALSE
+"1915","X360","Shooter","Activision",0.13,60,"T",FALSE
+"1916","XB","Racing","Microsoft Game Studios",0.13,70,"T",FALSE
+"1917","PS2","Sports","Sony Computer Entertainment",0.13,74,"E",FALSE
+"1918","PS3","Shooter","Konami Digital Entertainment",0.12,50,"M",FALSE
+"1919","PS3","Sports","Take-Two Interactive",0.12,79,"E10+",FALSE
+"1920","PS2","Strategy","Sega",0.12,70,"T",FALSE
+"1921","PS2","Platform","Ubisoft",0.12,49,"E",FALSE
+"1922","XB","Platform","Activision",0.12,70,"E",FALSE
+"1923","X360","Action","Activision",0.12,68,"E10+",FALSE
+"1924","XB","Shooter","THQ",0.12,74,"M",FALSE
+"1925","XB","Platform","Microsoft Game Studios",0.12,73,"T",FALSE
+"1926","PS3","Misc","Sony Computer Entertainment",0.12,66,"T",FALSE
+"1927","PS2","Action","Namco Bandai Games",0.12,53,"E",FALSE
+"1928","X360","Action","THQ",0.12,33,"E10+",FALSE
+"1929","PS2","Adventure","Take-Two Interactive",0.12,43,"E10+",TRUE
+"1930","PS3","Adventure","Ubisoft",0.12,50,"T",FALSE
+"1931","XB","Racing","Electronic Arts",0.12,65,"T",FALSE
+"1932","XB","Adventure","Electronic Arts",0.12,71,"M",FALSE
+"1933","X360","Sports","Take-Two Interactive",0.12,70,"E",FALSE
+"1934","XB","Sports","Electronic Arts",0.12,69,"E",FALSE
+"1935","XB","Platform","THQ",0.12,88,"T",FALSE
+"1936","PC","Adventure","Electronic Arts",0.12,75,"M",FALSE
+"1937","X360","Role-Playing","Sega",0.12,64,"T",FALSE
+"1938","XB","Action","Konami Digital Entertainment",0.12,74,"M",FALSE
+"1939","PS2","Action","Sega",0.12,68,"M",FALSE
+"1940","XB","Adventure","Ubisoft",0.12,45,"M",FALSE
+"1941","PC","Sports","Electronic Arts",0.12,84,"E",TRUE
+"1942","XB","Sports","Sega",0.12,89,"E",FALSE
+"1943","PS2","Racing","Electronic Arts",0.12,81,"E",FALSE
+"1944","PC","Role-Playing","Electronic Arts",0.12,65,"T",FALSE
+"1945","X360","Sports","Ubisoft",0.12,21,"T",FALSE
+"1946","XB","Action","THQ",0.12,79,"T",FALSE
+"1947","XB","Sports","Activision",0.11,59,"T",FALSE
+"1948","PS2","Racing","Electronic Arts",0.11,68,"E",FALSE
+"1949","PS2","Role-Playing","Sega",0.11,69,"T",FALSE
+"1950","X360","Action","Take-Two Interactive",0.11,45,"T",FALSE
+"1951","X360","Sports","Electronic Arts",0.11,67,"E",FALSE
+"1952","X360","Racing","Activision",0.11,40,"M",FALSE
+"1953","XB","Action","Microsoft Game Studios",0.11,81,"T",FALSE
+"1954","PS2","Strategy","Konami Digital Entertainment",0.11,82,"T",FALSE
+"1955","XB","Action","THQ",0.11,75,"M",FALSE
+"1956","XB","Action","Ubisoft",0.11,67,"T",FALSE
+"1957","PS2","Action","Ubisoft",0.11,68,"M",FALSE
+"1958","PS2","Sports","Konami Digital Entertainment",0.11,80,"E",FALSE
+"1959","PS2","Simulation","Konami Digital Entertainment",0.11,66,"T",FALSE
+"1960","X360","Platform","Ubisoft",0.11,59,"E10+",FALSE
+"1961","PC","Shooter","Ubisoft",0.11,51,"M",FALSE
+"1962","X360","Racing","Namco Bandai Games",0.11,71,"T",FALSE
+"1963","XB","Sports","Sega",0.11,88,"E",FALSE
+"1964","X360","Misc","THQ",0.11,28,"T",FALSE
+"1965","XB","Sports","Activision",0.11,76,"E",FALSE
+"1966","X360","Misc","Konami Digital Entertainment",0.11,70,"E",FALSE
+"1967","PS2","Shooter","Namco Bandai Games",0.11,60,"T",FALSE
+"1968","XB","Sports","Microsoft Game Studios",0.11,65,"E",FALSE
+"1969","XB","Platform","Electronic Arts",0.11,69,"E",FALSE
+"1970","X360","Racing","Activision",0.11,38,"T",FALSE
+"1971","X360","Action","Konami Digital Entertainment",0.11,44,"T",FALSE
+"1972","PC","Platform","Sega",0.11,77,"E",FALSE
+"1973","PC","Action","Activision",0.11,76,"M",FALSE
+"1974","X360","Sports","Activision",0.11,51,"T",FALSE
+"1975","X360","Platform","Activision",0.11,62,"E10+",FALSE
+"1976","XB","Shooter","Electronic Arts",0.11,64,"M",FALSE
+"1977","PC","Action","Ubisoft",0.11,83,"M",TRUE
+"1978","PS3","Fighting","Konami Digital Entertainment",0.11,54,"T",FALSE
+"1979","XB","Shooter","Electronic Arts",0.11,54,"M",FALSE
+"1980","X360","Adventure","Namco Bandai Games",0.11,60,"E10+",FALSE
+"1981","PS2","Sports","Take-Two Interactive",0.1,67,"E",FALSE
+"1982","X360","Misc","Ubisoft",0.1,47,"E10+",FALSE
+"1983","PS2","Racing","Electronic Arts",0.1,70,"E",FALSE
+"1984","X360","Sports","Konami Digital Entertainment",0.1,79,"E",FALSE
+"1985","PS2","Platform","Konami Digital Entertainment",0.1,54,"E",FALSE
+"1986","PC","Action","Konami Digital Entertainment",0.1,74,"E",TRUE
+"1987","PS2","Simulation","Sony Computer Entertainment",0.1,78,"T",FALSE
+"1988","PS3","Platform","Ubisoft",0.1,66,"E",FALSE
+"1989","PS2","Sports","THQ",0.1,71,"E",FALSE
+"1990","X360","Action","Konami Digital Entertainment",0.1,52,"M",FALSE
+"1991","X360","Action","Sega",0.1,66,"T",FALSE
+"1992","PS2","Action","Sony Computer Entertainment",0.1,51,"M",FALSE
+"1993","PC","Strategy","Activision",0.1,92,"T",FALSE
+"1994","PC","Shooter","Activision",0.1,87,"M",FALSE
+"1995","X360","Racing","Activision",0.1,72,"E",TRUE
+"1996","XB","Sports","Electronic Arts",0.1,60,"E",FALSE
+"1997","PC","Simulation","Electronic Arts",0.1,77,"T",FALSE
+"1998","XB","Racing","THQ",0.1,63,"E",FALSE
+"1999","X360","Sports","Ubisoft",0.1,61,"E10+",FALSE
+"2000","XB","Action","Activision",0.1,53,"T",FALSE
+"2001","PS2","Role-Playing","Ubisoft",0.1,76,"T",FALSE
+"2002","PS2","Action","Activision",0.1,65,"E",FALSE
+"2003","XB","Sports","Activision",0.1,80,"E",FALSE
+"2004","X360","Sports","Electronic Arts",0.1,49,"E",FALSE
+"2005","PC","Action","Electronic Arts",0.1,37,"T",FALSE
+"2006","XB","Role-Playing","Ubisoft",0.1,75,"T",FALSE
+"2007","XB","Shooter","Konami Digital Entertainment",0.1,69,"M",FALSE
+"2008","XB","Puzzle","Microsoft Game Studios",0.1,28,"E",FALSE
+"2009","X360","Sports","Take-Two Interactive",0.1,75,"E10+",FALSE
+"2010","XB","Sports","Take-Two Interactive",0.1,82,"E",FALSE
+"2011","XB","Action","Ubisoft",0.1,67,"T",FALSE
+"2012","X360","Shooter","Konami Digital Entertainment",0.1,52,"M",FALSE
+"2013","PS3","Action","Konami Digital Entertainment",0.1,53,"M",FALSE
+"2014","PS2","Role-Playing","Sega",0.1,64,"E10+",FALSE
+"2015","X360","Action","Electronic Arts",0.1,56,"E10+",FALSE
+"2016","XB","Racing","THQ",0.1,87,"E",FALSE
+"2017","XB","Simulation","Microsoft Game Studios",0.1,83,"T",FALSE
+"2018","PC","Strategy","Sega",0.1,88,"T",FALSE
+"2019","XB","Action","Activision",0.1,54,"T",FALSE
+"2020","X360","Misc","THQ",0.09,60,"E10+",FALSE
+"2021","XB","Simulation","Ubisoft",0.09,61,"M",FALSE
+"2022","PS2","Action","THQ",0.09,62,"E10+",FALSE
+"2023","PS3","Adventure","Namco Bandai Games",0.09,59,"E10+",FALSE
+"2024","PC","Racing","Electronic Arts",0.09,87,"E10+",FALSE
+"2025","PC","Strategy","Microsoft Game Studios",0.09,92,"T",FALSE
+"2026","PS2","Role-Playing","Sega",0.09,61,"T",FALSE
+"2027","XB","Racing","THQ",0.09,84,"E",FALSE
+"2028","PS2","Platform","Take-Two Interactive",0.09,70,"E",FALSE
+"2029","PC","Shooter","Microsoft Game Studios",0.09,72,"M",FALSE
+"2030","PS2","Shooter","Konami Digital Entertainment",0.09,82,"T",FALSE
+"2031","XB","Action","Microsoft Game Studios",0.09,94,"M",FALSE
+"2032","PS3","Sports","Electronic Arts",0.09,67,"E",TRUE
+"2033","PS2","Fighting","Konami Digital Entertainment",0.09,59,"M",FALSE
+"2034","PC","Simulation","Sega",0.09,81,"E",TRUE
+"2035","PS2","Role-Playing","Sony Computer Entertainment",0.09,73,"T",FALSE
+"2036","XB","Action","Activision",0.09,71,"E10+",FALSE
+"2037","X360","Racing","Konami Digital Entertainment",0.09,65,"E10+",FALSE
+"2038","PS3","Fighting","Namco Bandai Games",0.09,49,"E10+",FALSE
+"2039","X360","Action","Konami Digital Entertainment",0.09,70,"M",FALSE
+"2040","PS2","Action","Sony Computer Entertainment",0.09,69,"T",FALSE
+"2041","PS2","Sports","Electronic Arts",0.09,71,"E",FALSE
+"2042","PS3","Action","Konami Digital Entertainment",0.09,69,"E10+",FALSE
+"2043","XB","Sports","Konami Digital Entertainment",0.09,90,"E",FALSE
+"2044","XB","Shooter","Ubisoft",0.09,77,"M",FALSE
+"2045","XB","Misc","Konami Digital Entertainment",0.09,80,"E",FALSE
+"2046","PC","Shooter","THQ",0.09,75,"M",FALSE
+"2047","PS2","Role-Playing","Ubisoft",0.09,70,"T",FALSE
+"2048","PC","Simulation","Electronic Arts",0.09,75,"T",FALSE
+"2049","PC","Strategy","Microsoft Game Studios",0.09,89,"T",FALSE
+"2050","PS2","Action","Sega",0.09,54,"E",FALSE
+"2051","PS3","Action","THQ",0.09,70,"E10+",FALSE
+"2052","X360","Platform","Ubisoft",0.09,62,"E",FALSE
+"2053","XB","Sports","Electronic Arts",0.08,82,"E",FALSE
+"2054","PS2","Role-Playing","Konami Digital Entertainment",0.08,48,"T",FALSE
+"2055","X360","Shooter","Ubisoft",0.08,43,"T",FALSE
+"2056","PS3","Racing","Activision",0.08,76,"E",TRUE
+"2057","XB","Racing","Sega",0.08,72,"T",FALSE
+"2058","PS2","Platform","Ubisoft",0.08,73,"E",FALSE
+"2059","XB","Strategy","Electronic Arts",0.08,64,"T",FALSE
+"2060","XB","Sports","Electronic Arts",0.08,63,"E",FALSE
+"2061","XB","Simulation","Ubisoft",0.08,69,"T",FALSE
+"2062","X360","Sports","Take-Two Interactive",0.08,78,"E10+",FALSE
+"2063","PC","Sports","Konami Digital Entertainment",0.08,80,"E",FALSE
+"2064","PC","Shooter","Take-Two Interactive",0.08,69,"T",FALSE
+"2065","PS3","Action","Namco Bandai Games",0.08,51,"M",FALSE
+"2066","PS2","Action","Take-Two Interactive",0.08,78,"M",FALSE
+"2067","PS2","Action","Sega",0.08,52,"T",FALSE
+"2068","X360","Action","Konami Digital Entertainment",0.08,62,"E10+",FALSE
+"2069","PC","Shooter","Electronic Arts",0.08,91,"T",FALSE
+"2070","PC","Shooter","Electronic Arts",0.08,85,"M",FALSE
+"2071","PC","Sports","Take-Two Interactive",0.08,74,"E",FALSE
+"2072","PS3","Platform","Namco Bandai Games",0.08,51,"E10+",FALSE
+"2073","PS2","Role-Playing","Ubisoft",0.08,43,"T",FALSE
+"2074","PC","Strategy","THQ",0.08,80,"M",FALSE
+"2075","X360","Action","Namco Bandai Games",0.08,49,"M",FALSE
+"2076","X360","Platform","Namco Bandai Games",0.08,49,"E10+",FALSE
+"2077","PC","Action","Ubisoft",0.08,74,"M",FALSE
+"2078","PS3","Sports","Take-Two Interactive",0.08,49,"E",FALSE
+"2079","X360","Misc","Activision",0.08,74,"T",FALSE
+"2080","PC","Simulation","Ubisoft",0.08,90,"T",FALSE
+"2081","XB","Racing","Ubisoft",0.08,49,"E",FALSE
+"2082","PC","Action","Konami Digital Entertainment",0.08,91,"M",FALSE
+"2083","PS2","Action","Namco Bandai Games",0.08,60,"T",FALSE
+"2084","PS2","Platform","Sony Computer Entertainment",0.08,71,"E",FALSE
+"2085","PC","Racing","Electronic Arts",0.08,65,"T",FALSE
+"2086","PC","Racing","Electronic Arts",0.08,82,"T",FALSE
+"2087","XB","Shooter","Ubisoft",0.08,78,"M",FALSE
+"2088","PC","Platform","Ubisoft",0.08,86,"E10+",FALSE
+"2089","XB","Action","THQ",0.08,70,"T",FALSE
+"2090","PS3","Racing","Konami Digital Entertainment",0.08,67,"E10+",FALSE
+"2091","PS3","Shooter","Activision",0.07,36,"T",FALSE
+"2092","XB","Platform","Ubisoft",0.07,75,"E",FALSE
+"2093","PC","Racing","Electronic Arts",0.07,82,"T",FALSE
+"2094","PS3","Racing","Activision",0.07,47,"M",FALSE
+"2095","XB","Platform","Namco Bandai Games",0.07,75,"T",FALSE
+"2096","PC","Strategy","Electronic Arts",0.07,82,"T",FALSE
+"2097","PS2","Simulation","Sega",0.07,64,"E",FALSE
+"2098","PC","Role-Playing","Namco Bandai Games",0.07,89,"M",FALSE
+"2099","XB","Racing","THQ",0.07,67,"T",FALSE
+"2100","X360","Sports","Take-Two Interactive",0.07,47,"E",FALSE
+"2101","PS2","Action","Konami Digital Entertainment",0.07,70,"M",FALSE
+"2102","XB","Action","Electronic Arts",0.07,59,"E",FALSE
+"2103","PS2","Action","Konami Digital Entertainment",0.07,34,"M",FALSE
+"2104","PC","Sports","Sega",0.07,87,"E",FALSE
+"2105","PS2","Simulation","Konami Digital Entertainment",0.07,67,"E10+",FALSE
+"2106","XB","Platform","Activision",0.07,73,"E",FALSE
+"2107","PC","Role-Playing","Microsoft Game Studios",0.07,83,"M",FALSE
+"2108","PC","Simulation","Electronic Arts",0.07,78,"T",FALSE
+"2109","PS2","Adventure","Sony Computer Entertainment",0.07,61,"M",FALSE
+"2110","PC","Simulation","Microsoft Game Studios",0.07,88,"E",FALSE
+"2111","PS3","Shooter","Namco Bandai Games",0.07,56,"M",FALSE
+"2112","XB","Simulation","Konami Digital Entertainment",0.07,69,"T",FALSE
+"2113","X360","Fighting","Namco Bandai Games",0.07,53,"T",FALSE
+"2114","PS3","Racing","Sony Computer Entertainment",0.07,89,"E10+",FALSE
+"2115","XB","Strategy","Sega",0.07,67,"T",FALSE
+"2116","PS2","Strategy","THQ",0.07,71,"M",FALSE
+"2117","XB","Simulation","Take-Two Interactive",0.06,62,"T",FALSE
+"2118","XB","Racing","Ubisoft",0.06,51,"M",FALSE
+"2119","XB","Misc","Take-Two Interactive",0.06,63,"T",FALSE
+"2120","PC","Strategy","Microsoft Game Studios",0.06,81,"T",FALSE
+"2121","PS2","Action","Konami Digital Entertainment",0.06,51,"M",FALSE
+"2122","XB","Action","Electronic Arts",0.06,49,"E",TRUE
+"2123","PS2","Shooter","Namco Bandai Games",0.06,45,"T",FALSE
+"2124","XB","Racing","Electronic Arts",0.06,83,"E",TRUE
+"2125","PC","Platform","Electronic Arts",0.06,74,"T",TRUE
+"2126","PS2","Role-Playing","Sony Computer Entertainment",0.06,59,"T",FALSE
+"2127","PC","Strategy","Microsoft Game Studios",0.06,70,"E10+",FALSE
+"2128","XB","Action","Ubisoft",0.06,71,"M",FALSE
+"2129","XB","Adventure","Take-Two Interactive",0.06,77,"M",FALSE
+"2130","PC","Racing","Activision",0.06,81,"E10+",FALSE
+"2131","PC","Shooter","Activision",0.06,86,"T",FALSE
+"2132","XB","Shooter","Take-Two Interactive",0.06,72,"M",FALSE
+"2133","PS2","Misc","Ubisoft",0.06,64,"E",FALSE
+"2134","PC","Shooter","Namco Bandai Games",0.06,80,"M",FALSE
+"2135","PC","Action","Electronic Arts",0.06,54,"E",FALSE
+"2136","PS2","Shooter","Namco Bandai Games",0.06,57,"T",FALSE
+"2137","XB","Strategy","Sega",0.06,69,"T",FALSE
+"2138","PS2","Racing","Namco Bandai Games",0.06,59,"T",FALSE
+"2139","X360","Shooter","Activision",0.06,35,"T",FALSE
+"2140","X360","Shooter","Namco Bandai Games",0.06,53,"M",FALSE
+"2141","PC","Racing","Electronic Arts",0.06,83,"E",TRUE
+"2142","PC","Strategy","Microsoft Game Studios",0.06,72,"E",FALSE
+"2143","PS2","Shooter","Ubisoft",0.06,44,"T",FALSE
+"2144","XB","Action","Electronic Arts",0.06,45,"T",FALSE
+"2145","PC","Shooter","THQ",0.06,82,"M",FALSE
+"2146","PS2","Action","Sega",0.06,59,"T",FALSE
+"2147","PC","Simulation","Electronic Arts",0.06,81,"T",FALSE
+"2148","PC","Action","Electronic Arts",0.06,65,"E",FALSE
+"2149","XB","Sports","Electronic Arts",0.06,69,"E",FALSE
+"2150","PC","Action","Electronic Arts",0.06,76,"M",FALSE
+"2151","PC","Platform","Electronic Arts",0.06,81,"T",FALSE
+"2152","PC","Role-Playing","THQ",0.06,77,"T",FALSE
+"2153","XB","Sports","Sega",0.05,80,"E",FALSE
+"2154","PS2","Shooter","Sony Computer Entertainment",0.05,78,"E",FALSE
+"2155","XB","Sports","Electronic Arts",0.05,74,"E",FALSE
+"2156","PC","Simulation","Ubisoft",0.05,60,"T",FALSE
+"2157","XB","Sports","Activision",0.05,80,"E",FALSE
+"2158","PS2","Action","Namco Bandai Games",0.05,66,"T",FALSE
+"2159","PC","Shooter","Electronic Arts",0.05,78,"T",FALSE
+"2160","X360","Sports","Electronic Arts",0.05,72,"E",FALSE
+"2161","XB","Action","Sega",0.05,79,"T",FALSE
+"2162","X360","Fighting","Konami Digital Entertainment",0.05,49,"T",FALSE
+"2163","PC","Action","Ubisoft",0.05,66,"T",TRUE
+"2164","PS2","Racing","Sony Computer Entertainment",0.05,70,"E",TRUE
+"2165","PC","Shooter","Take-Two Interactive",0.05,66,"M",FALSE
+"2166","PS2","Racing","Sega",0.05,81,"E",FALSE
+"2167","PC","Shooter","Electronic Arts",0.05,82,"E10+",FALSE
+"2168","PS2","Role-Playing","Namco Bandai Games",0.05,65,"E10+",FALSE
+"2169","XB","Action","Konami Digital Entertainment",0.05,30,"M",FALSE
+"2170","XB","Sports","Electronic Arts",0.05,75,"E",FALSE
+"2171","PC","Strategy","THQ",0.05,86,"M",FALSE
+"2172","PC","Simulation","Microsoft Game Studios",0.05,85,"T",FALSE
+"2173","PC","Action","Activision",0.05,66,"E10+",FALSE
+"2174","PS2","Sports","Electronic Arts",0.05,70,"E",FALSE
+"2175","XB","Action","Microsoft Game Studios",0.05,84,"M",FALSE
+"2176","X360","Strategy","Electronic Arts",0.05,79,"T",FALSE
+"2177","PC","Racing","Electronic Arts",0.05,78,"E10+",FALSE
+"2178","PC","Strategy","Activision",0.05,88,"T",FALSE
+"2179","XB","Fighting","Microsoft Game Studios",0.05,46,"T",FALSE
+"2180","PC","Racing","Electronic Arts",0.05,82,"E",FALSE
+"2181","PC","Shooter","Ubisoft",0.05,89,"M",FALSE
+"2182","PC","Sports","Electronic Arts",0.05,72,"E",TRUE
+"2183","PC","Simulation","Electronic Arts",0.05,92,"T",FALSE
+"2184","PC","Sports","Electronic Arts",0.05,72,"E",TRUE
+"2185","PS2","Misc","THQ",0.05,82,"E",FALSE
+"2186","X360","Sports","Activision",0.05,41,"E",FALSE
+"2187","PC","Strategy","THQ",0.05,93,"M",FALSE
+"2188","PC","Simulation","Ubisoft",0.05,79,"T",FALSE
+"2189","XB","Shooter","THQ",0.05,70,"T",FALSE
+"2190","PC","Strategy","THQ",0.05,86,"E10+",FALSE
+"2191","PC","Shooter","Activision",0.05,74,"M",FALSE
+"2192","PC","Simulation","Microsoft Game Studios",0.05,84,"E",FALSE
+"2193","PC","Action","Take-Two Interactive",0.04,88,"M",FALSE
+"2194","X360","Sports","Sega",0.04,80,"E",FALSE
+"2195","PC","Sports","Konami Digital Entertainment",0.04,76,"E",TRUE
+"2196","PC","Action","Ubisoft",0.04,70,"T",FALSE
+"2197","X360","Shooter","Namco Bandai Games",0.04,35,"M",FALSE
+"2198","X360","Fighting","Ubisoft",0.04,60,"T",FALSE
+"2199","PC","Simulation","Ubisoft",0.04,86,"T",FALSE
+"2200","XB","Racing","Electronic Arts",0.04,72,"E",FALSE
+"2201","PC","Racing","Electronic Arts",0.04,70,"E10+",FALSE
+"2202","PC","Simulation","Electronic Arts",0.04,92,"T",FALSE
+"2203","PC","Simulation","Electronic Arts",0.04,76,"T",FALSE
+"2204","PC","Strategy","THQ",0.04,70,"M",FALSE
+"2205","PC","Strategy","Ubisoft",0.04,77,"T",FALSE
+"2206","PS2","Action","THQ",0.04,66,"T",FALSE
+"2207","PC","Strategy","Microsoft Game Studios",0.04,84,"T",FALSE
+"2208","PC","Sports","Sega",0.04,66,"E",FALSE
+"2209","XB","Strategy","Take-Two Interactive",0.04,66,"T",FALSE
+"2210","PC","Strategy","THQ",0.04,87,"M",FALSE
+"2211","PC","Strategy","Microsoft Game Studios",0.04,89,"T",FALSE
+"2212","PS2","Sports","Konami Digital Entertainment",0.04,67,"E",FALSE
+"2213","XB","Action","Take-Two Interactive",0.04,52,"T",TRUE
+"2214","PS2","Action","Sega",0.04,62,"M",FALSE
+"2215","PC","Action","Take-Two Interactive",0.04,94,"M",FALSE
+"2216","PS3","Sports","Ubisoft",0.04,59,"E10+",FALSE
+"2217","PC","Adventure","Ubisoft",0.04,47,"M",FALSE
+"2218","X360","Puzzle","Konami Digital Entertainment",0.04,34,"T",FALSE
+"2219","X360","Sports","Namco Bandai Games",0.04,72,"T",FALSE
+"2220","PC","Simulation","Activision",0.04,84,"T",FALSE
+"2221","PC","Strategy","THQ",0.04,81,"E10+",FALSE
+"2222","PC","Action","Konami Digital Entertainment",0.04,58,"M",FALSE
+"2223","PC","Shooter","Microsoft Game Studios",0.04,83,"M",FALSE
+"2224","PS2","Sports","Electronic Arts",0.04,74,"E",FALSE
+"2225","PS2","Action","Konami Digital Entertainment",0.04,53,"M",FALSE
+"2226","PC","Action","Electronic Arts",0.04,63,"E10+",FALSE
+"2227","PC","Action","Electronic Arts",0.04,67,"E",FALSE
+"2228","PC","Action","THQ",0.04,72,"M",FALSE
+"2229","PC","Simulation","Ubisoft",0.03,71,"T",FALSE
+"2230","PC","Role-Playing","Sega",0.03,72,"M",FALSE
+"2231","PC","Shooter","Activision",0.03,81,"T",FALSE
+"2232","PS2","Action","Namco Bandai Games",0.03,48,"T",FALSE
+"2233","X360","Sports","Activision",0.03,41,"E",FALSE
+"2234","PC","Strategy","Microsoft Game Studios",0.03,84,"T",FALSE
+"2235","PC","Shooter","Ubisoft",0.03,78,"M",FALSE
+"2236","PC","Shooter","THQ",0.03,82,"M",FALSE
+"2237","PC","Action","Ubisoft",0.03,75,"T",FALSE
+"2238","XB","Platform","Microsoft Game Studios",0.03,62,"E",FALSE
+"2239","PC","Racing","Ubisoft",0.03,80,"E10+",FALSE
+"2240","PC","Simulation","Activision",0.03,59,"T",FALSE
+"2241","PC","Action","Activision",0.03,74,"T",FALSE
+"2242","PS2","Sports","Ubisoft",0.03,61,"E",FALSE
+"2243","PC","Simulation","Ubisoft",0.03,76,"E",FALSE
+"2244","PS2","Simulation","Konami Digital Entertainment",0.03,66,"T",FALSE
+"2245","PC","Platform","Ubisoft",0.03,74,"E",FALSE
+"2246","PC","Action","Electronic Arts",0.03,64,"E10+",FALSE
+"2247","PS2","Strategy","Sega",0.03,78,"T",FALSE
+"2248","PC","Sports","Take-Two Interactive",0.03,90,"E",TRUE
+"2249","PC","Action","Ubisoft",0.03,76,"M",FALSE
+"2250","PC","Action","Activision",0.03,70,"T",FALSE
+"2251","XB","Adventure","Ubisoft",0.03,71,"T",FALSE
+"2252","PC","Action","Activision",0.03,63,"E10+",FALSE
+"2253","PS3","Action","Sony Computer Entertainment",0.03,77,"E10+",FALSE
+"2254","XB","Sports","Take-Two Interactive",0.03,83,"E",FALSE
+"2255","PC","Shooter","Electronic Arts",0.03,84,"T",FALSE
+"2256","PC","Shooter","Take-Two Interactive",0.03,86,"M",FALSE
+"2257","XB","Sports","Electronic Arts",0.03,75,"E10+",FALSE
+"2258","PS2","Shooter","Electronic Arts",0.03,63,"T",FALSE
+"2259","PS2","Platform","Sega",0.03,53,"E",FALSE
+"2260","PC","Simulation","Electronic Arts",0.03,70,"E",FALSE
+"2261","PC","Simulation","Electronic Arts",0.03,74,"T",FALSE
+"2262","PC","Action","Take-Two Interactive",0.03,72,"T",FALSE
+"2263","PC","Shooter","Electronic Arts",0.03,80,"T",FALSE
+"2264","PC","Shooter","Electronic Arts",0.03,89,"T",FALSE
+"2265","PC","Role-Playing","Microsoft Game Studios",0.03,80,"M",FALSE
+"2266","PC","Action","Electronic Arts",0.02,57,"T",FALSE
+"2267","XB","Sports","Konami Digital Entertainment",0.02,48,"E",FALSE
+"2268","PC","Simulation","Microsoft Game Studios",0.02,78,"E",FALSE
+"2269","PS3","Strategy","Sony Computer Entertainment",0.02,76,"E10+",FALSE
+"2270","PC","Strategy","Ubisoft",0.02,66,"E10+",FALSE
+"2271","PC","Simulation","Electronic Arts",0.02,63,"E10+",FALSE
+"2272","PC","Shooter","Ubisoft",0.02,78,"M",FALSE
+"2273","PC","Shooter","Ubisoft",0.02,79,"M",FALSE
+"2274","PC","Simulation","Ubisoft",0.02,86,"T",FALSE
+"2275","PS2","Racing","Namco Bandai Games",0.02,54,"E",FALSE
+"2276","PC","Action","Activision",0.02,71,"E10+",FALSE
+"2277","PC","Shooter","THQ",0.02,73,"T",FALSE
+"2278","PC","Strategy","Ubisoft",0.02,68,"T",FALSE
+"2279","XB","Adventure","Take-Two Interactive",0.02,48,"E10+",FALSE
+"2280","PC","Shooter","Electronic Arts",0.02,78,"E10+",FALSE
+"2281","PS2","Shooter","Namco Bandai Games",0.02,40,"T",FALSE
+"2282","PC","Adventure","Ubisoft",0.02,36,"T",FALSE
+"2283","PC","Shooter","Electronic Arts",0.02,89,"M",FALSE
+"2284","XB","Fighting","Sega",0.02,58,"T",FALSE
+"2285","PC","Strategy","Electronic Arts",0.02,84,"T",FALSE
+"2286","PC","Sports","Electronic Arts",0.02,77,"E",FALSE
+"2287","PC","Shooter","Activision",0.02,81,"M",FALSE
+"2288","PC","Shooter","Take-Two Interactive",0.02,89,"M",FALSE
+"2289","PC","Sports","Konami Digital Entertainment",0.02,69,"E",TRUE
+"2290","PC","Action","Konami Digital Entertainment",0.02,55,"M",FALSE
+"2291","PC","Platform","Activision",0.02,62,"T",FALSE
+"2292","PC","Action","Activision",0.02,52,"T",FALSE
+"2293","XB","Action","Sega",0.02,59,"M",FALSE
+"2294","PC","Strategy","Sega",0.02,42,"M",FALSE
+"2295","XB","Racing","Take-Two Interactive",0.02,38,"T",FALSE
+"2296","PC","Simulation","Ubisoft",0.02,65,"T",FALSE
+"2297","PC","Role-Playing","Electronic Arts",0.02,70,"M",FALSE
+"2298","PC","Racing","Namco Bandai Games",0.02,72,"T",FALSE
+"2299","PS3","Action","Ubisoft",0.02,67,"M",FALSE
+"2300","PC","Shooter","Electronic Arts",0.02,84,"M",FALSE
+"2301","X360","Misc","THQ",0.02,54,"E",FALSE
+"2302","X360","Action","Ubisoft",0.02,62,"T",FALSE
+"2303","XB","Adventure","THQ",0.02,77,"T",FALSE
+"2304","PS3","Action","THQ",0.02,82,"M",FALSE
+"2305","PC","Sports","Electronic Arts",0.02,62,"E10+",TRUE
+"2306","PC","Action","Ubisoft",0.02,74,"T",FALSE
+"2307","PC","Shooter","Activision",0.02,63,"T",FALSE
+"2308","PC","Adventure","Ubisoft",0.02,79,"E",FALSE
+"2309","XB","Fighting","Konami Digital Entertainment",0.02,43,"T",FALSE
+"2310","PS3","Action","Sony Computer Entertainment",0.02,50,"E10+",FALSE
+"2311","X360","Strategy","Microsoft Game Studios",0.02,75,"E10+",FALSE
+"2312","PS2","Sports","Sony Computer Entertainment",0.02,63,"E",FALSE
+"2313","PC","Simulation","Microsoft Game Studios",0.02,69,"E",FALSE
+"2314","PC","Action","Ubisoft",0.02,52,"T",FALSE
+"2315","PC","Strategy","Take-Two Interactive",0.02,57,"T",FALSE
+"2316","PC","Shooter","Microsoft Game Studios",0.02,87,"M",FALSE
+"2317","PC","Platform","THQ",0.02,58,"E",FALSE
+"2318","PC","Action","Activision",0.02,86,"E10+",FALSE
+"2319","PC","Simulation","Ubisoft",0.02,56,"E10+",FALSE
+"2320","PC","Shooter","Activision",0.02,84,"T",FALSE
+"2321","PC","Action","Microsoft Game Studios",0.02,66,"M",TRUE
+"2322","PC","Sports","Electronic Arts",0.02,77,"E",FALSE
+"2323","PC","Racing","Namco Bandai Games",0.01,72,"E",FALSE
+"2324","PC","Sports","Take-Two Interactive",0.01,90,"E",TRUE
+"2325","PC","Shooter","Ubisoft",0.01,72,"M",FALSE
+"2326","PC","Misc","Ubisoft",0.01,58,"E",FALSE
+"2327","PC","Action","Take-Two Interactive",0.01,93,"M",FALSE
+"2328","XB","Action","THQ",0.01,69,"T",TRUE
+"2329","PC","Strategy","Microsoft Game Studios",0.01,72,"T",FALSE
+"2330","PC","Shooter","Take-Two Interactive",0.01,74,"M",FALSE
+"2331","PS3","Sports","Electronic Arts",0.01,83,"E",TRUE
+"2332","PC","Strategy","Electronic Arts",0.01,75,"T",FALSE
+"2333","PC","Simulation","Electronic Arts",0.01,72,"E",FALSE
+"2334","X360","Platform","Microsoft Game Studios",0.01,77,"E",FALSE
+"2335","PC","Action","Activision",0.01,57,"E10+",FALSE
+"2336","PC","Action","Electronic Arts",0.01,77,"E",FALSE
+"2337","PC","Role-Playing","Activision",0.01,82,"T",FALSE
+"2338","PC","Sports","Electronic Arts",0.01,91,"E",TRUE
+"2339","PS2","Shooter","Activision",0.01,70,"E10+",FALSE
+"2340","PC","Shooter","Namco Bandai Games",0.01,59,"M",FALSE
+"2341","PC","Action","Ubisoft",0.01,79,"E",FALSE
+"2342","PC","Racing","THQ",0.01,61,"T",FALSE
+"2343","PC","Sports","Konami Digital Entertainment",0.01,78,"E",FALSE
+"2344","PC","Action","Activision",0.01,58,"E10+",FALSE
+"2345","PC","Racing","Sega",0.01,74,"E",FALSE
+"2346","PC","Action","Activision",0.01,78,"T",FALSE
+"2347","X360","Fighting","Namco Bandai Games",0.01,49,"T",TRUE
+"2348","PC","Action","Konami Digital Entertainment",0.01,80,"M",FALSE
