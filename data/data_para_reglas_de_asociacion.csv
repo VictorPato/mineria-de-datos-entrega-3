@@ -1,0 +1,2349 @@
+"","X1","Publisher","Is_Fiasco"
+"1",1,"Microsoft Game Studios",FALSE
+"2",2,"Take-Two Interactive",FALSE
+"3",3,"Take-Two Interactive",FALSE
+"4",4,"Take-Two Interactive",FALSE
+"5",5,"Take-Two Interactive",FALSE
+"6",6,"Sony Computer Entertainment",FALSE
+"7",7,"Activision",TRUE
+"8",8,"Activision",TRUE
+"9",9,"Activision",TRUE
+"10",10,"Activision",TRUE
+"11",11,"Activision",TRUE
+"12",12,"Activision",TRUE
+"13",13,"Take-Two Interactive",FALSE
+"14",14,"Activision",TRUE
+"15",15,"Microsoft Game Studios",FALSE
+"16",16,"Sony Computer Entertainment",FALSE
+"17",17,"Take-Two Interactive",FALSE
+"18",18,"Sony Computer Entertainment",FALSE
+"19",19,"Activision",TRUE
+"20",20,"Take-Two Interactive",TRUE
+"21",21,"Activision",TRUE
+"22",22,"Microsoft Game Studios",FALSE
+"23",23,"Microsoft Game Studios",FALSE
+"24",24,"Activision",TRUE
+"25",25,"Activision",FALSE
+"26",26,"Microsoft Game Studios",FALSE
+"27",27,"Electronic Arts",TRUE
+"28",28,"Sony Computer Entertainment",FALSE
+"29",29,"Electronic Arts",FALSE
+"30",30,"Activision",FALSE
+"31",31,"Electronic Arts",FALSE
+"32",32,"Electronic Arts",FALSE
+"33",33,"Electronic Arts",FALSE
+"34",34,"Electronic Arts",FALSE
+"35",35,"Electronic Arts",FALSE
+"36",36,"Microsoft Game Studios",FALSE
+"37",37,"Sony Computer Entertainment",FALSE
+"38",38,"Activision",FALSE
+"39",39,"Sony Computer Entertainment",FALSE
+"40",40,"Take-Two Interactive",FALSE
+"41",41,"Electronic Arts",TRUE
+"42",42,"Ubisoft",FALSE
+"43",43,"Microsoft Game Studios",FALSE
+"44",44,"Sony Computer Entertainment",FALSE
+"45",45,"Microsoft Game Studios",FALSE
+"46",46,"Take-Two Interactive",FALSE
+"47",47,"Activision",TRUE
+"48",48,"Microsoft Game Studios",FALSE
+"49",49,"Microsoft Game Studios",FALSE
+"50",50,"Microsoft Game Studios",FALSE
+"51",51,"Konami Digital Entertainment",FALSE
+"52",52,"Konami Digital Entertainment",FALSE
+"53",53,"Sony Computer Entertainment",TRUE
+"54",54,"Ubisoft",FALSE
+"55",55,"Ubisoft",FALSE
+"56",56,"Microsoft Game Studios",FALSE
+"57",57,"Activision",FALSE
+"58",58,"Ubisoft",FALSE
+"59",59,"Electronic Arts",FALSE
+"60",60,"Ubisoft",FALSE
+"61",61,"Electronic Arts",FALSE
+"62",62,"Electronic Arts",TRUE
+"63",63,"Activision",TRUE
+"64",64,"Electronic Arts",FALSE
+"65",65,"Microsoft Game Studios",FALSE
+"66",66,"Electronic Arts",FALSE
+"67",67,"Activision",FALSE
+"68",68,"Sony Computer Entertainment",FALSE
+"69",69,"Electronic Arts",FALSE
+"70",70,"Activision",FALSE
+"71",71,"Ubisoft",FALSE
+"72",72,"Sony Computer Entertainment",FALSE
+"73",73,"Electronic Arts",FALSE
+"74",74,"Microsoft Game Studios",FALSE
+"75",75,"Electronic Arts",FALSE
+"76",76,"Activision",FALSE
+"77",77,"Electronic Arts",FALSE
+"78",78,"Activision",FALSE
+"79",79,"Sony Computer Entertainment",FALSE
+"80",80,"Activision",TRUE
+"81",81,"Konami Digital Entertainment",FALSE
+"82",82,"Take-Two Interactive",FALSE
+"83",83,"Electronic Arts",FALSE
+"84",84,"Sony Computer Entertainment",FALSE
+"85",85,"Microsoft Game Studios",TRUE
+"86",86,"Konami Digital Entertainment",FALSE
+"87",87,"Ubisoft",FALSE
+"88",88,"Electronic Arts",TRUE
+"89",89,"Electronic Arts",FALSE
+"90",90,"Sony Computer Entertainment",FALSE
+"91",91,"Sony Computer Entertainment",FALSE
+"92",92,"Ubisoft",FALSE
+"93",93,"Electronic Arts",FALSE
+"94",94,"Activision",FALSE
+"95",95,"Sony Computer Entertainment",FALSE
+"96",96,"Microsoft Game Studios",FALSE
+"97",97,"Namco Bandai Games",FALSE
+"98",98,"Electronic Arts",FALSE
+"99",99,"Activision",FALSE
+"100",100,"Namco Bandai Games",FALSE
+"101",101,"Sony Computer Entertainment",FALSE
+"102",102,"Konami Digital Entertainment",FALSE
+"103",103,"Sony Computer Entertainment",FALSE
+"104",104,"Activision",FALSE
+"105",105,"Electronic Arts",FALSE
+"106",106,"Ubisoft",FALSE
+"107",107,"Electronic Arts",FALSE
+"108",108,"Activision",FALSE
+"109",109,"Sony Computer Entertainment",FALSE
+"110",110,"Sony Computer Entertainment",FALSE
+"111",111,"Konami Digital Entertainment",FALSE
+"112",112,"Electronic Arts",FALSE
+"113",113,"Electronic Arts",FALSE
+"114",114,"Take-Two Interactive",FALSE
+"115",115,"Sony Computer Entertainment",FALSE
+"116",116,"Electronic Arts",FALSE
+"117",117,"Electronic Arts",FALSE
+"118",118,"Electronic Arts",FALSE
+"119",119,"Ubisoft",FALSE
+"120",120,"Electronic Arts",FALSE
+"121",121,"Electronic Arts",TRUE
+"122",122,"Electronic Arts",TRUE
+"123",123,"Electronic Arts",FALSE
+"124",124,"Take-Two Interactive",FALSE
+"125",125,"Namco Bandai Games",FALSE
+"126",126,"Activision",FALSE
+"127",127,"Electronic Arts",TRUE
+"128",128,"Sony Computer Entertainment",FALSE
+"129",129,"Ubisoft",FALSE
+"130",130,"Electronic Arts",FALSE
+"131",131,"Take-Two Interactive",FALSE
+"132",132,"Ubisoft",FALSE
+"133",133,"Electronic Arts",FALSE
+"134",134,"Activision",FALSE
+"135",135,"Sony Computer Entertainment",FALSE
+"136",136,"Take-Two Interactive",FALSE
+"137",137,"Electronic Arts",FALSE
+"138",138,"Ubisoft",FALSE
+"139",139,"Electronic Arts",FALSE
+"140",140,"Electronic Arts",FALSE
+"141",141,"Electronic Arts",FALSE
+"142",142,"Electronic Arts",TRUE
+"143",143,"Take-Two Interactive",FALSE
+"144",144,"Activision",FALSE
+"145",145,"Electronic Arts",TRUE
+"146",146,"Sony Computer Entertainment",FALSE
+"147",147,"THQ",FALSE
+"148",148,"Ubisoft",FALSE
+"149",149,"Sony Computer Entertainment",FALSE
+"150",150,"Ubisoft",FALSE
+"151",151,"Take-Two Interactive",FALSE
+"152",152,"Electronic Arts",FALSE
+"153",153,"Konami Digital Entertainment",FALSE
+"154",154,"Electronic Arts",TRUE
+"155",155,"Sega",FALSE
+"156",156,"Electronic Arts",FALSE
+"157",157,"Sony Computer Entertainment",FALSE
+"158",158,"Sony Computer Entertainment",FALSE
+"159",159,"Microsoft Game Studios",FALSE
+"160",160,"Sega",FALSE
+"161",161,"Konami Digital Entertainment",FALSE
+"162",162,"Sega",FALSE
+"163",163,"Sony Computer Entertainment",FALSE
+"164",164,"Activision",FALSE
+"165",165,"Electronic Arts",TRUE
+"166",166,"Ubisoft",FALSE
+"167",167,"Electronic Arts",TRUE
+"168",168,"Take-Two Interactive",FALSE
+"169",169,"Ubisoft",FALSE
+"170",170,"Electronic Arts",FALSE
+"171",171,"Electronic Arts",FALSE
+"172",172,"Sony Computer Entertainment",FALSE
+"173",173,"Electronic Arts",FALSE
+"174",174,"Electronic Arts",FALSE
+"175",175,"Electronic Arts",FALSE
+"176",176,"Sony Computer Entertainment",FALSE
+"177",177,"THQ",FALSE
+"178",178,"Namco Bandai Games",FALSE
+"179",179,"Take-Two Interactive",FALSE
+"180",180,"Activision",FALSE
+"181",181,"Electronic Arts",FALSE
+"182",182,"Electronic Arts",TRUE
+"183",183,"Electronic Arts",FALSE
+"184",184,"Activision",FALSE
+"185",185,"Microsoft Game Studios",FALSE
+"186",186,"Activision",TRUE
+"187",187,"Ubisoft",FALSE
+"188",188,"Electronic Arts",FALSE
+"189",189,"Take-Two Interactive",FALSE
+"190",190,"Electronic Arts",FALSE
+"191",191,"Sega",FALSE
+"192",192,"Microsoft Game Studios",FALSE
+"193",193,"Take-Two Interactive",FALSE
+"194",194,"Electronic Arts",FALSE
+"195",195,"Electronic Arts",FALSE
+"196",196,"Electronic Arts",FALSE
+"197",197,"Sony Computer Entertainment",FALSE
+"198",198,"Electronic Arts",FALSE
+"199",199,"Electronic Arts",FALSE
+"200",200,"THQ",FALSE
+"201",201,"Electronic Arts",FALSE
+"202",202,"Electronic Arts",TRUE
+"203",203,"Electronic Arts",FALSE
+"204",204,"Electronic Arts",FALSE
+"205",205,"Take-Two Interactive",TRUE
+"206",206,"Activision",FALSE
+"207",207,"Electronic Arts",FALSE
+"208",208,"Take-Two Interactive",FALSE
+"209",209,"THQ",FALSE
+"210",210,"Sony Computer Entertainment",TRUE
+"211",211,"Take-Two Interactive",FALSE
+"212",212,"Electronic Arts",FALSE
+"213",213,"Ubisoft",FALSE
+"214",214,"Konami Digital Entertainment",FALSE
+"215",215,"Sony Computer Entertainment",FALSE
+"216",216,"Electronic Arts",FALSE
+"217",217,"Microsoft Game Studios",FALSE
+"218",218,"Electronic Arts",TRUE
+"219",219,"THQ",FALSE
+"220",220,"Electronic Arts",TRUE
+"221",221,"Activision",FALSE
+"222",222,"Electronic Arts",FALSE
+"223",223,"Take-Two Interactive",FALSE
+"224",224,"Microsoft Game Studios",TRUE
+"225",225,"THQ",FALSE
+"226",226,"Microsoft Game Studios",FALSE
+"227",227,"Electronic Arts",FALSE
+"228",228,"Electronic Arts",FALSE
+"229",229,"Konami Digital Entertainment",FALSE
+"230",230,"Electronic Arts",FALSE
+"231",231,"Electronic Arts",FALSE
+"232",232,"Sega",FALSE
+"233",233,"Electronic Arts",TRUE
+"234",234,"Sony Computer Entertainment",FALSE
+"235",235,"Activision",FALSE
+"236",236,"Electronic Arts",TRUE
+"237",237,"Take-Two Interactive",FALSE
+"238",238,"Ubisoft",FALSE
+"239",239,"Activision",FALSE
+"240",240,"Electronic Arts",FALSE
+"241",241,"Electronic Arts",FALSE
+"242",242,"Take-Two Interactive",FALSE
+"243",243,"Activision",FALSE
+"244",244,"Konami Digital Entertainment",FALSE
+"245",245,"THQ",FALSE
+"246",246,"THQ",FALSE
+"247",247,"Electronic Arts",FALSE
+"248",248,"Konami Digital Entertainment",FALSE
+"249",249,"Microsoft Game Studios",FALSE
+"250",250,"Take-Two Interactive",TRUE
+"251",251,"Electronic Arts",FALSE
+"252",252,"Take-Two Interactive",TRUE
+"253",253,"Take-Two Interactive",FALSE
+"254",254,"Take-Two Interactive",FALSE
+"255",255,"Activision",TRUE
+"256",256,"THQ",FALSE
+"257",257,"THQ",FALSE
+"258",258,"Namco Bandai Games",FALSE
+"259",259,"Electronic Arts",FALSE
+"260",260,"Electronic Arts",FALSE
+"261",261,"Sony Computer Entertainment",FALSE
+"262",262,"Ubisoft",FALSE
+"263",263,"Electronic Arts",FALSE
+"264",264,"Microsoft Game Studios",FALSE
+"265",265,"Electronic Arts",FALSE
+"266",266,"Activision",FALSE
+"267",267,"Namco Bandai Games",FALSE
+"268",268,"Ubisoft",FALSE
+"269",269,"Electronic Arts",FALSE
+"270",270,"Electronic Arts",FALSE
+"271",271,"Electronic Arts",FALSE
+"272",272,"Microsoft Game Studios",FALSE
+"273",273,"Ubisoft",FALSE
+"274",274,"Take-Two Interactive",FALSE
+"275",275,"Electronic Arts",FALSE
+"276",276,"Electronic Arts",FALSE
+"277",277,"Electronic Arts",FALSE
+"278",278,"Electronic Arts",FALSE
+"279",279,"Electronic Arts",FALSE
+"280",280,"Ubisoft",FALSE
+"281",281,"Take-Two Interactive",FALSE
+"282",282,"Activision",FALSE
+"283",283,"THQ",FALSE
+"284",284,"Electronic Arts",FALSE
+"285",285,"THQ",FALSE
+"286",286,"Activision",FALSE
+"287",287,"Electronic Arts",FALSE
+"288",288,"Activision",TRUE
+"289",289,"Electronic Arts",TRUE
+"290",290,"Electronic Arts",TRUE
+"291",291,"THQ",FALSE
+"292",292,"Electronic Arts",FALSE
+"293",293,"Activision",FALSE
+"294",294,"Electronic Arts",FALSE
+"295",295,"Sony Computer Entertainment",FALSE
+"296",296,"Take-Two Interactive",FALSE
+"297",297,"Electronic Arts",FALSE
+"298",298,"Sony Computer Entertainment",FALSE
+"299",299,"Activision",TRUE
+"300",300,"Namco Bandai Games",FALSE
+"301",301,"Electronic Arts",FALSE
+"302",302,"Namco Bandai Games",FALSE
+"303",303,"Electronic Arts",FALSE
+"304",304,"Konami Digital Entertainment",FALSE
+"305",305,"Sega",FALSE
+"306",306,"Sony Computer Entertainment",FALSE
+"307",307,"Electronic Arts",FALSE
+"308",308,"Take-Two Interactive",FALSE
+"309",309,"Take-Two Interactive",FALSE
+"310",310,"Sony Computer Entertainment",FALSE
+"311",311,"Microsoft Game Studios",FALSE
+"312",312,"THQ",FALSE
+"313",313,"THQ",FALSE
+"314",314,"Electronic Arts",FALSE
+"315",315,"Ubisoft",TRUE
+"316",316,"Take-Two Interactive",FALSE
+"317",317,"Electronic Arts",FALSE
+"318",318,"Activision",FALSE
+"319",319,"Activision",FALSE
+"320",320,"Electronic Arts",FALSE
+"321",321,"Microsoft Game Studios",FALSE
+"322",322,"Konami Digital Entertainment",FALSE
+"323",323,"Namco Bandai Games",FALSE
+"324",324,"Microsoft Game Studios",FALSE
+"325",325,"Electronic Arts",FALSE
+"326",326,"Electronic Arts",FALSE
+"327",327,"Ubisoft",FALSE
+"328",328,"Activision",TRUE
+"329",329,"Electronic Arts",FALSE
+"330",330,"Electronic Arts",FALSE
+"331",331,"Electronic Arts",TRUE
+"332",332,"Sony Computer Entertainment",FALSE
+"333",333,"Take-Two Interactive",FALSE
+"334",334,"Electronic Arts",FALSE
+"335",335,"THQ",FALSE
+"336",336,"Take-Two Interactive",FALSE
+"337",337,"Electronic Arts",FALSE
+"338",338,"Electronic Arts",FALSE
+"339",339,"Activision",FALSE
+"340",340,"Electronic Arts",FALSE
+"341",341,"Electronic Arts",FALSE
+"342",342,"Electronic Arts",FALSE
+"343",343,"Activision",FALSE
+"344",344,"THQ",FALSE
+"345",345,"Electronic Arts",FALSE
+"346",346,"Electronic Arts",FALSE
+"347",347,"Electronic Arts",FALSE
+"348",348,"Sony Computer Entertainment",FALSE
+"349",349,"Electronic Arts",FALSE
+"350",350,"Electronic Arts",FALSE
+"351",351,"Ubisoft",FALSE
+"352",352,"Sega",FALSE
+"353",353,"Sony Computer Entertainment",FALSE
+"354",354,"Electronic Arts",FALSE
+"355",355,"Activision",TRUE
+"356",356,"Electronic Arts",FALSE
+"357",357,"Take-Two Interactive",FALSE
+"358",358,"Microsoft Game Studios",FALSE
+"359",359,"Microsoft Game Studios",TRUE
+"360",360,"Electronic Arts",FALSE
+"361",361,"Electronic Arts",FALSE
+"362",362,"Activision",FALSE
+"363",363,"Ubisoft",FALSE
+"364",364,"Konami Digital Entertainment",FALSE
+"365",365,"Ubisoft",FALSE
+"366",366,"Sega",FALSE
+"367",367,"Electronic Arts",FALSE
+"368",368,"Microsoft Game Studios",TRUE
+"369",369,"Take-Two Interactive",FALSE
+"370",370,"Electronic Arts",FALSE
+"371",371,"Electronic Arts",FALSE
+"372",372,"Ubisoft",FALSE
+"373",373,"Take-Two Interactive",FALSE
+"374",374,"Take-Two Interactive",FALSE
+"375",375,"Sony Computer Entertainment",FALSE
+"376",376,"Activision",FALSE
+"377",377,"Ubisoft",FALSE
+"378",378,"Electronic Arts",FALSE
+"379",379,"Konami Digital Entertainment",FALSE
+"380",380,"Activision",TRUE
+"381",381,"Electronic Arts",FALSE
+"382",382,"Electronic Arts",FALSE
+"383",383,"Namco Bandai Games",FALSE
+"384",384,"Electronic Arts",FALSE
+"385",385,"Electronic Arts",FALSE
+"386",386,"Sega",FALSE
+"387",387,"Namco Bandai Games",FALSE
+"388",388,"Activision",FALSE
+"389",389,"THQ",FALSE
+"390",390,"Electronic Arts",FALSE
+"391",391,"Electronic Arts",FALSE
+"392",392,"Electronic Arts",FALSE
+"393",393,"Take-Two Interactive",FALSE
+"394",394,"Sony Computer Entertainment",FALSE
+"395",395,"Activision",FALSE
+"396",396,"Take-Two Interactive",FALSE
+"397",397,"Electronic Arts",FALSE
+"398",398,"Ubisoft",FALSE
+"399",399,"Ubisoft",FALSE
+"400",400,"Electronic Arts",FALSE
+"401",401,"Ubisoft",FALSE
+"402",402,"Electronic Arts",FALSE
+"403",403,"THQ",FALSE
+"404",404,"Take-Two Interactive",FALSE
+"405",405,"Electronic Arts",FALSE
+"406",406,"Sony Computer Entertainment",FALSE
+"407",407,"Electronic Arts",FALSE
+"408",408,"Electronic Arts",FALSE
+"409",409,"THQ",FALSE
+"410",410,"Microsoft Game Studios",FALSE
+"411",411,"Ubisoft",FALSE
+"412",412,"Take-Two Interactive",FALSE
+"413",413,"Electronic Arts",TRUE
+"414",414,"Activision",FALSE
+"415",415,"Electronic Arts",TRUE
+"416",416,"Electronic Arts",FALSE
+"417",417,"Electronic Arts",FALSE
+"418",418,"Konami Digital Entertainment",FALSE
+"419",419,"THQ",FALSE
+"420",420,"Electronic Arts",FALSE
+"421",421,"Sega",FALSE
+"422",422,"Activision",TRUE
+"423",423,"Sony Computer Entertainment",FALSE
+"424",424,"Electronic Arts",FALSE
+"425",425,"Electronic Arts",FALSE
+"426",426,"Activision",FALSE
+"427",427,"Electronic Arts",FALSE
+"428",428,"Ubisoft",TRUE
+"429",429,"Activision",FALSE
+"430",430,"Sega",FALSE
+"431",431,"Activision",FALSE
+"432",432,"Namco Bandai Games",FALSE
+"433",433,"Ubisoft",FALSE
+"434",434,"Electronic Arts",FALSE
+"435",435,"Electronic Arts",TRUE
+"436",436,"Electronic Arts",FALSE
+"437",437,"THQ",FALSE
+"438",438,"Electronic Arts",FALSE
+"439",439,"Sony Computer Entertainment",FALSE
+"440",440,"Electronic Arts",FALSE
+"441",441,"Electronic Arts",TRUE
+"442",442,"Electronic Arts",FALSE
+"443",443,"Ubisoft",FALSE
+"444",444,"Electronic Arts",FALSE
+"445",445,"Activision",FALSE
+"446",446,"Electronic Arts",FALSE
+"447",447,"Take-Two Interactive",FALSE
+"448",448,"Electronic Arts",FALSE
+"449",449,"Electronic Arts",FALSE
+"450",450,"Microsoft Game Studios",FALSE
+"451",451,"THQ",FALSE
+"452",452,"Activision",TRUE
+"453",453,"THQ",FALSE
+"454",454,"Activision",FALSE
+"455",455,"Ubisoft",FALSE
+"456",456,"Activision",FALSE
+"457",457,"Activision",FALSE
+"458",458,"Electronic Arts",TRUE
+"459",459,"Electronic Arts",FALSE
+"460",460,"Activision",FALSE
+"461",461,"Sony Computer Entertainment",FALSE
+"462",462,"Namco Bandai Games",FALSE
+"463",463,"Electronic Arts",FALSE
+"464",464,"Ubisoft",FALSE
+"465",465,"Take-Two Interactive",FALSE
+"466",466,"Konami Digital Entertainment",FALSE
+"467",467,"Electronic Arts",FALSE
+"468",468,"Namco Bandai Games",FALSE
+"469",469,"Take-Two Interactive",FALSE
+"470",470,"Activision",FALSE
+"471",471,"Sega",FALSE
+"472",472,"THQ",FALSE
+"473",473,"THQ",FALSE
+"474",474,"Electronic Arts",TRUE
+"475",475,"Sega",FALSE
+"476",476,"Sony Computer Entertainment",FALSE
+"477",477,"Electronic Arts",FALSE
+"478",478,"Electronic Arts",FALSE
+"479",479,"Ubisoft",FALSE
+"480",480,"Ubisoft",FALSE
+"481",481,"Sony Computer Entertainment",FALSE
+"482",482,"Namco Bandai Games",FALSE
+"483",483,"THQ",FALSE
+"484",484,"Activision",FALSE
+"485",485,"Activision",FALSE
+"486",486,"Electronic Arts",FALSE
+"487",487,"Konami Digital Entertainment",FALSE
+"488",488,"Microsoft Game Studios",FALSE
+"489",489,"Activision",FALSE
+"490",490,"Electronic Arts",FALSE
+"491",491,"Electronic Arts",FALSE
+"492",492,"Namco Bandai Games",FALSE
+"493",493,"Take-Two Interactive",FALSE
+"494",494,"Sega",FALSE
+"495",495,"THQ",FALSE
+"496",496,"Microsoft Game Studios",FALSE
+"497",497,"Activision",FALSE
+"498",498,"Sony Computer Entertainment",FALSE
+"499",499,"Namco Bandai Games",FALSE
+"500",500,"Electronic Arts",FALSE
+"501",501,"Sega",FALSE
+"502",502,"Electronic Arts",FALSE
+"503",503,"Ubisoft",FALSE
+"504",504,"Namco Bandai Games",FALSE
+"505",505,"Activision",FALSE
+"506",506,"Electronic Arts",FALSE
+"507",507,"THQ",FALSE
+"508",508,"Take-Two Interactive",FALSE
+"509",509,"THQ",FALSE
+"510",510,"Electronic Arts",FALSE
+"511",511,"Electronic Arts",FALSE
+"512",512,"Electronic Arts",TRUE
+"513",513,"Take-Two Interactive",FALSE
+"514",514,"Ubisoft",FALSE
+"515",515,"Electronic Arts",FALSE
+"516",516,"Sega",FALSE
+"517",517,"Electronic Arts",FALSE
+"518",518,"Ubisoft",FALSE
+"519",519,"Sega",FALSE
+"520",520,"Electronic Arts",FALSE
+"521",521,"Activision",FALSE
+"522",522,"THQ",FALSE
+"523",523,"Activision",FALSE
+"524",524,"Sony Computer Entertainment",FALSE
+"525",525,"Take-Two Interactive",FALSE
+"526",526,"Activision",FALSE
+"527",527,"Konami Digital Entertainment",FALSE
+"528",528,"Electronic Arts",FALSE
+"529",529,"Sony Computer Entertainment",FALSE
+"530",530,"Microsoft Game Studios",FALSE
+"531",531,"Ubisoft",FALSE
+"532",532,"Electronic Arts",FALSE
+"533",533,"Activision",FALSE
+"534",534,"Sony Computer Entertainment",TRUE
+"535",535,"Activision",FALSE
+"536",536,"Sony Computer Entertainment",FALSE
+"537",537,"Ubisoft",FALSE
+"538",538,"Activision",TRUE
+"539",539,"Ubisoft",FALSE
+"540",540,"Activision",TRUE
+"541",541,"Sega",FALSE
+"542",542,"Activision",FALSE
+"543",543,"Microsoft Game Studios",FALSE
+"544",544,"Electronic Arts",TRUE
+"545",545,"Microsoft Game Studios",FALSE
+"546",546,"Electronic Arts",FALSE
+"547",547,"Electronic Arts",FALSE
+"548",548,"Ubisoft",FALSE
+"549",549,"Take-Two Interactive",FALSE
+"550",550,"Konami Digital Entertainment",FALSE
+"551",551,"Electronic Arts",FALSE
+"552",552,"Electronic Arts",FALSE
+"553",553,"Sega",FALSE
+"554",554,"Activision",TRUE
+"555",555,"Electronic Arts",FALSE
+"556",556,"Electronic Arts",FALSE
+"557",557,"Sega",TRUE
+"558",558,"THQ",FALSE
+"559",559,"Electronic Arts",TRUE
+"560",560,"Electronic Arts",FALSE
+"561",561,"Electronic Arts",FALSE
+"562",562,"Sega",TRUE
+"563",563,"Sega",FALSE
+"564",564,"Electronic Arts",FALSE
+"565",565,"Ubisoft",FALSE
+"566",566,"Electronic Arts",FALSE
+"567",567,"Activision",FALSE
+"568",568,"Ubisoft",FALSE
+"569",569,"Konami Digital Entertainment",FALSE
+"570",570,"Namco Bandai Games",FALSE
+"571",571,"Namco Bandai Games",FALSE
+"572",572,"Electronic Arts",FALSE
+"573",573,"Electronic Arts",FALSE
+"574",574,"Activision",FALSE
+"575",575,"Take-Two Interactive",FALSE
+"576",576,"Electronic Arts",FALSE
+"577",577,"Sega",FALSE
+"578",578,"Activision",FALSE
+"579",579,"THQ",FALSE
+"580",580,"Electronic Arts",FALSE
+"581",581,"Sony Computer Entertainment",FALSE
+"582",582,"Sega",FALSE
+"583",583,"Electronic Arts",FALSE
+"584",584,"Microsoft Game Studios",FALSE
+"585",585,"Sega",FALSE
+"586",586,"Electronic Arts",FALSE
+"587",587,"THQ",FALSE
+"588",588,"Konami Digital Entertainment",FALSE
+"589",589,"Sega",FALSE
+"590",590,"Sega",FALSE
+"591",591,"Electronic Arts",FALSE
+"592",592,"Electronic Arts",FALSE
+"593",593,"THQ",FALSE
+"594",594,"THQ",FALSE
+"595",595,"Ubisoft",FALSE
+"596",596,"Electronic Arts",FALSE
+"597",597,"Activision",FALSE
+"598",598,"Ubisoft",FALSE
+"599",599,"Sega",FALSE
+"600",600,"Activision",FALSE
+"601",601,"Electronic Arts",FALSE
+"602",602,"Activision",TRUE
+"603",603,"Electronic Arts",FALSE
+"604",604,"Electronic Arts",FALSE
+"605",605,"Ubisoft",FALSE
+"606",606,"Ubisoft",FALSE
+"607",607,"Namco Bandai Games",FALSE
+"608",608,"Ubisoft",FALSE
+"609",609,"Microsoft Game Studios",FALSE
+"610",610,"Ubisoft",FALSE
+"611",611,"Electronic Arts",FALSE
+"612",612,"THQ",FALSE
+"613",613,"Ubisoft",FALSE
+"614",614,"Sony Computer Entertainment",FALSE
+"615",615,"Activision",FALSE
+"616",616,"Sony Computer Entertainment",FALSE
+"617",617,"Namco Bandai Games",FALSE
+"618",618,"Namco Bandai Games",FALSE
+"619",619,"Electronic Arts",FALSE
+"620",620,"Ubisoft",FALSE
+"621",621,"Take-Two Interactive",FALSE
+"622",622,"Electronic Arts",FALSE
+"623",623,"Take-Two Interactive",FALSE
+"624",624,"Electronic Arts",TRUE
+"625",625,"Electronic Arts",FALSE
+"626",626,"Electronic Arts",FALSE
+"627",627,"Take-Two Interactive",FALSE
+"628",628,"Electronic Arts",FALSE
+"629",629,"Electronic Arts",TRUE
+"630",630,"Activision",TRUE
+"631",631,"Sony Computer Entertainment",FALSE
+"632",632,"Ubisoft",FALSE
+"633",633,"Electronic Arts",FALSE
+"634",634,"Electronic Arts",FALSE
+"635",635,"Sony Computer Entertainment",FALSE
+"636",636,"Namco Bandai Games",FALSE
+"637",637,"Ubisoft",FALSE
+"638",638,"Sega",FALSE
+"639",639,"Sony Computer Entertainment",FALSE
+"640",640,"Konami Digital Entertainment",TRUE
+"641",641,"Sega",FALSE
+"642",642,"Ubisoft",FALSE
+"643",643,"Electronic Arts",FALSE
+"644",644,"Ubisoft",FALSE
+"645",645,"Electronic Arts",FALSE
+"646",646,"Sony Computer Entertainment",FALSE
+"647",647,"Konami Digital Entertainment",FALSE
+"648",648,"Ubisoft",FALSE
+"649",649,"Activision",TRUE
+"650",650,"THQ",FALSE
+"651",651,"Electronic Arts",FALSE
+"652",652,"Electronic Arts",FALSE
+"653",653,"Take-Two Interactive",FALSE
+"654",654,"Ubisoft",FALSE
+"655",655,"Sony Computer Entertainment",FALSE
+"656",656,"Electronic Arts",FALSE
+"657",657,"Namco Bandai Games",FALSE
+"658",658,"Activision",FALSE
+"659",659,"Sony Computer Entertainment",FALSE
+"660",660,"Sony Computer Entertainment",FALSE
+"661",661,"Sega",FALSE
+"662",662,"Sony Computer Entertainment",FALSE
+"663",663,"Activision",FALSE
+"664",664,"Ubisoft",FALSE
+"665",665,"Ubisoft",FALSE
+"666",666,"Take-Two Interactive",FALSE
+"667",667,"Konami Digital Entertainment",FALSE
+"668",668,"Electronic Arts",FALSE
+"669",669,"Ubisoft",FALSE
+"670",670,"Ubisoft",FALSE
+"671",671,"Sony Computer Entertainment",FALSE
+"672",672,"Electronic Arts",FALSE
+"673",673,"THQ",FALSE
+"674",674,"Microsoft Game Studios",FALSE
+"675",675,"Electronic Arts",TRUE
+"676",676,"Electronic Arts",FALSE
+"677",677,"Ubisoft",FALSE
+"678",678,"Electronic Arts",FALSE
+"679",679,"Sega",FALSE
+"680",680,"Electronic Arts",FALSE
+"681",681,"Microsoft Game Studios",FALSE
+"682",682,"Sony Computer Entertainment",FALSE
+"683",683,"Activision",FALSE
+"684",684,"Electronic Arts",FALSE
+"685",685,"Electronic Arts",FALSE
+"686",686,"Namco Bandai Games",FALSE
+"687",687,"THQ",FALSE
+"688",688,"Sony Computer Entertainment",FALSE
+"689",689,"THQ",FALSE
+"690",690,"Sega",FALSE
+"691",691,"Activision",FALSE
+"692",692,"Electronic Arts",FALSE
+"693",693,"Activision",FALSE
+"694",694,"Activision",FALSE
+"695",695,"Electronic Arts",FALSE
+"696",696,"Electronic Arts",FALSE
+"697",697,"Sony Computer Entertainment",FALSE
+"698",698,"Electronic Arts",TRUE
+"699",699,"Electronic Arts",FALSE
+"700",700,"Sega",FALSE
+"701",701,"Electronic Arts",FALSE
+"702",702,"Activision",FALSE
+"703",703,"Electronic Arts",TRUE
+"704",704,"Electronic Arts",FALSE
+"705",705,"Activision",TRUE
+"706",706,"Ubisoft",FALSE
+"707",707,"Take-Two Interactive",FALSE
+"708",708,"Take-Two Interactive",TRUE
+"709",709,"THQ",FALSE
+"710",710,"Microsoft Game Studios",FALSE
+"711",711,"Ubisoft",FALSE
+"712",712,"Electronic Arts",FALSE
+"713",713,"Ubisoft",FALSE
+"714",714,"Sony Computer Entertainment",FALSE
+"715",715,"Activision",FALSE
+"716",716,"THQ",FALSE
+"717",717,"Electronic Arts",FALSE
+"718",718,"Ubisoft",FALSE
+"719",719,"Electronic Arts",FALSE
+"720",720,"Electronic Arts",FALSE
+"721",721,"Activision",FALSE
+"722",722,"Electronic Arts",FALSE
+"723",723,"Take-Two Interactive",FALSE
+"724",724,"Electronic Arts",FALSE
+"725",725,"Electronic Arts",FALSE
+"726",726,"Namco Bandai Games",FALSE
+"727",727,"THQ",FALSE
+"728",728,"Electronic Arts",FALSE
+"729",729,"Electronic Arts",FALSE
+"730",730,"THQ",FALSE
+"731",731,"Namco Bandai Games",FALSE
+"732",732,"Sony Computer Entertainment",FALSE
+"733",733,"Take-Two Interactive",FALSE
+"734",734,"Electronic Arts",FALSE
+"735",735,"Sony Computer Entertainment",FALSE
+"736",736,"Sega",FALSE
+"737",737,"Electronic Arts",FALSE
+"738",738,"THQ",FALSE
+"739",739,"Namco Bandai Games",FALSE
+"740",740,"Take-Two Interactive",FALSE
+"741",741,"Electronic Arts",TRUE
+"742",742,"Microsoft Game Studios",FALSE
+"743",743,"Electronic Arts",FALSE
+"744",744,"Sony Computer Entertainment",FALSE
+"745",745,"Take-Two Interactive",FALSE
+"746",746,"Electronic Arts",TRUE
+"747",747,"Electronic Arts",FALSE
+"748",748,"Activision",FALSE
+"749",749,"Activision",FALSE
+"750",750,"Electronic Arts",FALSE
+"751",751,"Microsoft Game Studios",FALSE
+"752",752,"Microsoft Game Studios",FALSE
+"753",753,"Ubisoft",FALSE
+"754",754,"Konami Digital Entertainment",FALSE
+"755",755,"Ubisoft",FALSE
+"756",756,"Electronic Arts",FALSE
+"757",757,"Activision",FALSE
+"758",758,"Electronic Arts",TRUE
+"759",759,"Namco Bandai Games",FALSE
+"760",760,"Sega",FALSE
+"761",761,"Ubisoft",FALSE
+"762",762,"Activision",FALSE
+"763",763,"Activision",FALSE
+"764",764,"THQ",FALSE
+"765",765,"Electronic Arts",TRUE
+"766",766,"Activision",FALSE
+"767",767,"Ubisoft",FALSE
+"768",768,"Electronic Arts",FALSE
+"769",769,"Activision",TRUE
+"770",770,"Electronic Arts",FALSE
+"771",771,"Electronic Arts",FALSE
+"772",772,"Take-Two Interactive",TRUE
+"773",773,"Microsoft Game Studios",FALSE
+"774",774,"Electronic Arts",FALSE
+"775",775,"Ubisoft",FALSE
+"776",776,"Namco Bandai Games",FALSE
+"777",777,"Electronic Arts",FALSE
+"778",778,"Take-Two Interactive",FALSE
+"779",779,"Take-Two Interactive",FALSE
+"780",780,"Activision",FALSE
+"781",781,"Ubisoft",FALSE
+"782",782,"Sega",FALSE
+"783",783,"Microsoft Game Studios",FALSE
+"784",784,"Microsoft Game Studios",FALSE
+"785",785,"Electronic Arts",FALSE
+"786",786,"THQ",FALSE
+"787",787,"Namco Bandai Games",FALSE
+"788",788,"Sega",FALSE
+"789",789,"Sony Computer Entertainment",FALSE
+"790",790,"Take-Two Interactive",FALSE
+"791",791,"THQ",FALSE
+"792",792,"Sony Computer Entertainment",FALSE
+"793",793,"Take-Two Interactive",FALSE
+"794",794,"Activision",FALSE
+"795",795,"Namco Bandai Games",FALSE
+"796",796,"Activision",FALSE
+"797",797,"Konami Digital Entertainment",FALSE
+"798",798,"Activision",FALSE
+"799",799,"Electronic Arts",FALSE
+"800",800,"Electronic Arts",FALSE
+"801",801,"Activision",FALSE
+"802",802,"Electronic Arts",FALSE
+"803",803,"Namco Bandai Games",FALSE
+"804",804,"Ubisoft",FALSE
+"805",805,"Activision",FALSE
+"806",806,"Take-Two Interactive",FALSE
+"807",807,"THQ",FALSE
+"808",808,"Namco Bandai Games",FALSE
+"809",809,"Electronic Arts",FALSE
+"810",810,"Sony Computer Entertainment",FALSE
+"811",811,"Activision",FALSE
+"812",812,"Electronic Arts",TRUE
+"813",813,"Sega",FALSE
+"814",814,"Electronic Arts",FALSE
+"815",815,"Electronic Arts",FALSE
+"816",816,"Electronic Arts",FALSE
+"817",817,"THQ",FALSE
+"818",818,"Namco Bandai Games",FALSE
+"819",819,"Namco Bandai Games",FALSE
+"820",820,"Activision",FALSE
+"821",821,"Sega",TRUE
+"822",822,"Electronic Arts",FALSE
+"823",823,"Electronic Arts",FALSE
+"824",824,"Electronic Arts",FALSE
+"825",825,"Sony Computer Entertainment",FALSE
+"826",826,"Take-Two Interactive",FALSE
+"827",827,"Namco Bandai Games",FALSE
+"828",828,"Namco Bandai Games",FALSE
+"829",829,"Sony Computer Entertainment",FALSE
+"830",830,"THQ",FALSE
+"831",831,"Activision",FALSE
+"832",832,"Electronic Arts",FALSE
+"833",833,"Electronic Arts",FALSE
+"834",834,"Electronic Arts",FALSE
+"835",835,"Electronic Arts",FALSE
+"836",836,"Take-Two Interactive",FALSE
+"837",837,"Sega",FALSE
+"838",838,"Electronic Arts",FALSE
+"839",839,"Konami Digital Entertainment",FALSE
+"840",840,"THQ",FALSE
+"841",841,"Electronic Arts",FALSE
+"842",842,"Electronic Arts",FALSE
+"843",843,"Activision",FALSE
+"844",844,"Electronic Arts",FALSE
+"845",845,"Electronic Arts",FALSE
+"846",846,"Activision",FALSE
+"847",847,"Sony Computer Entertainment",FALSE
+"848",848,"Microsoft Game Studios",FALSE
+"849",849,"Electronic Arts",FALSE
+"850",850,"Electronic Arts",FALSE
+"851",851,"Namco Bandai Games",FALSE
+"852",852,"Sony Computer Entertainment",FALSE
+"853",853,"Konami Digital Entertainment",FALSE
+"854",854,"Ubisoft",FALSE
+"855",855,"Activision",FALSE
+"856",856,"Microsoft Game Studios",FALSE
+"857",857,"Ubisoft",FALSE
+"858",858,"Ubisoft",FALSE
+"859",859,"Electronic Arts",FALSE
+"860",860,"Take-Two Interactive",FALSE
+"861",861,"Electronic Arts",FALSE
+"862",862,"THQ",FALSE
+"863",863,"Electronic Arts",FALSE
+"864",864,"Sony Computer Entertainment",FALSE
+"865",865,"Ubisoft",FALSE
+"866",866,"Sega",FALSE
+"867",867,"Electronic Arts",FALSE
+"868",868,"Electronic Arts",FALSE
+"869",869,"Activision",FALSE
+"870",870,"Activision",FALSE
+"871",871,"Electronic Arts",FALSE
+"872",872,"Activision",FALSE
+"873",873,"Electronic Arts",FALSE
+"874",874,"Ubisoft",FALSE
+"875",875,"Activision",FALSE
+"876",876,"Take-Two Interactive",FALSE
+"877",877,"Sony Computer Entertainment",FALSE
+"878",878,"Electronic Arts",FALSE
+"879",879,"Konami Digital Entertainment",FALSE
+"880",880,"Electronic Arts",FALSE
+"881",881,"Electronic Arts",FALSE
+"882",882,"Sega",FALSE
+"883",883,"Take-Two Interactive",FALSE
+"884",884,"Ubisoft",FALSE
+"885",885,"Konami Digital Entertainment",FALSE
+"886",886,"Namco Bandai Games",FALSE
+"887",887,"Ubisoft",FALSE
+"888",888,"Activision",FALSE
+"889",889,"Ubisoft",FALSE
+"890",890,"Microsoft Game Studios",FALSE
+"891",891,"Ubisoft",FALSE
+"892",892,"Electronic Arts",FALSE
+"893",893,"Electronic Arts",FALSE
+"894",894,"Electronic Arts",FALSE
+"895",895,"Electronic Arts",FALSE
+"896",896,"Ubisoft",FALSE
+"897",897,"Take-Two Interactive",FALSE
+"898",898,"Electronic Arts",FALSE
+"899",899,"Take-Two Interactive",FALSE
+"900",900,"Electronic Arts",FALSE
+"901",901,"Activision",FALSE
+"902",902,"Electronic Arts",FALSE
+"903",903,"Sega",TRUE
+"904",904,"THQ",FALSE
+"905",905,"Namco Bandai Games",FALSE
+"906",906,"Electronic Arts",FALSE
+"907",907,"Activision",FALSE
+"908",908,"Activision",FALSE
+"909",909,"Electronic Arts",TRUE
+"910",910,"Activision",FALSE
+"911",911,"Electronic Arts",FALSE
+"912",912,"Electronic Arts",FALSE
+"913",913,"Electronic Arts",FALSE
+"914",914,"Ubisoft",FALSE
+"915",915,"Electronic Arts",FALSE
+"916",916,"Sony Computer Entertainment",FALSE
+"917",917,"THQ",FALSE
+"918",918,"Activision",FALSE
+"919",919,"Activision",FALSE
+"920",920,"Electronic Arts",TRUE
+"921",921,"Sony Computer Entertainment",FALSE
+"922",922,"Sega",FALSE
+"923",923,"Electronic Arts",TRUE
+"924",924,"Sega",FALSE
+"925",925,"Electronic Arts",FALSE
+"926",926,"Activision",FALSE
+"927",927,"Take-Two Interactive",FALSE
+"928",928,"Konami Digital Entertainment",FALSE
+"929",929,"Activision",FALSE
+"930",930,"Ubisoft",FALSE
+"931",931,"Electronic Arts",FALSE
+"932",932,"THQ",FALSE
+"933",933,"Ubisoft",FALSE
+"934",934,"Activision",FALSE
+"935",935,"Ubisoft",FALSE
+"936",936,"Electronic Arts",FALSE
+"937",937,"THQ",FALSE
+"938",938,"Electronic Arts",TRUE
+"939",939,"Take-Two Interactive",FALSE
+"940",940,"Microsoft Game Studios",FALSE
+"941",941,"Namco Bandai Games",FALSE
+"942",942,"Sega",FALSE
+"943",943,"Electronic Arts",FALSE
+"944",944,"Activision",FALSE
+"945",945,"Take-Two Interactive",FALSE
+"946",946,"Konami Digital Entertainment",FALSE
+"947",947,"Namco Bandai Games",FALSE
+"948",948,"Sega",FALSE
+"949",949,"Sega",FALSE
+"950",950,"Sega",FALSE
+"951",951,"Electronic Arts",FALSE
+"952",952,"Take-Two Interactive",FALSE
+"953",953,"Sony Computer Entertainment",FALSE
+"954",954,"Ubisoft",FALSE
+"955",955,"Ubisoft",FALSE
+"956",956,"Ubisoft",FALSE
+"957",957,"THQ",FALSE
+"958",958,"Sega",FALSE
+"959",959,"THQ",FALSE
+"960",960,"Electronic Arts",FALSE
+"961",961,"Activision",TRUE
+"962",962,"Electronic Arts",FALSE
+"963",963,"Electronic Arts",FALSE
+"964",964,"Sega",FALSE
+"965",965,"Electronic Arts",FALSE
+"966",966,"Electronic Arts",FALSE
+"967",967,"Ubisoft",FALSE
+"968",968,"Microsoft Game Studios",FALSE
+"969",969,"Konami Digital Entertainment",FALSE
+"970",970,"Activision",FALSE
+"971",971,"Electronic Arts",TRUE
+"972",972,"Konami Digital Entertainment",FALSE
+"973",973,"Ubisoft",FALSE
+"974",974,"Sony Computer Entertainment",FALSE
+"975",975,"Namco Bandai Games",FALSE
+"976",976,"Ubisoft",FALSE
+"977",977,"Electronic Arts",FALSE
+"978",978,"Electronic Arts",FALSE
+"979",979,"Sony Computer Entertainment",FALSE
+"980",980,"Microsoft Game Studios",FALSE
+"981",981,"Ubisoft",FALSE
+"982",982,"Electronic Arts",FALSE
+"983",983,"Take-Two Interactive",FALSE
+"984",984,"Electronic Arts",FALSE
+"985",985,"Ubisoft",FALSE
+"986",986,"Namco Bandai Games",FALSE
+"987",987,"Konami Digital Entertainment",FALSE
+"988",988,"Ubisoft",FALSE
+"989",989,"Namco Bandai Games",FALSE
+"990",990,"Electronic Arts",FALSE
+"991",991,"Ubisoft",TRUE
+"992",992,"Namco Bandai Games",FALSE
+"993",993,"Take-Two Interactive",FALSE
+"994",994,"Electronic Arts",FALSE
+"995",995,"Sega",FALSE
+"996",996,"Namco Bandai Games",FALSE
+"997",997,"Electronic Arts",FALSE
+"998",998,"Microsoft Game Studios",FALSE
+"999",999,"Electronic Arts",FALSE
+"1000",1000,"Activision",TRUE
+"1001",1001,"THQ",FALSE
+"1002",1002,"Activision",FALSE
+"1003",1003,"Microsoft Game Studios",FALSE
+"1004",1004,"Take-Two Interactive",FALSE
+"1005",1005,"Ubisoft",FALSE
+"1006",1006,"Electronic Arts",TRUE
+"1007",1007,"Electronic Arts",FALSE
+"1008",1008,"Electronic Arts",FALSE
+"1009",1009,"Electronic Arts",FALSE
+"1010",1010,"THQ",FALSE
+"1011",1011,"Take-Two Interactive",FALSE
+"1012",1012,"Activision",FALSE
+"1013",1013,"Electronic Arts",FALSE
+"1014",1014,"Ubisoft",FALSE
+"1015",1015,"THQ",FALSE
+"1016",1016,"Take-Two Interactive",FALSE
+"1017",1017,"Electronic Arts",FALSE
+"1018",1018,"Activision",FALSE
+"1019",1019,"Activision",FALSE
+"1020",1020,"Microsoft Game Studios",FALSE
+"1021",1021,"Sega",FALSE
+"1022",1022,"Take-Two Interactive",FALSE
+"1023",1023,"Ubisoft",FALSE
+"1024",1024,"THQ",FALSE
+"1025",1025,"THQ",FALSE
+"1026",1026,"Electronic Arts",FALSE
+"1027",1027,"Sony Computer Entertainment",FALSE
+"1028",1028,"Konami Digital Entertainment",FALSE
+"1029",1029,"Namco Bandai Games",FALSE
+"1030",1030,"THQ",FALSE
+"1031",1031,"Sony Computer Entertainment",FALSE
+"1032",1032,"Ubisoft",FALSE
+"1033",1033,"Activision",FALSE
+"1034",1034,"Take-Two Interactive",FALSE
+"1035",1035,"Ubisoft",TRUE
+"1036",1036,"THQ",FALSE
+"1037",1037,"Activision",FALSE
+"1038",1038,"Ubisoft",FALSE
+"1039",1039,"Microsoft Game Studios",FALSE
+"1040",1040,"Sony Computer Entertainment",FALSE
+"1041",1041,"Take-Two Interactive",FALSE
+"1042",1042,"Sega",FALSE
+"1043",1043,"Take-Two Interactive",FALSE
+"1044",1044,"THQ",FALSE
+"1045",1045,"Electronic Arts",FALSE
+"1046",1046,"THQ",FALSE
+"1047",1047,"Electronic Arts",FALSE
+"1048",1048,"Konami Digital Entertainment",FALSE
+"1049",1049,"Namco Bandai Games",FALSE
+"1050",1050,"Electronic Arts",FALSE
+"1051",1051,"Electronic Arts",FALSE
+"1052",1052,"Electronic Arts",FALSE
+"1053",1053,"THQ",FALSE
+"1054",1054,"Activision",FALSE
+"1055",1055,"Sega",FALSE
+"1056",1056,"Namco Bandai Games",FALSE
+"1057",1057,"Activision",FALSE
+"1058",1058,"Electronic Arts",TRUE
+"1059",1059,"Sony Computer Entertainment",FALSE
+"1060",1060,"Namco Bandai Games",FALSE
+"1061",1061,"Namco Bandai Games",FALSE
+"1062",1062,"Electronic Arts",FALSE
+"1063",1063,"Electronic Arts",FALSE
+"1064",1064,"Activision",TRUE
+"1065",1065,"Ubisoft",FALSE
+"1066",1066,"Electronic Arts",FALSE
+"1067",1067,"Electronic Arts",FALSE
+"1068",1068,"Electronic Arts",FALSE
+"1069",1069,"Sony Computer Entertainment",FALSE
+"1070",1070,"Activision",FALSE
+"1071",1071,"Take-Two Interactive",FALSE
+"1072",1072,"THQ",FALSE
+"1073",1073,"Take-Two Interactive",FALSE
+"1074",1074,"Electronic Arts",FALSE
+"1075",1075,"Activision",FALSE
+"1076",1076,"Ubisoft",FALSE
+"1077",1077,"THQ",FALSE
+"1078",1078,"Electronic Arts",FALSE
+"1079",1079,"Sega",FALSE
+"1080",1080,"Konami Digital Entertainment",FALSE
+"1081",1081,"Electronic Arts",FALSE
+"1082",1082,"Electronic Arts",FALSE
+"1083",1083,"Electronic Arts",FALSE
+"1084",1084,"Electronic Arts",TRUE
+"1085",1085,"Electronic Arts",FALSE
+"1086",1086,"Sony Computer Entertainment",TRUE
+"1087",1087,"Electronic Arts",FALSE
+"1088",1088,"Activision",FALSE
+"1089",1089,"THQ",FALSE
+"1090",1090,"Electronic Arts",FALSE
+"1091",1091,"Electronic Arts",FALSE
+"1092",1092,"Activision",FALSE
+"1093",1093,"Sony Computer Entertainment",FALSE
+"1094",1094,"Sony Computer Entertainment",FALSE
+"1095",1095,"THQ",FALSE
+"1096",1096,"Activision",FALSE
+"1097",1097,"Take-Two Interactive",FALSE
+"1098",1098,"THQ",FALSE
+"1099",1099,"Electronic Arts",FALSE
+"1100",1100,"Namco Bandai Games",FALSE
+"1101",1101,"Electronic Arts",FALSE
+"1102",1102,"Electronic Arts",TRUE
+"1103",1103,"Namco Bandai Games",FALSE
+"1104",1104,"Namco Bandai Games",FALSE
+"1105",1105,"Take-Two Interactive",TRUE
+"1106",1106,"Konami Digital Entertainment",FALSE
+"1107",1107,"Electronic Arts",TRUE
+"1108",1108,"Electronic Arts",FALSE
+"1109",1109,"Sega",FALSE
+"1110",1110,"Electronic Arts",FALSE
+"1111",1111,"THQ",FALSE
+"1112",1112,"Take-Two Interactive",FALSE
+"1113",1113,"Ubisoft",FALSE
+"1114",1114,"Activision",FALSE
+"1115",1115,"Konami Digital Entertainment",FALSE
+"1116",1116,"Ubisoft",FALSE
+"1117",1117,"Activision",FALSE
+"1118",1118,"Activision",FALSE
+"1119",1119,"Take-Two Interactive",FALSE
+"1120",1120,"Konami Digital Entertainment",FALSE
+"1121",1121,"Electronic Arts",FALSE
+"1122",1122,"THQ",FALSE
+"1123",1123,"Electronic Arts",FALSE
+"1124",1124,"THQ",FALSE
+"1125",1125,"Activision",FALSE
+"1126",1126,"Activision",FALSE
+"1127",1127,"Electronic Arts",FALSE
+"1128",1128,"Namco Bandai Games",FALSE
+"1129",1129,"Activision",FALSE
+"1130",1130,"Electronic Arts",FALSE
+"1131",1131,"Namco Bandai Games",FALSE
+"1132",1132,"Electronic Arts",FALSE
+"1133",1133,"Namco Bandai Games",FALSE
+"1134",1134,"Activision",FALSE
+"1135",1135,"Ubisoft",TRUE
+"1136",1136,"Electronic Arts",FALSE
+"1137",1137,"Microsoft Game Studios",FALSE
+"1138",1138,"Microsoft Game Studios",FALSE
+"1139",1139,"Sony Computer Entertainment",FALSE
+"1140",1140,"Electronic Arts",FALSE
+"1141",1141,"Electronic Arts",FALSE
+"1142",1142,"Konami Digital Entertainment",FALSE
+"1143",1143,"Electronic Arts",FALSE
+"1144",1144,"Electronic Arts",TRUE
+"1145",1145,"Electronic Arts",FALSE
+"1146",1146,"Sony Computer Entertainment",FALSE
+"1147",1147,"Activision",FALSE
+"1148",1148,"Activision",FALSE
+"1149",1149,"Sony Computer Entertainment",FALSE
+"1150",1150,"THQ",FALSE
+"1151",1151,"Microsoft Game Studios",FALSE
+"1152",1152,"Electronic Arts",FALSE
+"1153",1153,"Microsoft Game Studios",FALSE
+"1154",1154,"THQ",FALSE
+"1155",1155,"Activision",FALSE
+"1156",1156,"Sega",FALSE
+"1157",1157,"Activision",FALSE
+"1158",1158,"Electronic Arts",FALSE
+"1159",1159,"THQ",FALSE
+"1160",1160,"Ubisoft",FALSE
+"1161",1161,"THQ",FALSE
+"1162",1162,"Electronic Arts",FALSE
+"1163",1163,"Ubisoft",FALSE
+"1164",1164,"Sony Computer Entertainment",FALSE
+"1165",1165,"Konami Digital Entertainment",FALSE
+"1166",1166,"Sony Computer Entertainment",TRUE
+"1167",1167,"THQ",FALSE
+"1168",1168,"Microsoft Game Studios",FALSE
+"1169",1169,"Sega",FALSE
+"1170",1170,"Electronic Arts",FALSE
+"1171",1171,"Electronic Arts",FALSE
+"1172",1172,"Activision",FALSE
+"1173",1173,"Activision",FALSE
+"1174",1174,"Take-Two Interactive",FALSE
+"1175",1175,"THQ",FALSE
+"1176",1176,"Sega",FALSE
+"1177",1177,"THQ",FALSE
+"1178",1178,"Electronic Arts",FALSE
+"1179",1179,"Electronic Arts",FALSE
+"1180",1180,"Electronic Arts",FALSE
+"1181",1181,"Activision",FALSE
+"1182",1182,"Ubisoft",TRUE
+"1183",1183,"Konami Digital Entertainment",FALSE
+"1184",1184,"THQ",FALSE
+"1185",1185,"Konami Digital Entertainment",FALSE
+"1186",1186,"Konami Digital Entertainment",FALSE
+"1187",1187,"Activision",FALSE
+"1188",1188,"Sega",FALSE
+"1189",1189,"Activision",FALSE
+"1190",1190,"Namco Bandai Games",FALSE
+"1191",1191,"Electronic Arts",FALSE
+"1192",1192,"Electronic Arts",FALSE
+"1193",1193,"Electronic Arts",FALSE
+"1194",1194,"Activision",FALSE
+"1195",1195,"Sega",FALSE
+"1196",1196,"Activision",FALSE
+"1197",1197,"THQ",FALSE
+"1198",1198,"Take-Two Interactive",FALSE
+"1199",1199,"Ubisoft",FALSE
+"1200",1200,"Activision",FALSE
+"1201",1201,"Activision",TRUE
+"1202",1202,"Sony Computer Entertainment",FALSE
+"1203",1203,"Electronic Arts",FALSE
+"1204",1204,"Electronic Arts",FALSE
+"1205",1205,"Electronic Arts",FALSE
+"1206",1206,"Namco Bandai Games",FALSE
+"1207",1207,"Activision",FALSE
+"1208",1208,"Namco Bandai Games",FALSE
+"1209",1209,"Sony Computer Entertainment",FALSE
+"1210",1210,"Ubisoft",FALSE
+"1211",1211,"Namco Bandai Games",FALSE
+"1212",1212,"Take-Two Interactive",FALSE
+"1213",1213,"Sega",FALSE
+"1214",1214,"Ubisoft",FALSE
+"1215",1215,"Microsoft Game Studios",FALSE
+"1216",1216,"Sega",FALSE
+"1217",1217,"Electronic Arts",TRUE
+"1218",1218,"Electronic Arts",TRUE
+"1219",1219,"Take-Two Interactive",TRUE
+"1220",1220,"Electronic Arts",FALSE
+"1221",1221,"Sony Computer Entertainment",TRUE
+"1222",1222,"Konami Digital Entertainment",FALSE
+"1223",1223,"THQ",FALSE
+"1224",1224,"Activision",FALSE
+"1225",1225,"Sony Computer Entertainment",FALSE
+"1226",1226,"Konami Digital Entertainment",FALSE
+"1227",1227,"Konami Digital Entertainment",FALSE
+"1228",1228,"Electronic Arts",FALSE
+"1229",1229,"Take-Two Interactive",FALSE
+"1230",1230,"Sega",FALSE
+"1231",1231,"Ubisoft",FALSE
+"1232",1232,"Konami Digital Entertainment",FALSE
+"1233",1233,"Sony Computer Entertainment",FALSE
+"1234",1234,"Sega",FALSE
+"1235",1235,"Ubisoft",FALSE
+"1236",1236,"Ubisoft",FALSE
+"1237",1237,"Activision",FALSE
+"1238",1238,"Ubisoft",TRUE
+"1239",1239,"THQ",FALSE
+"1240",1240,"Take-Two Interactive",FALSE
+"1241",1241,"Take-Two Interactive",FALSE
+"1242",1242,"Activision",TRUE
+"1243",1243,"Ubisoft",FALSE
+"1244",1244,"THQ",FALSE
+"1245",1245,"Electronic Arts",FALSE
+"1246",1246,"Electronic Arts",FALSE
+"1247",1247,"THQ",FALSE
+"1248",1248,"Take-Two Interactive",FALSE
+"1249",1249,"Activision",FALSE
+"1250",1250,"Namco Bandai Games",FALSE
+"1251",1251,"Activision",FALSE
+"1252",1252,"Ubisoft",FALSE
+"1253",1253,"Konami Digital Entertainment",FALSE
+"1254",1254,"THQ",FALSE
+"1255",1255,"Electronic Arts",TRUE
+"1256",1256,"Sony Computer Entertainment",FALSE
+"1257",1257,"Microsoft Game Studios",FALSE
+"1258",1258,"THQ",FALSE
+"1259",1259,"Electronic Arts",FALSE
+"1260",1260,"Take-Two Interactive",FALSE
+"1261",1261,"Electronic Arts",FALSE
+"1262",1262,"Sega",FALSE
+"1263",1263,"Sony Computer Entertainment",FALSE
+"1264",1264,"Konami Digital Entertainment",FALSE
+"1265",1265,"Take-Two Interactive",FALSE
+"1266",1266,"Activision",FALSE
+"1267",1267,"THQ",FALSE
+"1268",1268,"THQ",FALSE
+"1269",1269,"Namco Bandai Games",FALSE
+"1270",1270,"Electronic Arts",FALSE
+"1271",1271,"Electronic Arts",FALSE
+"1272",1272,"Sega",FALSE
+"1273",1273,"Electronic Arts",FALSE
+"1274",1274,"Electronic Arts",FALSE
+"1275",1275,"Activision",FALSE
+"1276",1276,"Sega",FALSE
+"1277",1277,"Electronic Arts",FALSE
+"1278",1278,"Sega",FALSE
+"1279",1279,"Ubisoft",FALSE
+"1280",1280,"Electronic Arts",FALSE
+"1281",1281,"Sega",FALSE
+"1282",1282,"Ubisoft",FALSE
+"1283",1283,"Take-Two Interactive",FALSE
+"1284",1284,"Ubisoft",FALSE
+"1285",1285,"Electronic Arts",FALSE
+"1286",1286,"THQ",FALSE
+"1287",1287,"Konami Digital Entertainment",FALSE
+"1288",1288,"Sega",FALSE
+"1289",1289,"Activision",FALSE
+"1290",1290,"Sony Computer Entertainment",FALSE
+"1291",1291,"Electronic Arts",FALSE
+"1292",1292,"Sega",FALSE
+"1293",1293,"Sega",FALSE
+"1294",1294,"Sega",FALSE
+"1295",1295,"THQ",FALSE
+"1296",1296,"Electronic Arts",FALSE
+"1297",1297,"Sega",FALSE
+"1298",1298,"Electronic Arts",FALSE
+"1299",1299,"THQ",FALSE
+"1300",1300,"THQ",FALSE
+"1301",1301,"Ubisoft",FALSE
+"1302",1302,"Sega",FALSE
+"1303",1303,"Activision",FALSE
+"1304",1304,"Microsoft Game Studios",FALSE
+"1305",1305,"Sony Computer Entertainment",FALSE
+"1306",1306,"Konami Digital Entertainment",FALSE
+"1307",1307,"Ubisoft",FALSE
+"1308",1308,"Take-Two Interactive",FALSE
+"1309",1309,"Electronic Arts",FALSE
+"1310",1310,"Electronic Arts",FALSE
+"1311",1311,"Microsoft Game Studios",FALSE
+"1312",1312,"Activision",FALSE
+"1313",1313,"Electronic Arts",FALSE
+"1314",1314,"Activision",FALSE
+"1315",1315,"Electronic Arts",TRUE
+"1316",1316,"Electronic Arts",FALSE
+"1317",1317,"Electronic Arts",FALSE
+"1318",1318,"Namco Bandai Games",FALSE
+"1319",1319,"Electronic Arts",FALSE
+"1320",1320,"Electronic Arts",FALSE
+"1321",1321,"Electronic Arts",FALSE
+"1322",1322,"Namco Bandai Games",FALSE
+"1323",1323,"Konami Digital Entertainment",FALSE
+"1324",1324,"Take-Two Interactive",TRUE
+"1325",1325,"Konami Digital Entertainment",FALSE
+"1326",1326,"Ubisoft",FALSE
+"1327",1327,"THQ",FALSE
+"1328",1328,"Sony Computer Entertainment",FALSE
+"1329",1329,"Take-Two Interactive",FALSE
+"1330",1330,"Microsoft Game Studios",FALSE
+"1331",1331,"Sega",FALSE
+"1332",1332,"Activision",FALSE
+"1333",1333,"Sony Computer Entertainment",FALSE
+"1334",1334,"Electronic Arts",FALSE
+"1335",1335,"Konami Digital Entertainment",FALSE
+"1336",1336,"Electronic Arts",FALSE
+"1337",1337,"Ubisoft",FALSE
+"1338",1338,"Activision",FALSE
+"1339",1339,"THQ",FALSE
+"1340",1340,"Sega",FALSE
+"1341",1341,"Electronic Arts",FALSE
+"1342",1342,"Ubisoft",FALSE
+"1343",1343,"Konami Digital Entertainment",FALSE
+"1344",1344,"Ubisoft",FALSE
+"1345",1345,"Activision",FALSE
+"1346",1346,"Electronic Arts",FALSE
+"1347",1347,"Activision",FALSE
+"1348",1348,"THQ",FALSE
+"1349",1349,"Namco Bandai Games",FALSE
+"1350",1350,"Sony Computer Entertainment",FALSE
+"1351",1351,"Ubisoft",FALSE
+"1352",1352,"THQ",TRUE
+"1353",1353,"Electronic Arts",FALSE
+"1354",1354,"Electronic Arts",FALSE
+"1355",1355,"Microsoft Game Studios",FALSE
+"1356",1356,"THQ",FALSE
+"1357",1357,"Electronic Arts",FALSE
+"1358",1358,"Microsoft Game Studios",FALSE
+"1359",1359,"Sony Computer Entertainment",FALSE
+"1360",1360,"Namco Bandai Games",FALSE
+"1361",1361,"Sony Computer Entertainment",FALSE
+"1362",1362,"Ubisoft",FALSE
+"1363",1363,"Electronic Arts",FALSE
+"1364",1364,"Electronic Arts",FALSE
+"1365",1365,"Electronic Arts",FALSE
+"1366",1366,"Sony Computer Entertainment",FALSE
+"1367",1367,"Microsoft Game Studios",FALSE
+"1368",1368,"Activision",FALSE
+"1369",1369,"Sega",FALSE
+"1370",1370,"Sony Computer Entertainment",FALSE
+"1371",1371,"Electronic Arts",FALSE
+"1372",1372,"Ubisoft",FALSE
+"1373",1373,"Activision",FALSE
+"1374",1374,"Sega",FALSE
+"1375",1375,"Electronic Arts",FALSE
+"1376",1376,"Electronic Arts",FALSE
+"1377",1377,"Sega",FALSE
+"1378",1378,"Take-Two Interactive",FALSE
+"1379",1379,"Sega",FALSE
+"1380",1380,"Konami Digital Entertainment",FALSE
+"1381",1381,"Sega",FALSE
+"1382",1382,"Electronic Arts",FALSE
+"1383",1383,"Sony Computer Entertainment",FALSE
+"1384",1384,"Ubisoft",FALSE
+"1385",1385,"Electronic Arts",FALSE
+"1386",1386,"Konami Digital Entertainment",FALSE
+"1387",1387,"Konami Digital Entertainment",FALSE
+"1388",1388,"Ubisoft",FALSE
+"1389",1389,"Activision",FALSE
+"1390",1390,"Namco Bandai Games",FALSE
+"1391",1391,"Electronic Arts",FALSE
+"1392",1392,"Sony Computer Entertainment",FALSE
+"1393",1393,"Activision",FALSE
+"1394",1394,"Electronic Arts",FALSE
+"1395",1395,"Konami Digital Entertainment",FALSE
+"1396",1396,"Konami Digital Entertainment",TRUE
+"1397",1397,"Konami Digital Entertainment",FALSE
+"1398",1398,"Ubisoft",FALSE
+"1399",1399,"Activision",FALSE
+"1400",1400,"Take-Two Interactive",FALSE
+"1401",1401,"Sony Computer Entertainment",FALSE
+"1402",1402,"Take-Two Interactive",FALSE
+"1403",1403,"Sega",FALSE
+"1404",1404,"Microsoft Game Studios",FALSE
+"1405",1405,"Electronic Arts",FALSE
+"1406",1406,"Microsoft Game Studios",TRUE
+"1407",1407,"Sony Computer Entertainment",FALSE
+"1408",1408,"Activision",TRUE
+"1409",1409,"Microsoft Game Studios",FALSE
+"1410",1410,"Sony Computer Entertainment",FALSE
+"1411",1411,"Electronic Arts",FALSE
+"1412",1412,"Microsoft Game Studios",FALSE
+"1413",1413,"Electronic Arts",FALSE
+"1414",1414,"Ubisoft",TRUE
+"1415",1415,"Ubisoft",FALSE
+"1416",1416,"Activision",FALSE
+"1417",1417,"Namco Bandai Games",TRUE
+"1418",1418,"Electronic Arts",FALSE
+"1419",1419,"Konami Digital Entertainment",FALSE
+"1420",1420,"Sony Computer Entertainment",FALSE
+"1421",1421,"Activision",FALSE
+"1422",1422,"Namco Bandai Games",FALSE
+"1423",1423,"Sony Computer Entertainment",FALSE
+"1424",1424,"Activision",FALSE
+"1425",1425,"Microsoft Game Studios",FALSE
+"1426",1426,"Activision",TRUE
+"1427",1427,"Activision",TRUE
+"1428",1428,"Electronic Arts",FALSE
+"1429",1429,"Sony Computer Entertainment",FALSE
+"1430",1430,"Sony Computer Entertainment",FALSE
+"1431",1431,"Ubisoft",FALSE
+"1432",1432,"Ubisoft",FALSE
+"1433",1433,"THQ",FALSE
+"1434",1434,"Ubisoft",FALSE
+"1435",1435,"Konami Digital Entertainment",FALSE
+"1436",1436,"THQ",FALSE
+"1437",1437,"Electronic Arts",FALSE
+"1438",1438,"Konami Digital Entertainment",FALSE
+"1439",1439,"Sony Computer Entertainment",FALSE
+"1440",1440,"Electronic Arts",FALSE
+"1441",1441,"Ubisoft",FALSE
+"1442",1442,"Activision",FALSE
+"1443",1443,"Activision",FALSE
+"1444",1444,"Electronic Arts",FALSE
+"1445",1445,"Konami Digital Entertainment",FALSE
+"1446",1446,"THQ",FALSE
+"1447",1447,"Electronic Arts",FALSE
+"1448",1448,"Electronic Arts",FALSE
+"1449",1449,"Take-Two Interactive",FALSE
+"1450",1450,"Take-Two Interactive",FALSE
+"1451",1451,"Electronic Arts",FALSE
+"1452",1452,"Sony Computer Entertainment",FALSE
+"1453",1453,"Ubisoft",FALSE
+"1454",1454,"Sega",FALSE
+"1455",1455,"Ubisoft",FALSE
+"1456",1456,"Activision",FALSE
+"1457",1457,"Electronic Arts",FALSE
+"1458",1458,"Ubisoft",FALSE
+"1459",1459,"Electronic Arts",FALSE
+"1460",1460,"Microsoft Game Studios",FALSE
+"1461",1461,"Namco Bandai Games",FALSE
+"1462",1462,"Ubisoft",FALSE
+"1463",1463,"Electronic Arts",TRUE
+"1464",1464,"Take-Two Interactive",FALSE
+"1465",1465,"Activision",FALSE
+"1466",1466,"Namco Bandai Games",FALSE
+"1467",1467,"Sega",FALSE
+"1468",1468,"Sega",FALSE
+"1469",1469,"Electronic Arts",FALSE
+"1470",1470,"Microsoft Game Studios",FALSE
+"1471",1471,"Konami Digital Entertainment",FALSE
+"1472",1472,"Sega",FALSE
+"1473",1473,"Electronic Arts",FALSE
+"1474",1474,"Microsoft Game Studios",FALSE
+"1475",1475,"Activision",FALSE
+"1476",1476,"Sony Computer Entertainment",FALSE
+"1477",1477,"Namco Bandai Games",FALSE
+"1478",1478,"Activision",FALSE
+"1479",1479,"Electronic Arts",FALSE
+"1480",1480,"Konami Digital Entertainment",FALSE
+"1481",1481,"THQ",FALSE
+"1482",1482,"Electronic Arts",FALSE
+"1483",1483,"Electronic Arts",FALSE
+"1484",1484,"Sony Computer Entertainment",FALSE
+"1485",1485,"Sega",FALSE
+"1486",1486,"Activision",FALSE
+"1487",1487,"Activision",FALSE
+"1488",1488,"Namco Bandai Games",FALSE
+"1489",1489,"Activision",FALSE
+"1490",1490,"Ubisoft",FALSE
+"1491",1491,"Electronic Arts",FALSE
+"1492",1492,"Microsoft Game Studios",FALSE
+"1493",1493,"Activision",FALSE
+"1494",1494,"Sony Computer Entertainment",FALSE
+"1495",1495,"Konami Digital Entertainment",FALSE
+"1496",1496,"Sony Computer Entertainment",FALSE
+"1497",1497,"Sega",FALSE
+"1498",1498,"Ubisoft",FALSE
+"1499",1499,"Microsoft Game Studios",FALSE
+"1500",1500,"Electronic Arts",TRUE
+"1501",1501,"Electronic Arts",FALSE
+"1502",1502,"THQ",FALSE
+"1503",1503,"Sega",FALSE
+"1504",1504,"Electronic Arts",FALSE
+"1505",1505,"Activision",TRUE
+"1506",1506,"Electronic Arts",FALSE
+"1507",1507,"THQ",FALSE
+"1508",1508,"Activision",FALSE
+"1509",1509,"Activision",FALSE
+"1510",1510,"Namco Bandai Games",FALSE
+"1511",1511,"Electronic Arts",FALSE
+"1512",1512,"Ubisoft",FALSE
+"1513",1513,"Take-Two Interactive",FALSE
+"1514",1514,"Konami Digital Entertainment",FALSE
+"1515",1515,"Electronic Arts",FALSE
+"1516",1516,"Namco Bandai Games",FALSE
+"1517",1517,"Ubisoft",FALSE
+"1518",1518,"Ubisoft",FALSE
+"1519",1519,"Sony Computer Entertainment",FALSE
+"1520",1520,"Ubisoft",FALSE
+"1521",1521,"Sega",FALSE
+"1522",1522,"Activision",FALSE
+"1523",1523,"Take-Two Interactive",FALSE
+"1524",1524,"Take-Two Interactive",FALSE
+"1525",1525,"Sega",FALSE
+"1526",1526,"Sega",FALSE
+"1527",1527,"Electronic Arts",FALSE
+"1528",1528,"Sega",FALSE
+"1529",1529,"Take-Two Interactive",FALSE
+"1530",1530,"Ubisoft",FALSE
+"1531",1531,"Activision",TRUE
+"1532",1532,"Konami Digital Entertainment",FALSE
+"1533",1533,"Activision",FALSE
+"1534",1534,"Electronic Arts",FALSE
+"1535",1535,"Sony Computer Entertainment",FALSE
+"1536",1536,"Activision",FALSE
+"1537",1537,"Sony Computer Entertainment",FALSE
+"1538",1538,"Electronic Arts",FALSE
+"1539",1539,"Ubisoft",FALSE
+"1540",1540,"Ubisoft",FALSE
+"1541",1541,"Activision",FALSE
+"1542",1542,"Sony Computer Entertainment",FALSE
+"1543",1543,"Sony Computer Entertainment",FALSE
+"1544",1544,"Take-Two Interactive",FALSE
+"1545",1545,"THQ",FALSE
+"1546",1546,"Take-Two Interactive",FALSE
+"1547",1547,"Electronic Arts",FALSE
+"1548",1548,"Electronic Arts",FALSE
+"1549",1549,"Ubisoft",TRUE
+"1550",1550,"Microsoft Game Studios",FALSE
+"1551",1551,"Electronic Arts",FALSE
+"1552",1552,"THQ",FALSE
+"1553",1553,"Electronic Arts",FALSE
+"1554",1554,"Sony Computer Entertainment",FALSE
+"1555",1555,"Electronic Arts",FALSE
+"1556",1556,"Ubisoft",FALSE
+"1557",1557,"Ubisoft",FALSE
+"1558",1558,"THQ",FALSE
+"1559",1559,"THQ",FALSE
+"1560",1560,"THQ",FALSE
+"1561",1561,"Sega",FALSE
+"1562",1562,"Electronic Arts",TRUE
+"1563",1563,"Electronic Arts",FALSE
+"1564",1564,"Take-Two Interactive",FALSE
+"1565",1565,"Sega",FALSE
+"1566",1566,"THQ",FALSE
+"1567",1567,"Take-Two Interactive",FALSE
+"1568",1568,"Activision",FALSE
+"1569",1569,"Take-Two Interactive",FALSE
+"1570",1570,"Ubisoft",FALSE
+"1571",1571,"Ubisoft",FALSE
+"1572",1572,"Sony Computer Entertainment",FALSE
+"1573",1573,"Activision",FALSE
+"1574",1574,"Take-Two Interactive",FALSE
+"1575",1575,"Namco Bandai Games",FALSE
+"1576",1576,"Ubisoft",FALSE
+"1577",1577,"THQ",FALSE
+"1578",1578,"Electronic Arts",FALSE
+"1579",1579,"THQ",FALSE
+"1580",1580,"Sega",FALSE
+"1581",1581,"Namco Bandai Games",FALSE
+"1582",1582,"Take-Two Interactive",FALSE
+"1583",1583,"Sega",FALSE
+"1584",1584,"Microsoft Game Studios",FALSE
+"1585",1585,"Sega",FALSE
+"1586",1586,"Activision",FALSE
+"1587",1587,"THQ",FALSE
+"1588",1588,"Ubisoft",FALSE
+"1589",1589,"Sega",FALSE
+"1590",1590,"Sony Computer Entertainment",FALSE
+"1591",1591,"Activision",FALSE
+"1592",1592,"Electronic Arts",FALSE
+"1593",1593,"Electronic Arts",FALSE
+"1594",1594,"Electronic Arts",FALSE
+"1595",1595,"Activision",FALSE
+"1596",1596,"Konami Digital Entertainment",TRUE
+"1597",1597,"Ubisoft",FALSE
+"1598",1598,"Electronic Arts",FALSE
+"1599",1599,"Konami Digital Entertainment",FALSE
+"1600",1600,"Activision",FALSE
+"1601",1601,"Konami Digital Entertainment",FALSE
+"1602",1602,"Electronic Arts",FALSE
+"1603",1603,"Electronic Arts",FALSE
+"1604",1604,"Electronic Arts",FALSE
+"1605",1605,"Microsoft Game Studios",FALSE
+"1606",1606,"Sega",FALSE
+"1607",1607,"Sega",FALSE
+"1608",1608,"Sega",FALSE
+"1609",1609,"Sega",FALSE
+"1610",1610,"Take-Two Interactive",FALSE
+"1611",1611,"Activision",FALSE
+"1612",1612,"Take-Two Interactive",FALSE
+"1613",1613,"Electronic Arts",FALSE
+"1614",1614,"Take-Two Interactive",FALSE
+"1615",1615,"Electronic Arts",TRUE
+"1616",1616,"Sony Computer Entertainment",FALSE
+"1617",1617,"Sony Computer Entertainment",FALSE
+"1618",1618,"Ubisoft",FALSE
+"1619",1619,"Sony Computer Entertainment",FALSE
+"1620",1620,"Electronic Arts",FALSE
+"1621",1621,"Activision",FALSE
+"1622",1622,"THQ",FALSE
+"1623",1623,"Take-Two Interactive",FALSE
+"1624",1624,"Sony Computer Entertainment",FALSE
+"1625",1625,"Sega",FALSE
+"1626",1626,"Activision",FALSE
+"1627",1627,"Namco Bandai Games",FALSE
+"1628",1628,"Electronic Arts",FALSE
+"1629",1629,"Ubisoft",FALSE
+"1630",1630,"Activision",FALSE
+"1631",1631,"Electronic Arts",FALSE
+"1632",1632,"Electronic Arts",FALSE
+"1633",1633,"Namco Bandai Games",FALSE
+"1634",1634,"Sega",FALSE
+"1635",1635,"Ubisoft",FALSE
+"1636",1636,"Ubisoft",FALSE
+"1637",1637,"Namco Bandai Games",FALSE
+"1638",1638,"Take-Two Interactive",FALSE
+"1639",1639,"Ubisoft",FALSE
+"1640",1640,"Ubisoft",FALSE
+"1641",1641,"Take-Two Interactive",FALSE
+"1642",1642,"Take-Two Interactive",FALSE
+"1643",1643,"Activision",FALSE
+"1644",1644,"Take-Two Interactive",FALSE
+"1645",1645,"Konami Digital Entertainment",FALSE
+"1646",1646,"Take-Two Interactive",FALSE
+"1647",1647,"Electronic Arts",FALSE
+"1648",1648,"Namco Bandai Games",FALSE
+"1649",1649,"THQ",FALSE
+"1650",1650,"Ubisoft",FALSE
+"1651",1651,"Ubisoft",FALSE
+"1652",1652,"THQ",FALSE
+"1653",1653,"Konami Digital Entertainment",FALSE
+"1654",1654,"THQ",FALSE
+"1655",1655,"Electronic Arts",FALSE
+"1656",1656,"Ubisoft",FALSE
+"1657",1657,"Electronic Arts",FALSE
+"1658",1658,"Activision",TRUE
+"1659",1659,"Microsoft Game Studios",FALSE
+"1660",1660,"Electronic Arts",FALSE
+"1661",1661,"Sega",FALSE
+"1662",1662,"THQ",FALSE
+"1663",1663,"Konami Digital Entertainment",FALSE
+"1664",1664,"Electronic Arts",FALSE
+"1665",1665,"THQ",FALSE
+"1666",1666,"Electronic Arts",FALSE
+"1667",1667,"Sega",FALSE
+"1668",1668,"THQ",FALSE
+"1669",1669,"Namco Bandai Games",FALSE
+"1670",1670,"Activision",FALSE
+"1671",1671,"Sega",FALSE
+"1672",1672,"Namco Bandai Games",FALSE
+"1673",1673,"Konami Digital Entertainment",FALSE
+"1674",1674,"Electronic Arts",FALSE
+"1675",1675,"Sega",FALSE
+"1676",1676,"Take-Two Interactive",TRUE
+"1677",1677,"THQ",FALSE
+"1678",1678,"Activision",FALSE
+"1679",1679,"Ubisoft",FALSE
+"1680",1680,"Sega",FALSE
+"1681",1681,"Take-Two Interactive",FALSE
+"1682",1682,"Ubisoft",FALSE
+"1683",1683,"Electronic Arts",FALSE
+"1684",1684,"Electronic Arts",TRUE
+"1685",1685,"Sony Computer Entertainment",FALSE
+"1686",1686,"Namco Bandai Games",FALSE
+"1687",1687,"Electronic Arts",FALSE
+"1688",1688,"Activision",FALSE
+"1689",1689,"Electronic Arts",FALSE
+"1690",1690,"Activision",FALSE
+"1691",1691,"Namco Bandai Games",FALSE
+"1692",1692,"Konami Digital Entertainment",FALSE
+"1693",1693,"Konami Digital Entertainment",FALSE
+"1694",1694,"Activision",FALSE
+"1695",1695,"Namco Bandai Games",FALSE
+"1696",1696,"Activision",FALSE
+"1697",1697,"Ubisoft",FALSE
+"1698",1698,"THQ",FALSE
+"1699",1699,"Electronic Arts",FALSE
+"1700",1700,"Sony Computer Entertainment",FALSE
+"1701",1701,"Konami Digital Entertainment",FALSE
+"1702",1702,"Take-Two Interactive",TRUE
+"1703",1703,"Electronic Arts",FALSE
+"1704",1704,"Ubisoft",FALSE
+"1705",1705,"THQ",TRUE
+"1706",1706,"THQ",FALSE
+"1707",1707,"Konami Digital Entertainment",FALSE
+"1708",1708,"Sega",FALSE
+"1709",1709,"Sega",FALSE
+"1710",1710,"Take-Two Interactive",FALSE
+"1711",1711,"Sony Computer Entertainment",FALSE
+"1712",1712,"Namco Bandai Games",FALSE
+"1713",1713,"Konami Digital Entertainment",FALSE
+"1714",1714,"Ubisoft",FALSE
+"1715",1715,"Take-Two Interactive",TRUE
+"1716",1716,"Electronic Arts",FALSE
+"1717",1717,"Electronic Arts",FALSE
+"1718",1718,"Activision",FALSE
+"1719",1719,"Sony Computer Entertainment",FALSE
+"1720",1720,"Electronic Arts",FALSE
+"1721",1721,"Microsoft Game Studios",FALSE
+"1722",1722,"Namco Bandai Games",FALSE
+"1723",1723,"Konami Digital Entertainment",FALSE
+"1724",1724,"Ubisoft",FALSE
+"1725",1725,"Take-Two Interactive",FALSE
+"1726",1726,"Electronic Arts",FALSE
+"1727",1727,"Sega",FALSE
+"1728",1728,"Activision",FALSE
+"1729",1729,"Sega",FALSE
+"1730",1730,"THQ",FALSE
+"1731",1731,"Take-Two Interactive",TRUE
+"1732",1732,"Ubisoft",FALSE
+"1733",1733,"Electronic Arts",FALSE
+"1734",1734,"Sony Computer Entertainment",FALSE
+"1735",1735,"Namco Bandai Games",FALSE
+"1736",1736,"Ubisoft",FALSE
+"1737",1737,"Ubisoft",FALSE
+"1738",1738,"Sega",FALSE
+"1739",1739,"Activision",FALSE
+"1740",1740,"Sega",FALSE
+"1741",1741,"Activision",FALSE
+"1742",1742,"Take-Two Interactive",TRUE
+"1743",1743,"Electronic Arts",FALSE
+"1744",1744,"Electronic Arts",FALSE
+"1745",1745,"Electronic Arts",FALSE
+"1746",1746,"Electronic Arts",FALSE
+"1747",1747,"Take-Two Interactive",FALSE
+"1748",1748,"Electronic Arts",FALSE
+"1749",1749,"Sony Computer Entertainment",FALSE
+"1750",1750,"Ubisoft",FALSE
+"1751",1751,"Ubisoft",FALSE
+"1752",1752,"Sony Computer Entertainment",FALSE
+"1753",1753,"Konami Digital Entertainment",FALSE
+"1754",1754,"Activision",FALSE
+"1755",1755,"Ubisoft",FALSE
+"1756",1756,"Electronic Arts",FALSE
+"1757",1757,"Ubisoft",FALSE
+"1758",1758,"Activision",FALSE
+"1759",1759,"Sega",FALSE
+"1760",1760,"THQ",FALSE
+"1761",1761,"Activision",FALSE
+"1762",1762,"Electronic Arts",FALSE
+"1763",1763,"Ubisoft",FALSE
+"1764",1764,"Sega",FALSE
+"1765",1765,"Electronic Arts",FALSE
+"1766",1766,"Take-Two Interactive",FALSE
+"1767",1767,"Konami Digital Entertainment",FALSE
+"1768",1768,"Namco Bandai Games",FALSE
+"1769",1769,"Sony Computer Entertainment",FALSE
+"1770",1770,"THQ",FALSE
+"1771",1771,"Take-Two Interactive",FALSE
+"1772",1772,"Konami Digital Entertainment",FALSE
+"1773",1773,"THQ",FALSE
+"1774",1774,"Sega",FALSE
+"1775",1775,"Sega",FALSE
+"1776",1776,"Take-Two Interactive",FALSE
+"1777",1777,"Activision",FALSE
+"1778",1778,"Electronic Arts",FALSE
+"1779",1779,"Namco Bandai Games",FALSE
+"1780",1780,"Sony Computer Entertainment",FALSE
+"1781",1781,"Activision",FALSE
+"1782",1782,"Sony Computer Entertainment",FALSE
+"1783",1783,"Microsoft Game Studios",FALSE
+"1784",1784,"Sony Computer Entertainment",FALSE
+"1785",1785,"Take-Two Interactive",FALSE
+"1786",1786,"Sega",FALSE
+"1787",1787,"Activision",FALSE
+"1788",1788,"Ubisoft",TRUE
+"1789",1789,"Sony Computer Entertainment",FALSE
+"1790",1790,"Take-Two Interactive",FALSE
+"1791",1791,"Sega",FALSE
+"1792",1792,"Electronic Arts",FALSE
+"1793",1793,"Activision",FALSE
+"1794",1794,"Electronic Arts",FALSE
+"1795",1795,"Konami Digital Entertainment",FALSE
+"1796",1796,"Electronic Arts",FALSE
+"1797",1797,"Activision",FALSE
+"1798",1798,"Sega",FALSE
+"1799",1799,"Sony Computer Entertainment",FALSE
+"1800",1800,"Take-Two Interactive",FALSE
+"1801",1801,"Electronic Arts",FALSE
+"1802",1802,"Microsoft Game Studios",FALSE
+"1803",1803,"Ubisoft",FALSE
+"1804",1804,"Namco Bandai Games",FALSE
+"1805",1805,"Sega",FALSE
+"1806",1806,"Ubisoft",TRUE
+"1807",1807,"Take-Two Interactive",FALSE
+"1808",1808,"Sony Computer Entertainment",FALSE
+"1809",1809,"Sega",FALSE
+"1810",1810,"Sega",FALSE
+"1811",1811,"Namco Bandai Games",FALSE
+"1812",1812,"Namco Bandai Games",FALSE
+"1813",1813,"Activision",FALSE
+"1814",1814,"Activision",TRUE
+"1815",1815,"Electronic Arts",FALSE
+"1816",1816,"Ubisoft",FALSE
+"1817",1817,"Activision",FALSE
+"1818",1818,"Ubisoft",FALSE
+"1819",1819,"Take-Two Interactive",FALSE
+"1820",1820,"Namco Bandai Games",FALSE
+"1821",1821,"Ubisoft",FALSE
+"1822",1822,"Electronic Arts",FALSE
+"1823",1823,"Electronic Arts",FALSE
+"1824",1824,"Take-Two Interactive",FALSE
+"1825",1825,"Ubisoft",FALSE
+"1826",1826,"Electronic Arts",FALSE
+"1827",1827,"Ubisoft",FALSE
+"1828",1828,"Take-Two Interactive",FALSE
+"1829",1829,"Electronic Arts",FALSE
+"1830",1830,"Activision",FALSE
+"1831",1831,"THQ",FALSE
+"1832",1832,"Take-Two Interactive",FALSE
+"1833",1833,"Sega",FALSE
+"1834",1834,"Konami Digital Entertainment",FALSE
+"1835",1835,"THQ",FALSE
+"1836",1836,"Electronic Arts",FALSE
+"1837",1837,"Konami Digital Entertainment",FALSE
+"1838",1838,"Microsoft Game Studios",FALSE
+"1839",1839,"Take-Two Interactive",FALSE
+"1840",1840,"Konami Digital Entertainment",FALSE
+"1841",1841,"THQ",FALSE
+"1842",1842,"Sony Computer Entertainment",FALSE
+"1843",1843,"THQ",FALSE
+"1844",1844,"Sega",FALSE
+"1845",1845,"Take-Two Interactive",FALSE
+"1846",1846,"Electronic Arts",FALSE
+"1847",1847,"Electronic Arts",FALSE
+"1848",1848,"THQ",FALSE
+"1849",1849,"Take-Two Interactive",FALSE
+"1850",1850,"THQ",FALSE
+"1851",1851,"THQ",FALSE
+"1852",1852,"THQ",FALSE
+"1853",1853,"Ubisoft",FALSE
+"1854",1854,"Sony Computer Entertainment",FALSE
+"1855",1855,"Ubisoft",FALSE
+"1856",1856,"Ubisoft",FALSE
+"1857",1857,"Electronic Arts",FALSE
+"1858",1858,"Sega",FALSE
+"1859",1859,"Take-Two Interactive",FALSE
+"1860",1860,"Activision",FALSE
+"1861",1861,"Microsoft Game Studios",FALSE
+"1862",1862,"THQ",FALSE
+"1863",1863,"Electronic Arts",TRUE
+"1864",1864,"Sega",FALSE
+"1865",1865,"Sega",FALSE
+"1866",1866,"Electronic Arts",FALSE
+"1867",1867,"Sega",FALSE
+"1868",1868,"Sony Computer Entertainment",FALSE
+"1869",1869,"Electronic Arts",FALSE
+"1870",1870,"Electronic Arts",FALSE
+"1871",1871,"Sega",FALSE
+"1872",1872,"Take-Two Interactive",FALSE
+"1873",1873,"Sony Computer Entertainment",FALSE
+"1874",1874,"Electronic Arts",FALSE
+"1875",1875,"Electronic Arts",FALSE
+"1876",1876,"Sony Computer Entertainment",FALSE
+"1877",1877,"Take-Two Interactive",TRUE
+"1878",1878,"Take-Two Interactive",FALSE
+"1879",1879,"Ubisoft",FALSE
+"1880",1880,"Activision",FALSE
+"1881",1881,"Electronic Arts",TRUE
+"1882",1882,"Ubisoft",FALSE
+"1883",1883,"Electronic Arts",FALSE
+"1884",1884,"Electronic Arts",FALSE
+"1885",1885,"Sony Computer Entertainment",FALSE
+"1886",1886,"Ubisoft",FALSE
+"1887",1887,"Sony Computer Entertainment",FALSE
+"1888",1888,"Activision",TRUE
+"1889",1889,"THQ",FALSE
+"1890",1890,"Activision",FALSE
+"1891",1891,"Konami Digital Entertainment",FALSE
+"1892",1892,"Activision",FALSE
+"1893",1893,"Konami Digital Entertainment",FALSE
+"1894",1894,"Take-Two Interactive",FALSE
+"1895",1895,"Ubisoft",FALSE
+"1896",1896,"Sony Computer Entertainment",FALSE
+"1897",1897,"Konami Digital Entertainment",FALSE
+"1898",1898,"Sega",FALSE
+"1899",1899,"Konami Digital Entertainment",FALSE
+"1900",1900,"Take-Two Interactive",FALSE
+"1901",1901,"Sony Computer Entertainment",FALSE
+"1902",1902,"Ubisoft",FALSE
+"1903",1903,"Sega",FALSE
+"1904",1904,"Activision",FALSE
+"1905",1905,"Microsoft Game Studios",FALSE
+"1906",1906,"Sony Computer Entertainment",FALSE
+"1907",1907,"Ubisoft",FALSE
+"1908",1908,"Sega",FALSE
+"1909",1909,"THQ",FALSE
+"1910",1910,"Electronic Arts",FALSE
+"1911",1911,"Konami Digital Entertainment",FALSE
+"1912",1912,"Sega",FALSE
+"1913",1913,"Take-Two Interactive",FALSE
+"1914",1914,"THQ",FALSE
+"1915",1915,"Activision",FALSE
+"1916",1916,"Microsoft Game Studios",FALSE
+"1917",1917,"Sony Computer Entertainment",FALSE
+"1918",1918,"Konami Digital Entertainment",FALSE
+"1919",1919,"Take-Two Interactive",FALSE
+"1920",1920,"Sega",FALSE
+"1921",1921,"Ubisoft",FALSE
+"1922",1922,"Activision",FALSE
+"1923",1923,"Activision",FALSE
+"1924",1924,"THQ",FALSE
+"1925",1925,"Microsoft Game Studios",FALSE
+"1926",1926,"Sony Computer Entertainment",FALSE
+"1927",1927,"Namco Bandai Games",FALSE
+"1928",1928,"THQ",FALSE
+"1929",1929,"Take-Two Interactive",TRUE
+"1930",1930,"Ubisoft",FALSE
+"1931",1931,"Electronic Arts",FALSE
+"1932",1932,"Electronic Arts",FALSE
+"1933",1933,"Take-Two Interactive",FALSE
+"1934",1934,"Electronic Arts",FALSE
+"1935",1935,"THQ",FALSE
+"1936",1936,"Electronic Arts",FALSE
+"1937",1937,"Sega",FALSE
+"1938",1938,"Konami Digital Entertainment",FALSE
+"1939",1939,"Sega",FALSE
+"1940",1940,"Ubisoft",FALSE
+"1941",1941,"Electronic Arts",TRUE
+"1942",1942,"Sega",FALSE
+"1943",1943,"Electronic Arts",FALSE
+"1944",1944,"Electronic Arts",FALSE
+"1945",1945,"Ubisoft",FALSE
+"1946",1946,"THQ",FALSE
+"1947",1947,"Activision",FALSE
+"1948",1948,"Electronic Arts",FALSE
+"1949",1949,"Sega",FALSE
+"1950",1950,"Take-Two Interactive",FALSE
+"1951",1951,"Electronic Arts",FALSE
+"1952",1952,"Activision",FALSE
+"1953",1953,"Microsoft Game Studios",FALSE
+"1954",1954,"Konami Digital Entertainment",FALSE
+"1955",1955,"THQ",FALSE
+"1956",1956,"Ubisoft",FALSE
+"1957",1957,"Ubisoft",FALSE
+"1958",1958,"Konami Digital Entertainment",FALSE
+"1959",1959,"Konami Digital Entertainment",FALSE
+"1960",1960,"Ubisoft",FALSE
+"1961",1961,"Ubisoft",FALSE
+"1962",1962,"Namco Bandai Games",FALSE
+"1963",1963,"Sega",FALSE
+"1964",1964,"THQ",FALSE
+"1965",1965,"Activision",FALSE
+"1966",1966,"Konami Digital Entertainment",FALSE
+"1967",1967,"Namco Bandai Games",FALSE
+"1968",1968,"Microsoft Game Studios",FALSE
+"1969",1969,"Electronic Arts",FALSE
+"1970",1970,"Activision",FALSE
+"1971",1971,"Konami Digital Entertainment",FALSE
+"1972",1972,"Sega",FALSE
+"1973",1973,"Activision",FALSE
+"1974",1974,"Activision",FALSE
+"1975",1975,"Activision",FALSE
+"1976",1976,"Electronic Arts",FALSE
+"1977",1977,"Ubisoft",TRUE
+"1978",1978,"Konami Digital Entertainment",FALSE
+"1979",1979,"Electronic Arts",FALSE
+"1980",1980,"Namco Bandai Games",FALSE
+"1981",1981,"Take-Two Interactive",FALSE
+"1982",1982,"Ubisoft",FALSE
+"1983",1983,"Electronic Arts",FALSE
+"1984",1984,"Konami Digital Entertainment",FALSE
+"1985",1985,"Konami Digital Entertainment",FALSE
+"1986",1986,"Konami Digital Entertainment",TRUE
+"1987",1987,"Sony Computer Entertainment",FALSE
+"1988",1988,"Ubisoft",FALSE
+"1989",1989,"THQ",FALSE
+"1990",1990,"Konami Digital Entertainment",FALSE
+"1991",1991,"Sega",FALSE
+"1992",1992,"Sony Computer Entertainment",FALSE
+"1993",1993,"Activision",FALSE
+"1994",1994,"Activision",FALSE
+"1995",1995,"Activision",TRUE
+"1996",1996,"Electronic Arts",FALSE
+"1997",1997,"Electronic Arts",FALSE
+"1998",1998,"THQ",FALSE
+"1999",1999,"Ubisoft",FALSE
+"2000",2000,"Activision",FALSE
+"2001",2001,"Ubisoft",FALSE
+"2002",2002,"Activision",FALSE
+"2003",2003,"Activision",FALSE
+"2004",2004,"Electronic Arts",FALSE
+"2005",2005,"Electronic Arts",FALSE
+"2006",2006,"Ubisoft",FALSE
+"2007",2007,"Konami Digital Entertainment",FALSE
+"2008",2008,"Microsoft Game Studios",FALSE
+"2009",2009,"Take-Two Interactive",FALSE
+"2010",2010,"Take-Two Interactive",FALSE
+"2011",2011,"Ubisoft",FALSE
+"2012",2012,"Konami Digital Entertainment",FALSE
+"2013",2013,"Konami Digital Entertainment",FALSE
+"2014",2014,"Sega",FALSE
+"2015",2015,"Electronic Arts",FALSE
+"2016",2016,"THQ",FALSE
+"2017",2017,"Microsoft Game Studios",FALSE
+"2018",2018,"Sega",FALSE
+"2019",2019,"Activision",FALSE
+"2020",2020,"THQ",FALSE
+"2021",2021,"Ubisoft",FALSE
+"2022",2022,"THQ",FALSE
+"2023",2023,"Namco Bandai Games",FALSE
+"2024",2024,"Electronic Arts",FALSE
+"2025",2025,"Microsoft Game Studios",FALSE
+"2026",2026,"Sega",FALSE
+"2027",2027,"THQ",FALSE
+"2028",2028,"Take-Two Interactive",FALSE
+"2029",2029,"Microsoft Game Studios",FALSE
+"2030",2030,"Konami Digital Entertainment",FALSE
+"2031",2031,"Microsoft Game Studios",FALSE
+"2032",2032,"Electronic Arts",TRUE
+"2033",2033,"Konami Digital Entertainment",FALSE
+"2034",2034,"Sega",TRUE
+"2035",2035,"Sony Computer Entertainment",FALSE
+"2036",2036,"Activision",FALSE
+"2037",2037,"Konami Digital Entertainment",FALSE
+"2038",2038,"Namco Bandai Games",FALSE
+"2039",2039,"Konami Digital Entertainment",FALSE
+"2040",2040,"Sony Computer Entertainment",FALSE
+"2041",2041,"Electronic Arts",FALSE
+"2042",2042,"Konami Digital Entertainment",FALSE
+"2043",2043,"Konami Digital Entertainment",FALSE
+"2044",2044,"Ubisoft",FALSE
+"2045",2045,"Konami Digital Entertainment",FALSE
+"2046",2046,"THQ",FALSE
+"2047",2047,"Ubisoft",FALSE
+"2048",2048,"Electronic Arts",FALSE
+"2049",2049,"Microsoft Game Studios",FALSE
+"2050",2050,"Sega",FALSE
+"2051",2051,"THQ",FALSE
+"2052",2052,"Ubisoft",FALSE
+"2053",2053,"Electronic Arts",FALSE
+"2054",2054,"Konami Digital Entertainment",FALSE
+"2055",2055,"Ubisoft",FALSE
+"2056",2056,"Activision",TRUE
+"2057",2057,"Sega",FALSE
+"2058",2058,"Ubisoft",FALSE
+"2059",2059,"Electronic Arts",FALSE
+"2060",2060,"Electronic Arts",FALSE
+"2061",2061,"Ubisoft",FALSE
+"2062",2062,"Take-Two Interactive",FALSE
+"2063",2063,"Konami Digital Entertainment",FALSE
+"2064",2064,"Take-Two Interactive",FALSE
+"2065",2065,"Namco Bandai Games",FALSE
+"2066",2066,"Take-Two Interactive",FALSE
+"2067",2067,"Sega",FALSE
+"2068",2068,"Konami Digital Entertainment",FALSE
+"2069",2069,"Electronic Arts",FALSE
+"2070",2070,"Electronic Arts",FALSE
+"2071",2071,"Take-Two Interactive",FALSE
+"2072",2072,"Namco Bandai Games",FALSE
+"2073",2073,"Ubisoft",FALSE
+"2074",2074,"THQ",FALSE
+"2075",2075,"Namco Bandai Games",FALSE
+"2076",2076,"Namco Bandai Games",FALSE
+"2077",2077,"Ubisoft",FALSE
+"2078",2078,"Take-Two Interactive",FALSE
+"2079",2079,"Activision",FALSE
+"2080",2080,"Ubisoft",FALSE
+"2081",2081,"Ubisoft",FALSE
+"2082",2082,"Konami Digital Entertainment",FALSE
+"2083",2083,"Namco Bandai Games",FALSE
+"2084",2084,"Sony Computer Entertainment",FALSE
+"2085",2085,"Electronic Arts",FALSE
+"2086",2086,"Electronic Arts",FALSE
+"2087",2087,"Ubisoft",FALSE
+"2088",2088,"Ubisoft",FALSE
+"2089",2089,"THQ",FALSE
+"2090",2090,"Konami Digital Entertainment",FALSE
+"2091",2091,"Activision",FALSE
+"2092",2092,"Ubisoft",FALSE
+"2093",2093,"Electronic Arts",FALSE
+"2094",2094,"Activision",FALSE
+"2095",2095,"Namco Bandai Games",FALSE
+"2096",2096,"Electronic Arts",FALSE
+"2097",2097,"Sega",FALSE
+"2098",2098,"Namco Bandai Games",FALSE
+"2099",2099,"THQ",FALSE
+"2100",2100,"Take-Two Interactive",FALSE
+"2101",2101,"Konami Digital Entertainment",FALSE
+"2102",2102,"Electronic Arts",FALSE
+"2103",2103,"Konami Digital Entertainment",FALSE
+"2104",2104,"Sega",FALSE
+"2105",2105,"Konami Digital Entertainment",FALSE
+"2106",2106,"Activision",FALSE
+"2107",2107,"Microsoft Game Studios",FALSE
+"2108",2108,"Electronic Arts",FALSE
+"2109",2109,"Sony Computer Entertainment",FALSE
+"2110",2110,"Microsoft Game Studios",FALSE
+"2111",2111,"Namco Bandai Games",FALSE
+"2112",2112,"Konami Digital Entertainment",FALSE
+"2113",2113,"Namco Bandai Games",FALSE
+"2114",2114,"Sony Computer Entertainment",FALSE
+"2115",2115,"Sega",FALSE
+"2116",2116,"THQ",FALSE
+"2117",2117,"Take-Two Interactive",FALSE
+"2118",2118,"Ubisoft",FALSE
+"2119",2119,"Take-Two Interactive",FALSE
+"2120",2120,"Microsoft Game Studios",FALSE
+"2121",2121,"Konami Digital Entertainment",FALSE
+"2122",2122,"Electronic Arts",TRUE
+"2123",2123,"Namco Bandai Games",FALSE
+"2124",2124,"Electronic Arts",TRUE
+"2125",2125,"Electronic Arts",TRUE
+"2126",2126,"Sony Computer Entertainment",FALSE
+"2127",2127,"Microsoft Game Studios",FALSE
+"2128",2128,"Ubisoft",FALSE
+"2129",2129,"Take-Two Interactive",FALSE
+"2130",2130,"Activision",FALSE
+"2131",2131,"Activision",FALSE
+"2132",2132,"Take-Two Interactive",FALSE
+"2133",2133,"Ubisoft",FALSE
+"2134",2134,"Namco Bandai Games",FALSE
+"2135",2135,"Electronic Arts",FALSE
+"2136",2136,"Namco Bandai Games",FALSE
+"2137",2137,"Sega",FALSE
+"2138",2138,"Namco Bandai Games",FALSE
+"2139",2139,"Activision",FALSE
+"2140",2140,"Namco Bandai Games",FALSE
+"2141",2141,"Electronic Arts",TRUE
+"2142",2142,"Microsoft Game Studios",FALSE
+"2143",2143,"Ubisoft",FALSE
+"2144",2144,"Electronic Arts",FALSE
+"2145",2145,"THQ",FALSE
+"2146",2146,"Sega",FALSE
+"2147",2147,"Electronic Arts",FALSE
+"2148",2148,"Electronic Arts",FALSE
+"2149",2149,"Electronic Arts",FALSE
+"2150",2150,"Electronic Arts",FALSE
+"2151",2151,"Electronic Arts",FALSE
+"2152",2152,"THQ",FALSE
+"2153",2153,"Sega",FALSE
+"2154",2154,"Sony Computer Entertainment",FALSE
+"2155",2155,"Electronic Arts",FALSE
+"2156",2156,"Ubisoft",FALSE
+"2157",2157,"Activision",FALSE
+"2158",2158,"Namco Bandai Games",FALSE
+"2159",2159,"Electronic Arts",FALSE
+"2160",2160,"Electronic Arts",FALSE
+"2161",2161,"Sega",FALSE
+"2162",2162,"Konami Digital Entertainment",FALSE
+"2163",2163,"Ubisoft",TRUE
+"2164",2164,"Sony Computer Entertainment",TRUE
+"2165",2165,"Take-Two Interactive",FALSE
+"2166",2166,"Sega",FALSE
+"2167",2167,"Electronic Arts",FALSE
+"2168",2168,"Namco Bandai Games",FALSE
+"2169",2169,"Konami Digital Entertainment",FALSE
+"2170",2170,"Electronic Arts",FALSE
+"2171",2171,"THQ",FALSE
+"2172",2172,"Microsoft Game Studios",FALSE
+"2173",2173,"Activision",FALSE
+"2174",2174,"Electronic Arts",FALSE
+"2175",2175,"Microsoft Game Studios",FALSE
+"2176",2176,"Electronic Arts",FALSE
+"2177",2177,"Electronic Arts",FALSE
+"2178",2178,"Activision",FALSE
+"2179",2179,"Microsoft Game Studios",FALSE
+"2180",2180,"Electronic Arts",FALSE
+"2181",2181,"Ubisoft",FALSE
+"2182",2182,"Electronic Arts",TRUE
+"2183",2183,"Electronic Arts",FALSE
+"2184",2184,"Electronic Arts",TRUE
+"2185",2185,"THQ",FALSE
+"2186",2186,"Activision",FALSE
+"2187",2187,"THQ",FALSE
+"2188",2188,"Ubisoft",FALSE
+"2189",2189,"THQ",FALSE
+"2190",2190,"THQ",FALSE
+"2191",2191,"Activision",FALSE
+"2192",2192,"Microsoft Game Studios",FALSE
+"2193",2193,"Take-Two Interactive",FALSE
+"2194",2194,"Sega",FALSE
+"2195",2195,"Konami Digital Entertainment",TRUE
+"2196",2196,"Ubisoft",FALSE
+"2197",2197,"Namco Bandai Games",FALSE
+"2198",2198,"Ubisoft",FALSE
+"2199",2199,"Ubisoft",FALSE
+"2200",2200,"Electronic Arts",FALSE
+"2201",2201,"Electronic Arts",FALSE
+"2202",2202,"Electronic Arts",FALSE
+"2203",2203,"Electronic Arts",FALSE
+"2204",2204,"THQ",FALSE
+"2205",2205,"Ubisoft",FALSE
+"2206",2206,"THQ",FALSE
+"2207",2207,"Microsoft Game Studios",FALSE
+"2208",2208,"Sega",FALSE
+"2209",2209,"Take-Two Interactive",FALSE
+"2210",2210,"THQ",FALSE
+"2211",2211,"Microsoft Game Studios",FALSE
+"2212",2212,"Konami Digital Entertainment",FALSE
+"2213",2213,"Take-Two Interactive",TRUE
+"2214",2214,"Sega",FALSE
+"2215",2215,"Take-Two Interactive",FALSE
+"2216",2216,"Ubisoft",FALSE
+"2217",2217,"Ubisoft",FALSE
+"2218",2218,"Konami Digital Entertainment",FALSE
+"2219",2219,"Namco Bandai Games",FALSE
+"2220",2220,"Activision",FALSE
+"2221",2221,"THQ",FALSE
+"2222",2222,"Konami Digital Entertainment",FALSE
+"2223",2223,"Microsoft Game Studios",FALSE
+"2224",2224,"Electronic Arts",FALSE
+"2225",2225,"Konami Digital Entertainment",FALSE
+"2226",2226,"Electronic Arts",FALSE
+"2227",2227,"Electronic Arts",FALSE
+"2228",2228,"THQ",FALSE
+"2229",2229,"Ubisoft",FALSE
+"2230",2230,"Sega",FALSE
+"2231",2231,"Activision",FALSE
+"2232",2232,"Namco Bandai Games",FALSE
+"2233",2233,"Activision",FALSE
+"2234",2234,"Microsoft Game Studios",FALSE
+"2235",2235,"Ubisoft",FALSE
+"2236",2236,"THQ",FALSE
+"2237",2237,"Ubisoft",FALSE
+"2238",2238,"Microsoft Game Studios",FALSE
+"2239",2239,"Ubisoft",FALSE
+"2240",2240,"Activision",FALSE
+"2241",2241,"Activision",FALSE
+"2242",2242,"Ubisoft",FALSE
+"2243",2243,"Ubisoft",FALSE
+"2244",2244,"Konami Digital Entertainment",FALSE
+"2245",2245,"Ubisoft",FALSE
+"2246",2246,"Electronic Arts",FALSE
+"2247",2247,"Sega",FALSE
+"2248",2248,"Take-Two Interactive",TRUE
+"2249",2249,"Ubisoft",FALSE
+"2250",2250,"Activision",FALSE
+"2251",2251,"Ubisoft",FALSE
+"2252",2252,"Activision",FALSE
+"2253",2253,"Sony Computer Entertainment",FALSE
+"2254",2254,"Take-Two Interactive",FALSE
+"2255",2255,"Electronic Arts",FALSE
+"2256",2256,"Take-Two Interactive",FALSE
+"2257",2257,"Electronic Arts",FALSE
+"2258",2258,"Electronic Arts",FALSE
+"2259",2259,"Sega",FALSE
+"2260",2260,"Electronic Arts",FALSE
+"2261",2261,"Electronic Arts",FALSE
+"2262",2262,"Take-Two Interactive",FALSE
+"2263",2263,"Electronic Arts",FALSE
+"2264",2264,"Electronic Arts",FALSE
+"2265",2265,"Microsoft Game Studios",FALSE
+"2266",2266,"Electronic Arts",FALSE
+"2267",2267,"Konami Digital Entertainment",FALSE
+"2268",2268,"Microsoft Game Studios",FALSE
+"2269",2269,"Sony Computer Entertainment",FALSE
+"2270",2270,"Ubisoft",FALSE
+"2271",2271,"Electronic Arts",FALSE
+"2272",2272,"Ubisoft",FALSE
+"2273",2273,"Ubisoft",FALSE
+"2274",2274,"Ubisoft",FALSE
+"2275",2275,"Namco Bandai Games",FALSE
+"2276",2276,"Activision",FALSE
+"2277",2277,"THQ",FALSE
+"2278",2278,"Ubisoft",FALSE
+"2279",2279,"Take-Two Interactive",FALSE
+"2280",2280,"Electronic Arts",FALSE
+"2281",2281,"Namco Bandai Games",FALSE
+"2282",2282,"Ubisoft",FALSE
+"2283",2283,"Electronic Arts",FALSE
+"2284",2284,"Sega",FALSE
+"2285",2285,"Electronic Arts",FALSE
+"2286",2286,"Electronic Arts",FALSE
+"2287",2287,"Activision",FALSE
+"2288",2288,"Take-Two Interactive",FALSE
+"2289",2289,"Konami Digital Entertainment",TRUE
+"2290",2290,"Konami Digital Entertainment",FALSE
+"2291",2291,"Activision",FALSE
+"2292",2292,"Activision",FALSE
+"2293",2293,"Sega",FALSE
+"2294",2294,"Sega",FALSE
+"2295",2295,"Take-Two Interactive",FALSE
+"2296",2296,"Ubisoft",FALSE
+"2297",2297,"Electronic Arts",FALSE
+"2298",2298,"Namco Bandai Games",FALSE
+"2299",2299,"Ubisoft",FALSE
+"2300",2300,"Electronic Arts",FALSE
+"2301",2301,"THQ",FALSE
+"2302",2302,"Ubisoft",FALSE
+"2303",2303,"THQ",FALSE
+"2304",2304,"THQ",FALSE
+"2305",2305,"Electronic Arts",TRUE
+"2306",2306,"Ubisoft",FALSE
+"2307",2307,"Activision",FALSE
+"2308",2308,"Ubisoft",FALSE
+"2309",2309,"Konami Digital Entertainment",FALSE
+"2310",2310,"Sony Computer Entertainment",FALSE
+"2311",2311,"Microsoft Game Studios",FALSE
+"2312",2312,"Sony Computer Entertainment",FALSE
+"2313",2313,"Microsoft Game Studios",FALSE
+"2314",2314,"Ubisoft",FALSE
+"2315",2315,"Take-Two Interactive",FALSE
+"2316",2316,"Microsoft Game Studios",FALSE
+"2317",2317,"THQ",FALSE
+"2318",2318,"Activision",FALSE
+"2319",2319,"Ubisoft",FALSE
+"2320",2320,"Activision",FALSE
+"2321",2321,"Microsoft Game Studios",TRUE
+"2322",2322,"Electronic Arts",FALSE
+"2323",2323,"Namco Bandai Games",FALSE
+"2324",2324,"Take-Two Interactive",TRUE
+"2325",2325,"Ubisoft",FALSE
+"2326",2326,"Ubisoft",FALSE
+"2327",2327,"Take-Two Interactive",FALSE
+"2328",2328,"THQ",TRUE
+"2329",2329,"Microsoft Game Studios",FALSE
+"2330",2330,"Take-Two Interactive",FALSE
+"2331",2331,"Electronic Arts",TRUE
+"2332",2332,"Electronic Arts",FALSE
+"2333",2333,"Electronic Arts",FALSE
+"2334",2334,"Microsoft Game Studios",FALSE
+"2335",2335,"Activision",FALSE
+"2336",2336,"Electronic Arts",FALSE
+"2337",2337,"Activision",FALSE
+"2338",2338,"Electronic Arts",TRUE
+"2339",2339,"Activision",FALSE
+"2340",2340,"Namco Bandai Games",FALSE
+"2341",2341,"Ubisoft",FALSE
+"2342",2342,"THQ",FALSE
+"2343",2343,"Konami Digital Entertainment",FALSE
+"2344",2344,"Activision",FALSE
+"2345",2345,"Sega",FALSE
+"2346",2346,"Activision",FALSE
+"2347",2347,"Namco Bandai Games",TRUE
+"2348",2348,"Konami Digital Entertainment",FALSE
