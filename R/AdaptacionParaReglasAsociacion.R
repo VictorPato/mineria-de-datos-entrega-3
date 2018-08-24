@@ -312,7 +312,7 @@ sinna["Genre"] <- NULL
 sinna["Platform"] <- NULL
 sinna["Year_of_Release"] <- NULL
 
-write.csv(sinna, file = "../data/singeneroplataformaa?o.csv")
+write.csv(sinna, file = "../data/singeneroplataformaano.csv")
 
 
 # se eliminan el n?mero de cr?ticas
